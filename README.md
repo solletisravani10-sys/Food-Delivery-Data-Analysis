@@ -70,11 +70,5 @@ This project helps understand food delivery business performance through interac
 
 ## Dashboard Preview
 
-![Food Delivery Dashboard](Dashboard_Screenshots/dashboard.png)
+!(Dashboard_Screenshots/dashboard.png)
 
-## Author
-BCA Student | Data Analytics Project
-
-
-## Author
-BCA Student | Data Analytics Project
