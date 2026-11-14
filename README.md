@@ -70,5 +70,5 @@ This project helps understand food delivery business performance through interac
 
 ## Dashboard Preview
 
-!(Dashboard_Screenshots/dashboard.png)
+![Food Delivery Dashboard](./Dashboard_Screenshots/dashboard.png)
 
