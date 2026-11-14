@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Order_Time,Customer_ID,Customer_Name,Restaurant_Name,City,Food_Category,Quantity,Unit_Price,Discount,Amount,Sales,Order_Status,Payment_Mode,Delivery_Time,Customer_Rating,Delivery_Partner
+FD10756,2025-01-01,11:45,C0301,Customer_0004,Biryani House,Delhi,North Indian,3,179,0,537,537,Delivered,Wallet,44.0,3.4,DP072
+FD10678,2025-01-01,14:00,C0060,Customer_0250,Biryani House,Chennai,Pizza,4,229,30,886,886,Delivered,Debit Card,44.0,4.5,DP072
+FD10849,2025-01-01,15:30,C0213,Customer_0188,Tandoori Treats,Delhi,Healthy Food,3,399,30,1167,1167,Delivered,UPI,33.0,4.3,DP018
+FD10447,2025-01-01,16:30,C0236,Customer_0116,Burger Hub,Hyderabad,Chinese,1,499,0,499,499,Delivered,UPI,29.0,4.7,DP062
+FD10992,2025-01-01,19:30,C0353,Customer_0300, dosa Point,Hyderabad,Pizza,3,99,10,287,287,Pending,Wallet,,,Not Assigned
+FD11165,2025-01-01,21:30,C0172,Customer_0255,Burger Hub,Pune,Desserts,3,149,0,447,447,Pending,Debit Card,,,Not Assigned
+FD10649,2025-01-01,22:45,C0051,Customer_0379,Biryani House,Delhi,Desserts,2,399,50,748,748,Pending,UPI,,,Not Assigned
+FD11029,2025-01-01,23:30,C0370,Customer_0289,Tandoori Treats,Chennai,Chinese,1,129,50,79,79,Delivered,Cash,38.0,4.9,DP046
+FD10064,2025-01-02,10:30,C0235,Customer_0227,Noodle Street,Bengaluru,Chinese,1,499,30,469,469,Pending,Credit Card,,,Not Assigned
+FD10264,2025-01-02,13:00,C0174,Customer_0152, dosa Point,Kolkata,Burger,2,249,30,468,468,Cancelled,Credit Card,,,Not Assigned
+FD10207,2025-01-02,17:15,C0166,Customer_0284,Noodle Street,Vijayawada,North Indian,2,129,0,258,258,Delivered,Credit Card,18.0,5.0,DP060
+FD10896,2025-01-03,21:45,C0014,Customer_0389,Cafe Delight,Delhi,Desserts,1,229,10,219,219,Delivered,Wallet,35.0,5.0,DP075
+FD10326,2025-01-04,10:15,C0246,Customer_0090,Spice Garden,Pune,Chinese,1,399,0,399,399,Delivered,Cash,38.0,4.8,DP049
+FD10497,2025-01-04,11:15,C0047,Customer_0094,Biryani House,Mumbai,South Indian,1,449,10,439,439,Delivered,Cash,38.0,4.6,DP068
+FD10969,2025-01-04,14:00,C0314,Customer_0351,Green Bowl,Pune,South Indian,1,179,50,129,129,Cancelled,Debit Card,,,Not Assigned
+FD10949,2025-01-04,17:00,C0117,Customer_0241, dosa Point,Vijayawada,Pizza,3,229,0,687,687,Delivered,Credit Card,30.0,5.0,DP042
+FD11092,2025-01-05,08:15,C0071,Customer_0273,Burger Hub,Delhi,Chinese,2,499,10,988,988,Delivered,Debit Card,27.0,3.8,DP050
+FD10416,2025-01-05,10:45,C0338,Customer_0366,Pizza Corner,Delhi,Pizza,1,99,30,69,69,Delivered,UPI,42.0,4.0,DP064
+FD10843,2025-01-05,15:45,C0244,Customer_0149,Pizza Corner,Pune,South Indian,1,99,30,69,69,Delivered,Credit Card,30.0,4.7,DP013
+FD10129,2025-01-05,19:45,C0182,Customer_0206,Cafe Delight,Chennai,Healthy Food,2,229,50,408,408,Delivered,Cash,25.0,3.6,DP060
+FD10721,2025-01-05,20:00,C0346,Customer_0248,Tandoori Treats,Mumbai,Biryani,4,99,50,346,346,Cancelled,UPI,,,Not Assigned
+FD11045,2025-01-05,20:15,C0389,Customer_0067,Tandoori Treats,Delhi,Pizza,2,399,30,768,768,Delivered,Wallet,29.0,2.5,DP023
+FD10614,2025-01-05,23:15,C0335,Customer_0266, dosa Point,Delhi,Biryani,3,129,20,367,367,Delivered,Debit Card,42.0,3.1,DP017
+FD10742,2025-01-06,10:15,C0207,Customer_0111,Spice Garden,Chennai,Burger,1,99,30,69,69,Delivered,Wallet,29.0,3.3,DP057
+FD10335,2025-01-06,13:00,C0156,Customer_0005,Cafe Delight,Delhi,Pizza,4,299,30,1166,1166,Delivered,UPI,18.0,3.8,DP019
+FD10965,2025-01-06,20:15,C0031,Customer_0162,Pizza Corner,Bengaluru,Pizza,3,99,0,297,297,Delivered,Credit Card,36.0,5.0,DP062
+FD10935,2025-01-06,21:00,C0091,Customer_0177,Spice Garden,Kolkata,North Indian,3,149,30,417,417,Cancelled,Debit Card,,,Not Assigned
+FD10606,2025-01-07,15:00,C0196,Customer_0343,Noodle Street,Hyderabad,South Indian,1,129,0,129,129,Delivered,UPI,37.0,4.4,DP030
+FD10895,2025-01-07,20:00,C0328,Customer_0360,Spice Garden,Vijayawada,Pizza,3,349,50,997,997,Pending,UPI,,,Not Assigned
+FD10688,2025-01-08,12:30,C0020,Customer_0014,Biryani House,Bengaluru,Desserts,1,499,50,449,449,Delivered,Credit Card,51.0,4.3,DP080
+FD10829,2025-01-08,19:00,C0307,Customer_0047,South Meals,Vijayawada,Healthy Food,2,99,50,148,148,Pending,UPI,,,Not Assigned
+FD10876,2025-01-08,21:30,C0167,Customer_0123, dosa Point,Kolkata,Biryani,4,149,0,596,596,Delivered,Cash,35.0,4.2,DP052
+FD10098,2025-01-09,10:00,C0376,Customer_0059,Spice Garden,Pune,Pizza,2,99,20,178,178,Delivered,UPI,38.0,4.8,DP019
+FD10602,2025-01-09,10:30,C0095,Customer_0348,Tandoori Treats,Pune,Burger,4,249,0,996,996,Pending,Credit Card,,,Not Assigned
+FD10270,2025-01-09,22:00,C0079,Customer_0236,Noodle Street,Delhi,Pizza,2,349,0,698,698,Cancelled,Credit Card,,,Not Assigned
+FD11004,2025-01-10,08:45,C0214,Customer_0376,Biryani House,Chennai,South Indian,5,499,0,2495,2495,Delivered,Wallet,43.0,4.6,DP048
+FD10485,2025-01-10,13:45,C0241,Customer_0028,Tandoori Treats,Vijayawada,North Indian,1,179,0,179,179,Cancelled,Debit Card,,,Not Assigned
+FD10715,2025-01-10,20:00,C0303,Customer_0265,Pizza Corner,Bengaluru,Burger,3,499,50,1447,1447,Pending,Wallet,,,Not Assigned
+FD11091,2025-01-10,22:45,C0165,Customer_0221,Biryani House,Delhi,Desserts,2,399,20,778,778,Delivered,Cash,27.0,3.8,DP052
+FD11123,2025-01-11,11:30,C0134,Customer_0171,Cafe Delight,Delhi,North Indian,1,299,0,299,299,Delivered,UPI,43.0,3.6,DP058
+FD10682,2025-01-12,09:45,C0334,Customer_0284,Green Bowl,Hyderabad,Burger,2,349,10,688,688,Delivered,Cash,38.0,3.5,DP063
+FD10519,2025-01-12,13:45,C0277,Customer_0320,South Meals,Hyderabad,Desserts,1,249,0,249,249,Cancelled,UPI,,,Not Assigned
+FD10852,2025-01-12,21:45,C0207,Customer_0091,Green Bowl,Chennai,Healthy Food,2,99,10,188,188,Delivered,Debit Card,30.0,4.3,DP074
+FD10152,2025-01-13,12:45,C0192,Customer_0392,Cafe Delight,Mumbai,Pizza,1,199,10,189,189,Delivered,Cash,31.0,3.8,DP049
+FD10555,2025-01-13,16:45,C0121,Customer_0197,Green Bowl,Hyderabad,Pizza,2,99,10,188,188,Cancelled,Credit Card,,,Not Assigned
+FD10379,2025-01-13,17:00,C0106,Customer_0032, dosa Point,Chennai,Biryani,2,249,30,468,468,Delivered,Wallet,46.0,3.6,DP045
+FD11008,2025-01-13,17:00,C0003,Customer_0068,Green Bowl,Delhi,Pizza,1,299,20,279,279,Pending,Cash,,,Not Assigned
+FD10917,2025-01-13,18:00,C0005,Customer_0034,Cafe Delight,Bengaluru,Healthy Food,3,399,0,1197,1197,Pending,UPI,,,Not Assigned
+FD10892,2025-01-14,08:15,C0395,Customer_0281,Burger Hub,Chennai,Chinese,1,149,10,139,139,Pending,Wallet,,,Not Assigned
+FD10676,2025-01-14,10:45,C0353,Customer_0396,Pizza Corner,Chennai,South Indian,2,249,20,478,478,Delivered,Credit Card,31.0,4.1,DP067
+FD10051,2025-01-14,13:15,C0398,Customer_0188,Pizza Corner,Delhi,North Indian,3,179,30,507,507,Pending,Debit Card,,,Not Assigned
+FD10886,2025-01-14,15:00,C0202,Customer_0244,Spice Garden,Bengaluru,Chinese,4,249,0,996,996,Cancelled,Credit Card,,,Not Assigned
+FD11058,2025-01-14,17:30,C0220,Customer_0257,Biryani House,Kolkata,Desserts,1,179,50,129,129,Cancelled,Credit Card,,,Not Assigned
+FD10093,2025-01-15,08:30,C0076,Customer_0368,Tandoori Treats,Vijayawada,Biryani,1,349,20,329,329,Pending,UPI,,,Not Assigned
+FD11078,2025-01-15,11:00,C0299,Customer_0236,Biryani House,Pune,Pizza,1,149,0,149,149,Delivered,UPI,19.0,4.4,DP021
+FD10135,2025-01-15,11:45,C0062,Customer_0294,Noodle Street,Kolkata,Burger,2,399,50,748,748,Delivered,Debit Card,35.0,4.5,DP061
+FD11104,2025-01-15,13:15,C0009,Customer_0287,Pizza Corner,Vijayawada,Chinese,3,129,30,357,357,Delivered,Debit Card,34.0,3.9,DP074
+FD10904,2025-01-15,13:45,C0032,Customer_0093,Tandoori Treats,Hyderabad,North Indian,4,179,50,666,666,Delivered,Cash,42.0,3.6,DP036
+FD10498,2025-01-16,11:45,C0102,Customer_0106,Tandoori Treats,Mumbai,Pizza,2,349,10,688,688,Delivered,Debit Card,45.0,3.4,DP077
+FD10330,2025-01-17,08:00,C0045,Customer_0206,South Meals,Mumbai,South Indian,1,199,50,149,149,Delivered,Cash,47.0,4.0,DP019
+FD11184,2025-01-17,18:00,C0357,Customer_0008,Biryani House,Pune,Healthy Food,1,399,0,399,399,Delivered,UPI,18.0,3.8,DP003
+FD10353,2025-01-18,14:30,C0020,Customer_0226,Pizza Corner,Vijayawada,Biryani,2,449,20,878,878,Cancelled,Cash,,,Not Assigned
+FD10567,2025-01-19,16:30,C0214,Customer_0050,Cafe Delight,Mumbai,Biryani,3,199,10,587,587,Delivered,UPI,27.0,5.0,DP050
+FD10637,2025-01-19,17:30,C0005,Customer_0257,Green Bowl,Pune,Burger,3,249,0,747,747,Delivered,Debit Card,19.0,4.2,DP080
+FD10384,2025-01-20,15:45,C0003,Customer_0068,Noodle Street,Chennai,North Indian,3,349,20,1027,1027,Pending,Cash,,,Not Assigned
+FD10988,2025-01-20,15:45,C0353,Customer_0201,Spice Garden,Vijayawada,Pizza,2,99,30,168,168,Delivered,Credit Card,51.0,3.8,DP009
+FD10672,2025-01-20,20:00,C0395,Customer_0044,Burger Hub,Hyderabad,South Indian,2,299,20,578,578,Delivered,Cash,26.0,4.6,DP078
+FD10045,2025-01-21,09:15,C0203,Customer_0192,Noodle Street,Chennai,Pizza,2,449,0,898,898,Pending,UPI,,,Not Assigned
+FD10007,2025-01-21,11:45,C0104,Customer_0210, dosa Point,Mumbai,South Indian,2,199,50,348,348,Delivered,Cash,43.0,4.0,DP002
+FD10026,2025-01-22,15:30,C0295,Customer_0341,Biryani House,Bengaluru,Desserts,1,99,30,69,69,Delivered,Credit Card,31.0,4.6,DP054
+FD10308,2025-01-22,19:45,C0014,Customer_0240,Green Bowl,Hyderabad,North Indian,3,199,10,587,587,Delivered,Wallet,34.0,3.5,DP050
+FD10847,2025-01-22,20:15,C0100,Customer_0294,Biryani House,Mumbai,Healthy Food,4,299,0,1196,1196,Delivered,UPI,47.0,3.8,DP006
+FD11063,2025-01-23,14:15,C0226,Customer_0246,Cafe Delight,Kolkata,South Indian,1,199,0,199,199,Delivered,Credit Card,55.0,4.2,DP025
+FD10483,2025-01-23,18:45,C0230,Customer_0101,Pizza Corner,Hyderabad,Pizza,1,179,20,159,159,Delivered,Credit Card,48.0,4.4,DP001
+FD11130,2025-01-23,19:45,C0155,Customer_0079,South Meals,Pune,Pizza,2,129,20,238,238,Delivered,Credit Card,28.0,3.1,DP048
+FD10748,2025-01-23,20:30,C0138,Customer_0242,Tandoori Treats,Delhi,North Indian,1,399,50,349,349,Delivered,Wallet,37.0,4.2,DP057
+FD10915,2025-01-25,08:30,C0236,Customer_0166, dosa Point,Mumbai,Desserts,1,499,30,469,469,Pending,Wallet,,,Not Assigned
+FD10919,2025-01-25,10:00,C0270,Customer_0015,South Meals,Hyderabad,South Indian,2,199,10,388,388,Delivered,Debit Card,31.0,4.0,DP009
+FD10581,2025-01-25,12:45,C0174,Customer_0345,Pizza Corner,Pune,Pizza,2,349,50,648,648,Delivered,Cash,63.0,4.7,DP080
+FD11178,2025-01-25,20:00,C0144,Customer_0184,Burger Hub,Chennai,Pizza,1,199,0,199,199,Pending,Wallet,,,Not Assigned
+FD11191,2025-01-25,23:00,C0374,Customer_0196,Cafe Delight,Hyderabad,Burger,1,149,30,119,119,Delivered,Credit Card,31.0,3.9,DP023
+FD10873,2025-01-26,08:00,C0090,Customer_0264,Cafe Delight,Vijayawada,South Indian,3,349,10,1037,1037,Delivered,Credit Card,33.0,4.1,DP017
+FD10376,2025-01-26,10:15,C0169,Customer_0022,Pizza Corner,Delhi,South Indian,2,179,10,348,348,Delivered,Cash,31.0,4.9,DP047
+FD10978,2025-01-26,23:30,C0379,Customer_0313, dosa Point,Chennai,Chinese,4,399,50,1546,1546,Delivered,Wallet,33.0,4.1,DP079
+FD10317,2025-01-27,17:45,C0258,Customer_0127,Biryani House,Kolkata,Pizza,4,499,10,1986,1986,Delivered,Credit Card,49.0,3.0,DP076
+FD10110,2025-01-28,13:45,C0164,Customer_0319,Cafe Delight,Pune,Burger,2,129,30,228,228,Delivered,Credit Card,33.0,4.7,DP065
+FD10697,2025-01-28,18:45,C0231,Customer_0372,Noodle Street,Kolkata,Biryani,1,179,30,149,149,Delivered,UPI,39.0,3.9,DP021
+FD10165,2025-01-28,21:15,C0227,Customer_0331,Pizza Corner,Vijayawada,Biryani,1,349,10,339,339,Delivered,Cash,33.0,4.3,DP078
+FD10907,2025-01-28,21:30,C0276,Customer_0127, dosa Point,Hyderabad,Chinese,3,129,10,377,377,Delivered,Cash,38.0,2.7,DP074
+FD10887,2025-01-28,23:45,C0361,Customer_0104,Spice Garden,Chennai,South Indian,1,149,20,129,129,Cancelled,UPI,,,Not Assigned
+FD10615,2025-01-29,15:30,C0097,Customer_0375,Green Bowl,Hyderabad,Desserts,3,129,10,377,377,Delivered,Cash,47.0,5.0,DP022
+FD10150,2025-01-29,16:30,C0119,Customer_0268,Spice Garden,Bengaluru,Desserts,2,199,30,368,368,Pending,Credit Card,,,Not Assigned
+FD11153,2025-01-29,20:30,C0368,Customer_0230, dosa Point,Vijayawada,Desserts,1,129,10,119,119,Delivered,Wallet,38.0,4.6,DP058
+FD10802,2025-01-30,20:45,C0186,Customer_0078,Green Bowl,Mumbai,Biryani,1,249,0,249,249,Pending,Cash,,,Not Assigned
+FD10960,2025-01-31,19:15,C0169,Customer_0335, dosa Point,Mumbai,Desserts,2,229,0,458,458,Delivered,Wallet,32.0,4.3,DP071
+FD10306,2025-02-02,13:15,C0197,Customer_0019,Pizza Corner,Mumbai,Biryani,1,129,0,129,129,Cancelled,Credit Card,,,Not Assigned
+FD10508,2025-02-02,21:00,C0196,Customer_0152,South Meals,Chennai,Desserts,4,349,20,1376,1376,Cancelled,UPI,,,Not Assigned
+FD10115,2025-02-02,23:15,C0303,Customer_0084,Burger Hub,Chennai,South Indian,1,399,10,389,389,Cancelled,Wallet,,,Not Assigned
+FD10815,2025-02-03,12:45,C0039,Customer_0220,Burger Hub,Mumbai,Biryani,2,299,0,598,598,Delivered,Wallet,33.0,3.5,DP051
+FD10928,2025-02-03,16:45,C0051,Customer_0112, dosa Point,Kolkata,Biryani,3,299,30,867,867,Pending,Cash,,,Not Assigned
+FD10855,2025-02-03,21:15,C0025,Customer_0342,Pizza Corner,Mumbai,Healthy Food,3,129,30,357,357,Delivered,Debit Card,42.0,3.1,DP039
+FD10762,2025-02-03,21:30,C0289,Customer_0371,Noodle Street,Pune,Healthy Food,2,499,10,988,988,Delivered,UPI,46.0,3.8,DP048
+FD11028,2025-02-04,09:30,C0232,Customer_0021,Tandoori Treats,Kolkata,Healthy Food,2,199,0,398,398,Delivered,Debit Card,44.0,4.9,DP008
+FD10059,2025-02-04,14:00,C0218,Customer_0316,Noodle Street,Vijayawada,Healthy Food,2,229,10,448,448,Delivered,Credit Card,38.0,3.7,DP047
+FD10524,2025-02-04,14:45,C0240,Customer_0359,Burger Hub,Kolkata,South Indian,1,99,30,69,69,Delivered,UPI,43.0,4.7,DP037
+FD10327,2025-02-04,15:00,C0367,Customer_0168,Burger Hub,Chennai,Pizza,1,179,50,129,129,Delivered,UPI,36.0,5.0,DP080
+FD10709,2025-02-04,18:00,C0057,Customer_0083,Spice Garden,Bengaluru,North Indian,1,199,50,149,149,Delivered,Debit Card,27.0,3.1,DP070
+FD10124,2025-02-04,23:45,C0305,Customer_0007, dosa Point,Bengaluru,Healthy Food,2,299,0,598,598,Delivered,Wallet,31.0,3.2,DP065
+FD10151,2025-02-05,09:30,C0058,Customer_0290,South Meals,Hyderabad,Chinese,4,149,30,566,566,Delivered,Credit Card,32.0,5.0,DP032
+FD10963,2025-02-05,20:00,C0214,Customer_0032, dosa Point,Pune,Chinese,2,229,20,438,438,Delivered,UPI,46.0,4.1,DP039
+FD10546,2025-02-05,20:15,C0311,Customer_0045,Spice Garden,Delhi,Burger,2,299,50,548,548,Delivered,Wallet,21.0,5.0,DP052
+FD10382,2025-02-05,21:45,C0313,Customer_0196,Tandoori Treats,Pune,Biryani,1,399,0,399,399,Delivered,Cash,43.0,3.7,DP052
+FD10338,2025-02-06,09:45,C0258,Customer_0063,South Meals,Chennai,Biryani,2,399,0,798,798,Delivered,Wallet,32.0,4.1,DP039
+FD10552,2025-02-06,12:15,C0159,Customer_0080,Noodle Street,Vijayawada,Chinese,2,229,50,408,408,Delivered,UPI,26.0,3.2,DP077
+FD10268,2025-02-06,17:00,C0270,Customer_0368,Spice Garden,Mumbai,Desserts,2,99,0,198,198,Cancelled,Cash,,,Not Assigned
+FD11127,2025-02-07,12:45,C0349,Customer_0131,Cafe Delight,Bengaluru,Desserts,3,399,0,1197,1197,Pending,Credit Card,,,Not Assigned
+FD11084,2025-02-07,16:00,C0034,Customer_0228,Noodle Street,Kolkata,Chinese,3,229,10,677,677,Delivered,Wallet,49.0,4.1,DP072
+FD11018,2025-02-07,19:00,C0353,Customer_0282,Green Bowl,Pune,Pizza,2,399,10,788,788,Delivered,Wallet,12.0,4.3,DP035
+FD10311,2025-02-07,19:15,C0180,Customer_0032, dosa Point,Hyderabad,Biryani,3,179,10,527,527,Delivered,Debit Card,36.0,3.1,DP023
+FD10996,2025-02-07,20:30,C0327,Customer_0007,Biryani House,Bengaluru,Chinese,3,399,0,1197,1197,Pending,Credit Card,,,Not Assigned
+FD10909,2025-02-08,09:15,C0332,Customer_0061, dosa Point,Pune,Healthy Food,1,399,10,389,389,Pending,Cash,,,Not Assigned
+FD10586,2025-02-08,12:15,C0024,Customer_0234,Biryani House,Delhi,Healthy Food,4,249,0,996,996,Delivered,Cash,30.0,3.5,DP030
+FD10638,2025-02-08,16:00,C0089,Customer_0058,South Meals,Kolkata,Biryani,2,149,50,248,248,Delivered,UPI,34.0,4.6,DP037
+FD10250,2025-02-08,18:45,C0025,Customer_0058,Pizza Corner,Bengaluru,Chinese,1,199,30,169,169,Cancelled,Debit Card,,,Not Assigned
+FD10477,2025-02-08,19:15,C0007,Customer_0272,Spice Garden,Chennai,North Indian,1,249,0,249,249,Pending,Debit Card,,,Not Assigned
+FD11072,2025-02-08,20:30,C0154,Customer_0053,Burger Hub,Delhi,Desserts,2,349,0,698,698,Cancelled,UPI,,,Not Assigned
+FD10766,2025-02-08,20:45,C0172,Customer_0272,Green Bowl,Pune,Pizza,2,129,0,258,258,Delivered,Credit Card,31.0,3.8,DP047
+FD10373,2025-02-08,21:00,C0204,Customer_0007,Spice Garden,Hyderabad,Biryani,2,149,20,278,278,Delivered,Wallet,34.0,5.0,DP048
+FD10961,2025-02-09,14:45,C0331,Customer_0056,South Meals,Chennai,Pizza,3,499,0,1497,1497,Delivered,Cash,46.0,2.6,DP010
+FD10091,2025-02-10,10:45,C0241,Customer_0321,Noodle Street,Chennai,South Indian,2,179,50,308,308,Delivered,UPI,37.0,3.4,DP066
+FD10109,2025-02-10,12:30,C0296,Customer_0203,Pizza Corner,Chennai,Chinese,1,99,0,99,99,Pending,Credit Card,,,Not Assigned
+FD10700,2025-02-10,19:00,C0087,Customer_0142,Green Bowl,Bengaluru,Healthy Food,1,199,0,199,199,Delivered,Cash,39.0,3.3,DP012
+FD10933,2025-02-11,09:15,C0365,Customer_0113,Spice Garden,Vijayawada,North Indian,1,499,30,469,469,Cancelled,Credit Card,,,Not Assigned
+FD11077,2025-02-11,16:30,C0036,Customer_0246,Noodle Street,Pune,Biryani,3,399,0,1197,1197,Delivered,Wallet,30.0,5.0,DP073
+FD11052,2025-02-11,17:00,C0216,Customer_0312,Spice Garden,Mumbai,Biryani,1,129,0,129,129,Delivered,UPI,12.0,4.3,DP028
+FD10137,2025-02-11,17:30,C0028,Customer_0392,Spice Garden,Delhi,Healthy Food,5,299,10,1485,1485,Delivered,Wallet,26.0,5.0,DP021
+FD10589,2025-02-11,20:30,C0166,Customer_0191,Spice Garden,Chennai,North Indian,1,499,0,499,499,Delivered,UPI,22.0,3.8,DP078
+FD10516,2025-02-12,17:30,C0295,Customer_0156,Biryani House,Kolkata,Burger,1,249,0,249,249,Delivered,Credit Card,40.0,3.9,DP043
+FD10821,2025-02-12,21:30,C0328,Customer_0397,Tandoori Treats,Bengaluru,Chinese,3,99,10,287,287,Delivered,Cash,59.0,4.6,DP052
+FD10517,2025-02-13,10:45,C0109,Customer_0317,Cafe Delight,Mumbai,Chinese,1,179,20,159,159,Delivered,Debit Card,42.0,5.0,DP058
+FD10657,2025-02-13,14:00,C0125,Customer_0337,Biryani House,Chennai,Pizza,2,229,20,438,438,Delivered,Debit Card,43.0,4.2,DP056
+FD10071,2025-02-13,19:15,C0199,Customer_0362,Noodle Street,Hyderabad,Biryani,2,499,30,968,968,Delivered,Credit Card,42.0,3.5,DP045
+FD10167,2025-02-13,23:15,C0056,Customer_0390,Green Bowl,Hyderabad,Chinese,2,99,0,198,198,Cancelled,Wallet,,,Not Assigned
+FD10161,2025-02-14,17:30,C0013,Customer_0045, dosa Point,Hyderabad,Biryani,1,199,0,199,199,Delivered,Cash,27.0,3.5,DP077
+FD10854,2025-02-15,09:00,C0026,Customer_0292,Tandoori Treats,Delhi,Desserts,4,349,30,1366,1366,Delivered,Credit Card,29.0,5.0,DP059
+FD10708,2025-02-15,15:45,C0034,Customer_0070,Spice Garden,Vijayawada,Biryani,1,129,50,79,79,Delivered,UPI,31.0,5.0,DP020
+FD10334,2025-02-15,23:45,C0313,Customer_0385,Tandoori Treats,Hyderabad,Burger,3,99,30,267,267,Cancelled,Wallet,,,Not Assigned
+FD10673,2025-02-16,10:00,C0144,Customer_0266,Pizza Corner,Chennai,Burger,1,349,20,329,329,Delivered,Debit Card,21.0,4.2,DP059
+FD10991,2025-02-16,10:15,C0229,Customer_0152,Spice Garden,Mumbai,South Indian,1,349,0,349,349,Delivered,Cash,46.0,4.8,DP073
+FD10862,2025-02-16,16:15,C0335,Customer_0167,Spice Garden,Bengaluru,North Indian,1,249,0,249,249,Delivered,UPI,41.0,3.5,DP070
+FD10471,2025-02-16,16:45,C0376,Customer_0257,Burger Hub,Hyderabad,North Indian,1,129,0,129,129,Delivered,Cash,40.0,5.0,DP061
+FD11109,2025-02-16,17:30,C0178,Customer_0320,Green Bowl,Vijayawada,Burger,1,99,0,99,99,Pending,Wallet,,,Not Assigned
+FD10422,2025-02-16,20:45,C0322,Customer_0258,Tandoori Treats,Delhi,Biryani,2,99,0,198,198,Delivered,Cash,37.0,4.8,DP014
+FD10116,2025-02-17,09:00,C0277,Customer_0061, dosa Point,Mumbai,Desserts,1,499,10,489,489,Delivered,UPI,65.0,5.0,DP055
+FD10870,2025-02-17,10:15,C0186,Customer_0201,Green Bowl,Delhi,Burger,1,249,30,219,219,Pending,Cash,,,Not Assigned
+FD10453,2025-02-17,21:15,C0180,Customer_0171,Tandoori Treats,Vijayawada,Biryani,3,149,0,447,447,Cancelled,UPI,,,Not Assigned
+FD10329,2025-02-18,12:45,C0186,Customer_0343,Green Bowl,Delhi,South Indian,2,99,10,188,188,Cancelled,Cash,,,Not Assigned
+FD10030,2025-02-18,21:30,C0258,Customer_0285,Noodle Street,Hyderabad,Pizza,2,99,0,198,198,Delivered,Debit Card,33.0,3.6,DP075
+FD10062,2025-02-19,17:30,C0137,Customer_0329,Green Bowl,Chennai,Chinese,3,129,20,367,367,Cancelled,UPI,,,Not Assigned
+FD10314,2025-02-20,08:00,C0161,Customer_0013,Cafe Delight,Bengaluru,South Indian,1,179,0,179,179,Delivered,Credit Card,37.0,4.8,DP019
+FD10841,2025-02-20,12:30,C0338,Customer_0307, dosa Point,Mumbai,South Indian,3,99,10,287,287,Delivered,Credit Card,44.0,3.4,DP009
+FD10757,2025-02-20,13:00,C0175,Customer_0152, dosa Point,Bengaluru,North Indian,1,99,50,49,49,Delivered,Debit Card,30.0,3.9,DP054
+FD10395,2025-02-20,14:45,C0079,Customer_0052,Pizza Corner,Bengaluru,North Indian,4,199,0,796,796,Delivered,Credit Card,29.0,4.6,DP051
+FD10037,2025-02-20,15:30,C0154,Customer_0155,Green Bowl,Chennai,Desserts,5,99,50,445,445,Delivered,Debit Card,24.0,4.2,DP051
+FD11152,2025-02-20,17:30,C0274,Customer_0056,Pizza Corner,Chennai,Pizza,3,99,50,247,247,Delivered,Wallet,24.0,4.6,DP045
+FD10805,2025-02-20,22:45,C0053,Customer_0068,Green Bowl,Hyderabad,South Indian,1,299,10,289,289,Cancelled,Credit Card,,,Not Assigned
+FD10198,2025-02-21,17:30,C0071,Customer_0180,Biryani House,Delhi,Burger,1,499,20,479,479,Pending,Cash,,,Not Assigned
+FD10143,2025-02-21,19:15,C0139,Customer_0110,Pizza Corner,Kolkata,South Indian,2,449,0,898,898,Delivered,Wallet,46.0,4.2,DP063
+FD10576,2025-02-21,19:45,C0316,Customer_0302,Green Bowl,Hyderabad,Desserts,1,149,50,99,99,Delivered,Wallet,35.0,3.9,DP023
+FD10055,2025-02-22,08:00,C0178,Customer_0366,South Meals,Delhi,Desserts,2,299,30,568,568,Delivered,Cash,40.0,5.0,DP077
+FD10086,2025-02-22,15:30,C0279,Customer_0365,Biryani House,Kolkata,Chinese,2,299,0,598,598,Delivered,Wallet,18.0,4.3,DP062
+FD10817,2025-02-22,19:15,C0214,Customer_0269,South Meals,Hyderabad,Burger,1,199,0,199,199,Delivered,Debit Card,40.0,3.4,DP045
+FD10749,2025-02-22,20:45,C0004,Customer_0088,Tandoori Treats,Vijayawada,Burger,3,229,50,637,637,Delivered,Credit Card,38.0,5.0,DP003
+FD10413,2025-02-22,21:00,C0273,Customer_0288,Noodle Street,Pune,Desserts,2,499,0,998,998,Delivered,Debit Card,24.0,4.9,DP020
+FD10216,2025-02-22,22:45,C0095,Customer_0278,Pizza Corner,Delhi,North Indian,1,299,20,279,279,Delivered,Cash,49.0,4.3,DP072
+FD10582,2025-02-22,23:00,C0017,Customer_0288,Green Bowl,Kolkata,Burger,2,299,20,578,578,Delivered,UPI,45.0,5.0,DP013
+FD10774,2025-02-23,10:30,C0262,Customer_0194,Biryani House,Kolkata,Desserts,2,129,0,258,258,Delivered,Debit Card,29.0,4.3,DP029
+FD10210,2025-02-23,12:45,C0386,Customer_0159,Noodle Street,Pune,Pizza,1,499,0,499,499,Delivered,Wallet,47.0,4.7,DP015
+FD10356,2025-02-23,13:15,C0358,Customer_0163,Pizza Corner,Mumbai,Pizza,2,399,50,748,748,Delivered,Wallet,33.0,4.0,DP041
+FD10679,2025-02-23,17:15,C0337,Customer_0344,Biryani House,Hyderabad,Healthy Food,1,499,20,479,479,Delivered,Cash,35.0,4.8,DP030
+FD10278,2025-02-23,18:30,C0071,Customer_0248,Pizza Corner,Hyderabad,Healthy Food,3,149,30,417,417,Delivered,Credit Card,30.0,4.1,DP065
+FD10410,2025-02-23,20:45,C0093,Customer_0276,Burger Hub,Delhi,Healthy Food,3,99,50,247,247,Delivered,Wallet,22.0,3.2,DP023
+FD10065,2025-02-23,21:45,C0258,Customer_0337,South Meals,Pune,Pizza,2,199,0,398,398,Pending,Debit Card,,,Not Assigned
+FD10039,2025-02-24,09:45,C0059,Customer_0126,South Meals,Bengaluru,North Indian,4,179,0,716,716,Delivered,Cash,27.0,4.2,DP069
+FD11167,2025-02-24,17:15,C0118,Customer_0044,Green Bowl,Hyderabad,South Indian,3,129,50,337,337,Delivered,Debit Card,50.0,4.3,DP045
+FD10884,2025-02-25,08:45,C0389,Customer_0354,Tandoori Treats,Chennai,Pizza,1,449,0,449,449,Delivered,UPI,22.0,5.0,DP057
+FD10866,2025-02-25,16:30,C0356,Customer_0027,Pizza Corner,Bengaluru,South Indian,2,179,0,358,358,Pending,Credit Card,,,Not Assigned
+FD10585,2025-02-26,13:45,C0260,Customer_0234,Burger Hub,Chennai,South Indian,3,199,0,597,597,Delivered,UPI,21.0,4.3,DP028
+FD10437,2025-02-27,12:45,C0233,Customer_0195, dosa Point,Bengaluru,Biryani,2,349,50,648,648,Pending,UPI,,,Not Assigned
+FD10357,2025-02-27,17:00,C0280,Customer_0189, dosa Point,Delhi,Burger,1,199,50,149,149,Delivered,Credit Card,37.0,4.2,DP007
+FD10445,2025-02-27,17:30,C0123,Customer_0254,Pizza Corner,Mumbai,Desserts,1,449,50,399,399,Delivered,UPI,40.0,4.7,DP080
+FD10645,2025-02-27,18:30,C0022,Customer_0172,Noodle Street,Mumbai,Burger,1,299,0,299,299,Delivered,Wallet,38.0,5.0,DP006
+FD10656,2025-02-27,19:30,C0259,Customer_0307,Green Bowl,Vijayawada,Pizza,1,299,0,299,299,Cancelled,Wallet,,,Not Assigned
+FD10403,2025-02-27,20:00,C0058,Customer_0389,South Meals,Delhi,North Indian,1,249,0,249,249,Delivered,Wallet,37.0,3.7,DP020
+FD10031,2025-02-28,20:45,C0117,Customer_0002,Green Bowl,Chennai,Desserts,2,129,0,258,258,Pending,Credit Card,,,Not Assigned
+FD10414,2025-03-01,09:00,C0103,Customer_0055,Spice Garden,Delhi,Chinese,3,349,10,1037,1037,Cancelled,Wallet,,,Not Assigned
+FD10263,2025-03-01,13:30,C0007,Customer_0155, dosa Point,Hyderabad,South Indian,1,179,0,179,179,Delivered,UPI,43.0,4.2,DP006
+FD11032,2025-03-01,22:15,C0022,Customer_0241,South Meals,Pune,Desserts,3,249,0,747,747,Delivered,Wallet,30.0,3.6,DP031
+FD10839,2025-03-02,13:45,C0001,Customer_0348, dosa Point,Hyderabad,Healthy Food,1,449,10,439,439,Delivered,UPI,30.0,4.2,DP026
+FD10871,2025-03-02,15:30,C0393,Customer_0382,Spice Garden,Delhi,Pizza,1,179,0,179,179,Delivered,Credit Card,22.0,4.0,DP043
+FD10562,2025-03-03,10:00,C0270,Customer_0033, dosa Point,Vijayawada,Desserts,1,499,0,499,499,Delivered,Cash,42.0,2.6,DP043
+FD11048,2025-03-03,12:30,C0220,Customer_0357,Noodle Street,Mumbai,Biryani,1,349,20,329,329,Delivered,Credit Card,37.0,3.7,DP011
+FD10117,2025-03-03,14:30,C0314,Customer_0295,Spice Garden,Bengaluru,North Indian,1,249,20,229,229,Delivered,Wallet,22.0,5.0,DP009
+FD10974,2025-03-03,20:30,C0259,Customer_0286,Biryani House,Chennai,Chinese,3,179,0,537,537,Delivered,Cash,25.0,3.8,DP032
+FD10162,2025-03-03,21:45,C0058,Customer_0328,Pizza Corner,Chennai,North Indian,1,179,0,179,179,Delivered,Debit Card,28.0,3.9,DP059
+FD10139,2025-03-04,09:45,C0381,Customer_0256,Green Bowl,Vijayawada,Burger,2,229,0,458,458,Delivered,Cash,43.0,4.5,DP012
+FD11064,2025-03-04,12:15,C0204,Customer_0112,Biryani House,Kolkata,Pizza,2,199,30,368,368,Delivered,Debit Card,54.0,4.2,DP061
+FD10398,2025-03-04,14:45,C0174,Customer_0029,Burger Hub,Vijayawada,Chinese,1,299,0,299,299,Pending,Cash,,,Not Assigned
+FD11176,2025-03-04,16:00,C0343,Customer_0193,Noodle Street,Mumbai,Chinese,1,229,10,219,219,Delivered,Debit Card,43.0,4.0,DP004
+FD10732,2025-03-04,18:30,C0156,Customer_0151,Burger Hub,Hyderabad,Desserts,2,449,0,898,898,Delivered,Debit Card,25.0,4.1,DP040
+FD11198,2025-03-04,19:30,C0053,Customer_0368,Green Bowl,Hyderabad,South Indian,1,499,30,469,469,Delivered,Debit Card,33.0,3.4,DP066
+FD10102,2025-03-04,23:45,C0022,Customer_0154,Tandoori Treats,Kolkata,Burger,1,349,0,349,349,Delivered,Wallet,45.0,3.2,DP020
+FD10513,2025-03-06,17:15,C0192,Customer_0160,South Meals,Kolkata,North Indian,1,99,10,89,89,Delivered,Cash,34.0,4.1,DP066
+FD10724,2025-03-06,20:45,C0173,Customer_0331, dosa Point,Kolkata,North Indian,3,399,10,1187,1187,Delivered,UPI,35.0,3.3,DP049
+FD10095,2025-03-06,22:00,C0390,Customer_0013,Burger Hub,Chennai,South Indian,2,229,0,458,458,Delivered,Debit Card,54.0,4.1,DP043
+FD10159,2025-03-07,15:30,C0246,Customer_0226,Green Bowl,Vijayawada,North Indian,2,499,20,978,978,Pending,UPI,,,Not Assigned
+FD10785,2025-03-07,20:00,C0383,Customer_0205,Noodle Street,Kolkata,South Indian,2,199,50,348,348,Delivered,Wallet,49.0,3.3,DP004
+FD10921,2025-03-08,13:45,C0271,Customer_0307,Cafe Delight,Mumbai,Chinese,2,499,50,948,948,Delivered,Wallet,35.0,3.9,DP062
+FD11075,2025-03-08,15:15,C0009,Customer_0307,Spice Garden,Bengaluru,Biryani,2,149,0,298,298,Pending,Cash,,,Not Assigned
+FD10299,2025-03-09,10:30,C0286,Customer_0049, dosa Point,Mumbai,Biryani,1,179,20,159,159,Delivered,Wallet,35.0,4.5,DP078
+FD10920,2025-03-09,18:00,C0184,Customer_0265,Tandoori Treats,Pune,South Indian,3,449,50,1297,1297,Delivered,Wallet,34.0,3.3,DP003
+FD11022,2025-03-10,10:30,C0197,Customer_0025, dosa Point,Bengaluru,South Indian,2,149,20,278,278,Delivered,Credit Card,39.0,4.8,DP021
+FD10579,2025-03-10,15:30,C0072,Customer_0270,Cafe Delight,Vijayawada,South Indian,1,229,20,209,209,Cancelled,Wallet,,,Not Assigned
+FD10814,2025-03-10,19:45,C0294,Customer_0189,Spice Garden,Mumbai,Biryani,1,449,20,429,429,Delivered,Debit Card,40.0,4.4,DP046
+FD10459,2025-03-10,21:15,C0113,Customer_0313,Biryani House,Delhi,South Indian,2,449,50,848,848,Delivered,UPI,23.0,4.4,DP025
+FD10470,2025-03-10,22:30,C0138,Customer_0303,Noodle Street,Hyderabad,Pizza,2,149,50,248,248,Delivered,Credit Card,44.0,4.0,DP002
+FD11121,2025-03-10,23:45,C0170,Customer_0128,Biryani House,Hyderabad,North Indian,4,299,20,1176,1176,Delivered,Debit Card,25.0,4.4,DP067
+FD10628,2025-03-11,11:00,C0282,Customer_0112,Burger Hub,Hyderabad,Healthy Food,3,199,20,577,577,Delivered,Cash,28.0,5.0,DP021
+FD10947,2025-03-11,17:45,C0179,Customer_0129,Burger Hub,Mumbai,Chinese,2,299,10,588,588,Pending,UPI,,,Not Assigned
+FD10005,2025-03-13,14:45,C0044,Customer_0097, dosa Point,Mumbai,Burger,5,399,0,1995,1995,Delivered,Cash,35.0,3.6,DP023
+FD10765,2025-03-13,19:15,C0149,Customer_0350, dosa Point,Bengaluru,Pizza,3,399,50,1147,1147,Delivered,Credit Card,38.0,3.8,DP040
+FD10859,2025-03-14,23:30,C0369,Customer_0363,Cafe Delight,Hyderabad,Desserts,3,99,0,297,297,Cancelled,Credit Card,,,Not Assigned
+FD10603,2025-03-15,15:00,C0211,Customer_0154,Biryani House,Chennai,Chinese,3,179,20,517,517,Delivered,Debit Card,44.0,5.0,DP053
+FD10536,2025-03-16,09:30,C0050,Customer_0178,Biryani House,Pune,Pizza,4,499,10,1986,1986,Delivered,UPI,44.0,3.4,DP080
+FD10786,2025-03-16,10:45,C0318,Customer_0257,Spice Garden,Vijayawada,Biryani,1,399,10,389,389,Delivered,UPI,28.0,3.5,DP053
+FD10968,2025-03-16,10:45,C0270,Customer_0112,Tandoori Treats,Bengaluru,Healthy Food,1,179,30,149,149,Delivered,Wallet,44.0,4.5,DP050
+FD11180,2025-03-16,14:30,C0351,Customer_0196,South Meals,Delhi,Healthy Food,1,499,50,449,449,Pending,Credit Card,,,Not Assigned
+FD10282,2025-03-16,16:00,C0375,Customer_0057,Pizza Corner,Chennai,Pizza,1,249,0,249,249,Pending,Wallet,,,Not Assigned
+FD11027,2025-03-17,12:30,C0362,Customer_0394,Pizza Corner,Hyderabad,North Indian,1,449,0,449,449,Pending,Wallet,,,Not Assigned
+FD10571,2025-03-17,12:45,C0262,Customer_0089,Burger Hub,Vijayawada,North Indian,2,249,50,448,448,Cancelled,Credit Card,,,Not Assigned
+FD10601,2025-03-17,17:15,C0158,Customer_0172, dosa Point,Kolkata,Burger,2,349,0,698,698,Delivered,Wallet,25.0,3.9,DP002
+FD10463,2025-03-17,21:45,C0275,Customer_0353,Pizza Corner,Kolkata,Chinese,2,299,10,588,588,Cancelled,Cash,,,Not Assigned
+FD10888,2025-03-19,09:00,C0287,Customer_0204,Burger Hub,Pune,Desserts,2,349,30,668,668,Delivered,Wallet,51.0,4.1,DP016
+FD11047,2025-03-19,15:30,C0001,Customer_0063,Cafe Delight,Kolkata,Pizza,1,129,30,99,99,Cancelled,Debit Card,,,Not Assigned
+FD10755,2025-03-19,21:45,C0289,Customer_0031,Pizza Corner,Hyderabad,Pizza,1,499,0,499,499,Delivered,Wallet,30.0,4.7,DP036
+FD10856,2025-03-19,22:15,C0137,Customer_0191,Biryani House,Pune,North Indian,4,399,0,1596,1596,Pending,UPI,,,Not Assigned
+FD10664,2025-03-21,16:15,C0108,Customer_0393,South Meals,Mumbai,Pizza,1,149,0,149,149,Cancelled,Credit Card,,,Not Assigned
+FD10204,2025-03-22,12:00,C0316,Customer_0273,Tandoori Treats,Delhi,Healthy Food,1,199,0,199,199,Delivered,Debit Card,20.0,2.8,DP001
+FD10806,2025-03-22,18:15,C0212,Customer_0075, dosa Point,Hyderabad,North Indian,2,399,0,798,798,Delivered,Wallet,29.0,3.7,DP041
+FD10104,2025-03-22,21:30,C0065,Customer_0083, dosa Point,Bengaluru,Pizza,2,229,0,458,458,Delivered,Wallet,42.0,3.0,DP079
+FD10061,2025-03-22,23:00,C0041,Customer_0355,Pizza Corner,Vijayawada,Chinese,1,149,0,149,149,Delivered,Debit Card,12.0,4.1,DP071
+FD10711,2025-03-23,09:00,C0199,Customer_0178,South Meals,Hyderabad,Pizza,4,129,10,506,506,Pending,Debit Card,,,Not Assigned
+FD10932,2025-03-24,15:00,C0086,Customer_0338,Biryani House,Kolkata,Chinese,1,129,10,119,119,Delivered,Debit Card,51.0,3.0,DP056
+FD10752,2025-03-24,23:00,C0389,Customer_0210,Tandoori Treats,Chennai,Biryani,4,249,0,996,996,Delivered,UPI,29.0,4.2,DP075
+FD11011,2025-03-25,11:45,C0341,Customer_0061,Tandoori Treats,Pune,Burger,2,199,0,398,398,Delivered,Wallet,26.0,4.2,DP073
+FD10563,2025-03-25,16:00,C0301,Customer_0008,Pizza Corner,Delhi,Burger,4,179,0,716,716,Delivered,UPI,36.0,3.4,DP001
+FD10754,2025-03-26,22:45,C0264,Customer_0168,Green Bowl,Pune,Desserts,2,399,0,798,798,Cancelled,Debit Card,,,Not Assigned
+FD11089,2025-03-27,12:15,C0006,Customer_0381,Spice Garden,Hyderabad,Biryani,3,199,0,597,597,Cancelled,UPI,,,Not Assigned
+FD10157,2025-03-27,13:00,C0295,Customer_0196,Noodle Street,Vijayawada,Chinese,2,499,50,948,948,Delivered,Wallet,33.0,4.8,DP006
+FD10912,2025-03-27,17:15,C0342,Customer_0178,Noodle Street,Kolkata,Healthy Food,4,449,50,1746,1746,Delivered,Credit Card,34.0,3.9,DP021
+FD10466,2025-03-27,23:15,C0216,Customer_0043,Tandoori Treats,Kolkata,Burger,2,129,0,258,258,Delivered,Credit Card,37.0,3.3,DP037
+FD10012,2025-03-29,13:30,C0180,Customer_0034,Noodle Street,Chennai,Healthy Food,1,199,10,189,189,Delivered,Credit Card,33.0,3.8,DP058
+FD11050,2025-03-30,08:15,C0353,Customer_0105,Noodle Street,Delhi,Healthy Food,1,499,10,489,489,Delivered,Debit Card,25.0,4.3,DP021
+FD10454,2025-03-30,08:45,C0277,Customer_0293,South Meals,Vijayawada,Healthy Food,2,399,50,748,748,Pending,UPI,,,Not Assigned
+FD10049,2025-03-30,09:15,C0327,Customer_0030,Tandoori Treats,Chennai,Biryani,1,129,0,129,129,Delivered,Cash,45.0,4.5,DP025
+FD11053,2025-03-30,15:00,C0192,Customer_0189,Cafe Delight,Bengaluru,North Indian,4,299,0,1196,1196,Delivered,Credit Card,30.0,4.4,DP048
+FD10530,2025-03-31,08:00,C0249,Customer_0257,Pizza Corner,Pune,Chinese,3,449,50,1297,1297,Delivered,Debit Card,30.0,3.4,DP074
+FD10527,2025-03-31,10:15,C0079,Customer_0110, dosa Point,Pune,South Indian,2,349,0,698,698,Delivered,Wallet,36.0,3.9,DP073
+FD10692,2025-03-31,11:15,C0194,Customer_0384,South Meals,Hyderabad,North Indian,1,179,20,159,159,Delivered,Debit Card,34.0,4.1,DP042
+FD11179,2025-03-31,16:30,C0123,Customer_0362,South Meals,Pune,Pizza,5,499,0,2495,2495,Delivered,Credit Card,31.0,3.9,DP024
+FD10993,2025-03-31,17:30,C0093,Customer_0260,Green Bowl,Kolkata,North Indian,2,99,10,188,188,Pending,Debit Card,,,Not Assigned
+FD10634,2025-04-01,12:45,C0184,Customer_0095,Spice Garden,Bengaluru,North Indian,2,399,20,778,778,Delivered,UPI,25.0,4.4,DP034
+FD10389,2025-04-02,09:45,C0328,Customer_0211,Tandoori Treats,Chennai,Desserts,1,499,30,469,469,Delivered,Credit Card,50.0,3.7,DP027
+FD11150,2025-04-02,12:15,C0098,Customer_0329,Green Bowl,Vijayawada,Biryani,1,399,20,379,379,Cancelled,UPI,,,Not Assigned
+FD10844,2025-04-02,15:45,C0134,Customer_0076,South Meals,Kolkata,Chinese,1,129,0,129,129,Delivered,Credit Card,29.0,4.7,DP041
+FD10057,2025-04-02,20:45,C0096,Customer_0214,Green Bowl,Bengaluru,Healthy Food,2,349,50,648,648,Delivered,Credit Card,29.0,4.1,DP008
+FD10436,2025-04-02,21:30,C0186,Customer_0341,Biryani House,Hyderabad,Chinese,3,349,0,1047,1047,Delivered,Debit Card,38.0,3.2,DP013
+FD10529,2025-04-03,17:15,C0024,Customer_0206,Tandoori Treats,Mumbai,Pizza,1,229,50,179,179,Pending,Debit Card,,,Not Assigned
+FD10837,2025-04-03,22:45,C0013,Customer_0327,Spice Garden,Delhi,Biryani,1,229,30,199,199,Delivered,Debit Card,29.0,3.5,DP070
+FD10973,2025-04-04,15:30,C0298,Customer_0241,Green Bowl,Kolkata,North Indian,1,99,20,79,79,Delivered,UPI,27.0,4.7,DP034
+FD11019,2025-04-04,15:30,C0003,Customer_0210,Cafe Delight,Pune,Healthy Food,2,349,0,698,698,Delivered,UPI,36.0,4.1,DP006
+FD10472,2025-04-04,22:15,C0286,Customer_0382,Spice Garden,Vijayawada,Chinese,4,299,10,1186,1186,Delivered,Cash,29.0,4.4,DP069
+FD11020,2025-04-05,09:00,C0116,Customer_0088,Pizza Corner,Vijayawada,Biryani,2,229,0,458,458,Delivered,Wallet,44.0,4.1,DP040
+FD11114,2025-04-05,12:00,C0382,Customer_0271,Green Bowl,Kolkata,South Indian,1,149,0,149,149,Pending,Credit Card,,,Not Assigned
+FD10520,2025-04-05,12:45,C0083,Customer_0225,Biryani House,Pune,Pizza,3,299,30,867,867,Pending,Debit Card,,,Not Assigned
+FD10764,2025-04-05,15:45,C0066,Customer_0005,Spice Garden,Hyderabad,South Indian,4,99,0,396,396,Delivered,Credit Card,43.0,5.0,DP005
+FD10343,2025-04-05,17:15,C0194,Customer_0235,Green Bowl,Kolkata,Healthy Food,2,179,50,308,308,Delivered,Cash,43.0,3.9,DP038
+FD10954,2025-04-05,19:15,C0280,Customer_0263,Noodle Street,Chennai,Burger,1,179,30,149,149,Pending,Credit Card,,,Not Assigned
+FD10828,2025-04-05,21:45,C0015,Customer_0178,Tandoori Treats,Hyderabad,Burger,2,229,0,458,458,Delivered,Credit Card,12.0,3.5,DP039
+FD10494,2025-04-06,09:30,C0331,Customer_0270,Green Bowl,Mumbai,North Indian,3,349,0,1047,1047,Delivered,UPI,42.0,4.1,DP080
+FD10144,2025-04-06,11:45,C0170,Customer_0166,Noodle Street,Pune,Burger,1,149,20,129,129,Delivered,Debit Card,47.0,4.1,DP061
+FD10450,2025-04-06,11:45,C0378,Customer_0113,Green Bowl,Pune,Healthy Food,5,229,0,1145,1145,Delivered,UPI,48.0,4.2,DP061
+FD10193,2025-04-06,18:30,C0314,Customer_0094,Tandoori Treats,Kolkata,Biryani,1,299,50,249,249,Delivered,UPI,42.0,4.7,DP078
+FD10547,2025-04-06,22:15,C0320,Customer_0232,Biryani House,Mumbai,Pizza,2,179,0,358,358,Cancelled,Cash,,,Not Assigned
+FD11085,2025-04-07,16:15,C0074,Customer_0254,Pizza Corner,Chennai,Chinese,4,149,0,596,596,Delivered,Debit Card,38.0,3.8,DP050
+FD10234,2025-04-07,21:45,C0378,Customer_0011,South Meals,Chennai,Pizza,2,229,20,438,438,Delivered,Cash,29.0,4.0,DP022
+FD10321,2025-04-07,22:30,C0220,Customer_0009,Biryani House,Pune,South Indian,1,499,10,489,489,Delivered,Cash,36.0,4.1,DP056
+FD10738,2025-04-08,09:15,C0397,Customer_0174,Pizza Corner,Bengaluru,North Indian,2,179,10,348,348,Delivered,UPI,48.0,4.5,DP069
+FD10230,2025-04-08,12:15,C0039,Customer_0132,Green Bowl,Chennai,Pizza,1,449,0,449,449,Delivered,Cash,40.0,5.0,DP012
+FD10793,2025-04-08,22:30,C0272,Customer_0157,South Meals,Chennai,Pizza,2,399,10,788,788,Cancelled,Credit Card,,,Not Assigned
+FD10289,2025-04-09,08:15,C0170,Customer_0307,Cafe Delight,Vijayawada,Biryani,3,499,0,1497,1497,Delivered,Debit Card,29.0,3.6,DP028
+FD10120,2025-04-09,08:45,C0209,Customer_0126, dosa Point,Chennai,Chinese,3,229,10,677,677,Delivered,Credit Card,39.0,2.8,DP010
+FD10272,2025-04-09,10:15,C0272,Customer_0306, dosa Point,Vijayawada,Biryani,2,179,20,338,338,Cancelled,Debit Card,,,Not Assigned
+FD10257,2025-04-09,10:45,C0067,Customer_0191,Noodle Street,Pune,North Indian,3,129,20,367,367,Cancelled,Debit Card,,,Not Assigned
+FD10740,2025-04-09,11:00,C0096,Customer_0395,Spice Garden,Bengaluru,Pizza,3,99,50,247,247,Delivered,Cash,27.0,3.2,DP024
+FD10545,2025-04-09,15:30,C0374,Customer_0254,Biryani House,Chennai,South Indian,1,399,30,369,369,Delivered,Debit Card,42.0,5.0,DP036
+FD10336,2025-04-09,15:45,C0040,Customer_0323,Noodle Street,Kolkata,North Indian,2,99,20,178,178,Delivered,Wallet,32.0,4.9,DP055
+FD10344,2025-04-09,16:30,C0298,Customer_0358,Tandoori Treats,Hyderabad,Pizza,1,299,0,299,299,Delivered,Credit Card,36.0,4.2,DP079
+FD10580,2025-04-09,18:45,C0189,Customer_0066, dosa Point,Bengaluru,South Indian,1,299,0,299,299,Delivered,UPI,24.0,4.3,DP076
+FD10569,2025-04-10,15:45,C0229,Customer_0317,Green Bowl,Vijayawada,Biryani,2,249,0,498,498,Pending,Cash,,,Not Assigned
+FD10478,2025-04-10,18:30,C0161,Customer_0066,South Meals,Mumbai,Pizza,3,99,0,297,297,Pending,Debit Card,,,Not Assigned
+FD10013,2025-04-10,19:15,C0271,Customer_0347,Burger Hub,Bengaluru,South Indian,2,249,30,468,468,Delivered,Wallet,34.0,5.0,DP016
+FD10488,2025-04-10,22:15,C0350,Customer_0278,Green Bowl,Hyderabad,Pizza,3,349,30,1017,1017,Delivered,Credit Card,40.0,4.1,DP032
+FD10202,2025-04-11,09:30,C0075,Customer_0165,Green Bowl,Hyderabad,South Indian,2,179,0,358,358,Delivered,Wallet,37.0,3.8,DP044
+FD10126,2025-04-11,10:00,C0364,Customer_0118,Noodle Street,Kolkata,Chinese,3,299,0,897,897,Cancelled,Wallet,,,Not Assigned
+FD10411,2025-04-11,17:30,C0017,Customer_0019,Green Bowl,Chennai,Desserts,1,99,50,49,49,Delivered,Wallet,42.0,4.2,DP034
+FD10510,2025-04-11,18:15,C0014,Customer_0257,Spice Garden,Bengaluru,Burger,2,449,0,898,898,Pending,Wallet,,,Not Assigned
+FD11160,2025-04-11,18:30,C0136,Customer_0110,Spice Garden,Delhi,Burger,1,349,0,349,349,Pending,Credit Card,,,Not Assigned
+FD10934,2025-04-11,19:00,C0262,Customer_0156,Cafe Delight,Kolkata,Chinese,2,149,0,298,298,Cancelled,Credit Card,,,Not Assigned
+FD11014,2025-04-11,19:00,C0171,Customer_0001,Green Bowl,Pune,Healthy Food,1,399,0,399,399,Delivered,Credit Card,39.0,4.1,DP018
+FD10008,2025-04-13,16:15,C0008,Customer_0101,Biryani House,Mumbai,Chinese,1,149,20,129,129,Delivered,Debit Card,61.0,4.2,DP032
+FD10417,2025-04-13,17:15,C0100,Customer_0087,Burger Hub,Mumbai,Healthy Food,1,229,0,229,229,Pending,Debit Card,,,Not Assigned
+FD10001,2025-04-13,19:15,C0086,Customer_0177,Spice Garden,Hyderabad,Chinese,3,249,0,747,747,Delivered,Credit Card,46.0,2.5,DP065
+FD10787,2025-04-13,23:30,C0331,Customer_0267,Cafe Delight,Kolkata,Desserts,4,249,0,996,996,Delivered,Wallet,48.0,4.7,DP020
+FD10284,2025-04-14,09:00,C0335,Customer_0162,South Meals,Pune,Chinese,3,399,0,1197,1197,Delivered,Debit Card,29.0,3.5,DP002
+FD11070,2025-04-14,13:30,C0087,Customer_0321,Burger Hub,Chennai,South Indian,2,449,0,898,898,Pending,Cash,,,Not Assigned
+FD11140,2025-04-14,13:45,C0123,Customer_0231,Green Bowl,Delhi,Desserts,1,179,0,179,179,Delivered,UPI,46.0,4.8,DP007
+FD10369,2025-04-14,14:00,C0182,Customer_0125,Burger Hub,Pune,North Indian,2,129,0,258,258,Delivered,Credit Card,24.0,4.4,DP070
+FD11057,2025-04-14,14:15,C0232,Customer_0232,Pizza Corner,Pune,Chinese,4,399,0,1596,1596,Delivered,Wallet,35.0,4.5,DP066
+FD11071,2025-04-14,19:00,C0185,Customer_0241,Cafe Delight,Vijayawada,Desserts,4,229,20,896,896,Delivered,Debit Card,25.0,4.3,DP032
+FD11137,2025-04-14,19:45,C0297,Customer_0006,Pizza Corner,Kolkata,Biryani,1,499,0,499,499,Pending,Cash,,,Not Assigned
+FD10532,2025-04-15,18:30,C0378,Customer_0325, dosa Point,Mumbai,Desserts,3,199,50,547,547,Delivered,Credit Card,32.0,2.4,DP064
+FD10739,2025-04-15,20:00,C0159,Customer_0149,Cafe Delight,Vijayawada,North Indian,4,229,0,916,916,Delivered,Credit Card,33.0,3.8,DP066
+FD10066,2025-04-16,09:15,C0171,Customer_0228, dosa Point,Mumbai,Pizza,2,229,0,458,458,Delivered,UPI,35.0,4.1,DP028
+FD10429,2025-04-16,14:00,C0335,Customer_0336,Cafe Delight,Hyderabad,Healthy Food,2,349,20,678,678,Delivered,Cash,45.0,4.2,DP019
+FD10804,2025-04-16,15:15,C0030,Customer_0045,Tandoori Treats,Vijayawada,North Indian,5,349,50,1695,1695,Delivered,UPI,29.0,3.9,DP012
+FD11149,2025-04-16,22:45,C0360,Customer_0342,Cafe Delight,Kolkata,North Indian,2,149,30,268,268,Delivered,Debit Card,43.0,3.2,DP017
+FD10004,2025-04-17,08:30,C0213,Customer_0079,Green Bowl,Mumbai,South Indian,2,179,30,328,328,Delivered,Debit Card,21.0,4.2,DP040
+FD10868,2025-04-17,18:45,C0277,Customer_0312,Cafe Delight,Mumbai,Chinese,2,129,0,258,258,Pending,Cash,,,Not Assigned
+FD10166,2025-04-18,14:30,C0042,Customer_0190,Burger Hub,Chennai,Healthy Food,4,299,0,1196,1196,Pending,Debit Card,,,Not Assigned
+FD10415,2025-04-18,14:45,C0255,Customer_0122,Cafe Delight,Chennai,Healthy Food,3,399,0,1197,1197,Pending,Wallet,,,Not Assigned
+FD10923,2025-04-19,13:15,C0289,Customer_0140,Noodle Street,Mumbai,North Indian,2,399,0,798,798,Delivered,Cash,12.0,5.0,DP057
+FD10587,2025-04-19,19:30,C0056,Customer_0031,Biryani House,Chennai,South Indian,2,449,0,898,898,Delivered,Credit Card,34.0,3.5,DP039
+FD11162,2025-04-20,08:45,C0333,Customer_0207,Pizza Corner,Kolkata,Chinese,2,399,0,798,798,Cancelled,Debit Card,,,Not Assigned
+FD10897,2025-04-21,08:00,C0017,Customer_0204,Noodle Street,Vijayawada,Biryani,1,229,10,219,219,Delivered,Credit Card,41.0,4.2,DP018
+FD10929,2025-04-21,09:00,C0144,Customer_0381,Noodle Street,Kolkata,Chinese,2,399,0,798,798,Delivered,Debit Card,21.0,3.5,DP031
+FD11079,2025-04-21,09:00,C0014,Customer_0113,Biryani House,Vijayawada,Pizza,3,399,0,1197,1197,Delivered,Credit Card,28.0,3.8,DP045
+FD10925,2025-04-21,14:15,C0190,Customer_0006,Green Bowl,Kolkata,South Indian,4,229,0,916,916,Pending,Wallet,,,Not Assigned
+FD10823,2025-04-21,16:45,C0363,Customer_0383,Cafe Delight,Hyderabad,Chinese,1,99,0,99,99,Pending,UPI,,,Not Assigned
+FD11139,2025-04-21,22:00,C0009,Customer_0170,Pizza Corner,Vijayawada,Desserts,1,179,30,149,149,Cancelled,UPI,,,Not Assigned
+FD10927,2025-04-21,23:15,C0395,Customer_0242,South Meals,Bengaluru,South Indian,1,449,10,439,439,Delivered,Cash,42.0,3.2,DP067
+FD10779,2025-04-22,08:45,C0195,Customer_0397,Pizza Corner,Pune,North Indian,5,399,0,1995,1995,Pending,Credit Card,,,Not Assigned
+FD10948,2025-04-22,13:30,C0215,Customer_0079,Tandoori Treats,Kolkata,Desserts,1,229,20,209,209,Delivered,Credit Card,53.0,3.4,DP004
+FD10262,2025-04-22,15:00,C0305,Customer_0144,Green Bowl,Vijayawada,Burger,3,99,0,297,297,Pending,Credit Card,,,Not Assigned
+FD10288,2025-04-22,15:00,C0006,Customer_0103, dosa Point,Kolkata,Pizza,4,149,0,596,596,Delivered,Credit Card,54.0,4.6,DP030
+FD10203,2025-04-23,08:45,C0159,Customer_0384,Burger Hub,Bengaluru,North Indian,1,399,0,399,399,Delivered,Wallet,25.0,4.1,DP031
+FD10206,2025-04-23,13:00,C0306,Customer_0171,Burger Hub,Mumbai,Burger,1,299,10,289,289,Delivered,Credit Card,34.0,3.9,DP027
+FD10201,2025-04-23,13:30,C0038,Customer_0070,South Meals,Kolkata,Healthy Food,1,229,20,209,209,Delivered,UPI,25.0,3.6,DP020
+FD10989,2025-04-23,16:15,C0359,Customer_0153,Burger Hub,Bengaluru,Pizza,2,249,30,468,468,Delivered,Cash,20.0,4.4,DP027
+FD10283,2025-04-23,17:15,C0379,Customer_0061,Green Bowl,Vijayawada,Pizza,1,199,20,179,179,Pending,Cash,,,Not Assigned
+FD10877,2025-04-23,23:30,C0010,Customer_0017,Biryani House,Pune,Pizza,1,399,0,399,399,Cancelled,Wallet,,,Not Assigned
+FD10196,2025-04-23,23:45,C0130,Customer_0315,Cafe Delight,Kolkata,Healthy Food,1,399,10,389,389,Delivered,Cash,39.0,4.0,DP012
+FD10535,2025-04-24,09:00,C0002,Customer_0329,Cafe Delight,Bengaluru,South Indian,2,399,0,798,798,Delivered,Cash,35.0,3.2,DP061
+FD10362,2025-04-24,14:45,C0326,Customer_0177,Burger Hub,Hyderabad,North Indian,4,129,10,506,506,Delivered,Credit Card,28.0,4.1,DP061
+FD11115,2025-04-25,11:15,C0014,Customer_0099,Spice Garden,Mumbai,Biryani,1,179,10,169,169,Delivered,Credit Card,36.0,4.7,DP019
+FD10531,2025-04-25,20:45,C0139,Customer_0070,Spice Garden,Pune,Chinese,2,99,10,188,188,Delivered,Wallet,31.0,5.0,DP056
+FD10281,2025-04-26,09:15,C0042,Customer_0098,Spice Garden,Kolkata,Chinese,1,229,0,229,229,Delivered,Credit Card,42.0,4.7,DP017
+FD10178,2025-04-26,16:45,C0360,Customer_0188,Burger Hub,Pune,Burger,1,229,20,209,209,Cancelled,Cash,,,Not Assigned
+FD10346,2025-04-26,17:45,C0003,Customer_0214,Green Bowl,Hyderabad,Burger,1,129,10,119,119,Pending,Debit Card,,,Not Assigned
+FD11173,2025-04-27,18:00,C0154,Customer_0364,Tandoori Treats,Kolkata,Biryani,1,399,10,389,389,Delivered,Credit Card,47.0,2.9,DP007
+FD10654,2025-04-27,20:15,C0218,Customer_0278,Spice Garden,Hyderabad,North Indian,1,499,10,489,489,Cancelled,Wallet,,,Not Assigned
+FD10440,2025-04-27,23:15,C0090,Customer_0232,Noodle Street,Bengaluru,Pizza,5,99,0,495,495,Cancelled,Wallet,,,Not Assigned
+FD10452,2025-04-28,08:45,C0145,Customer_0232,Cafe Delight,Pune,South Indian,2,449,0,898,898,Pending,Wallet,,,Not Assigned
+FD10983,2025-04-28,09:30,C0150,Customer_0330,Tandoori Treats,Kolkata,Chinese,1,199,10,189,189,Delivered,Credit Card,20.0,5.0,DP013
+FD11096,2025-04-28,11:30,C0189,Customer_0293,Burger Hub,Mumbai,Healthy Food,2,229,20,438,438,Cancelled,Wallet,,,Not Assigned
+FD10770,2025-04-28,12:00,C0051,Customer_0052, dosa Point,Kolkata,Pizza,1,249,20,229,229,Delivered,UPI,42.0,4.5,DP045
+FD10972,2025-04-28,20:00,C0063,Customer_0292,Cafe Delight,Vijayawada,North Indian,1,199,0,199,199,Delivered,Wallet,26.0,5.0,DP022
+FD10906,2025-04-29,17:15,C0092,Customer_0331,Burger Hub,Mumbai,Biryani,1,399,50,349,349,Delivered,Debit Card,28.0,4.6,DP069
+FD10722,2025-04-29,19:45,C0097,Customer_0171, dosa Point,Kolkata,Pizza,2,499,50,948,948,Pending,Wallet,,,Not Assigned
+FD10279,2025-04-30,20:45,C0334,Customer_0009, dosa Point,Chennai,Desserts,4,99,10,386,386,Delivered,Debit Card,38.0,3.7,DP070
+FD10433,2025-04-30,21:00,C0197,Customer_0273,Cafe Delight,Bengaluru,Pizza,2,99,0,198,198,Delivered,Credit Card,39.0,3.1,DP009
+FD10863,2025-05-01,08:30,C0099,Customer_0387,Biryani House,Pune,North Indian,3,399,10,1187,1187,Pending,Wallet,,,Not Assigned
+FD10177,2025-05-01,20:30,C0192,Customer_0005, dosa Point,Delhi,North Indian,2,349,10,688,688,Delivered,Wallet,34.0,3.9,DP056
+FD10009,2025-05-02,08:00,C0021,Customer_0158,Pizza Corner,Mumbai,South Indian,1,449,30,419,419,Delivered,Credit Card,38.0,4.1,DP059
+FD10840,2025-05-02,12:15,C0134,Customer_0267,Green Bowl,Hyderabad,North Indian,3,99,0,297,297,Cancelled,Debit Card,,,Not Assigned
+FD10612,2025-05-02,15:00,C0136,Customer_0196,Biryani House,Bengaluru,Chinese,3,499,50,1447,1447,Cancelled,Cash,,,Not Assigned
+FD10689,2025-05-02,20:15,C0300,Customer_0276,Biryani House,Kolkata,South Indian,1,249,0,249,249,Pending,Debit Card,,,Not Assigned
+FD10592,2025-05-02,20:30,C0223,Customer_0080, dosa Point,Delhi,Desserts,2,249,20,478,478,Delivered,Cash,33.0,4.8,DP057
+FD10446,2025-05-02,21:15,C0090,Customer_0300,Tandoori Treats,Bengaluru,Healthy Food,4,299,30,1166,1166,Pending,UPI,,,Not Assigned
+FD10225,2025-05-03,14:15,C0054,Customer_0029,Burger Hub,Bengaluru,South Indian,1,249,0,249,249,Delivered,Debit Card,17.0,4.8,DP030
+FD11093,2025-05-03,15:30,C0017,Customer_0051,Burger Hub,Hyderabad,South Indian,1,199,30,169,169,Cancelled,Credit Card,,,Not Assigned
+FD10236,2025-05-04,09:00,C0197,Customer_0042,Biryani House,Vijayawada,Burger,2,349,0,698,698,Cancelled,Credit Card,,,Not Assigned
+FD10428,2025-05-04,18:00,C0366,Customer_0290, dosa Point,Chennai,Pizza,1,499,0,499,499,Delivered,UPI,52.0,3.4,DP048
+FD10400,2025-05-05,15:45,C0294,Customer_0087,Biryani House,Bengaluru,Biryani,5,399,30,1965,1965,Delivered,Wallet,43.0,4.3,DP027
+FD11061,2025-05-05,21:00,C0274,Customer_0041,Burger Hub,Pune,South Indian,3,249,0,747,747,Pending,UPI,,,Not Assigned
+FD10639,2025-05-06,10:45,C0062,Customer_0254,Green Bowl,Delhi,Chinese,1,149,20,129,129,Delivered,Wallet,44.0,4.2,DP042
+FD10819,2025-05-06,10:45,C0095,Customer_0142,Green Bowl,Pune,Chinese,1,129,0,129,129,Delivered,UPI,49.0,3.5,DP018
+FD10451,2025-05-06,12:00,C0045,Customer_0108,Spice Garden,Mumbai,Healthy Food,2,229,10,448,448,Delivered,Credit Card,54.0,4.0,DP011
+FD10913,2025-05-06,14:30,C0113,Customer_0252,Burger Hub,Delhi,North Indian,4,179,20,696,696,Delivered,Credit Card,37.0,3.8,DP068
+FD10214,2025-05-06,18:15,C0044,Customer_0169,Green Bowl,Kolkata,South Indian,1,249,30,219,219,Cancelled,Credit Card,,,Not Assigned
+FD10644,2025-05-06,23:45,C0042,Customer_0139,Cafe Delight,Chennai,Healthy Food,2,349,50,648,648,Delivered,Debit Card,17.0,5.0,DP018
+FD10883,2025-05-07,11:30,C0193,Customer_0106,South Meals,Hyderabad,Pizza,1,349,30,319,319,Delivered,Debit Card,43.0,3.3,DP034
+FD10366,2025-05-07,15:15,C0080,Customer_0292,South Meals,Delhi,Chinese,1,349,50,299,299,Pending,Wallet,,,Not Assigned
+FD11148,2025-05-07,16:00,C0042,Customer_0297,Noodle Street,Hyderabad,North Indian,1,249,0,249,249,Cancelled,Credit Card,,,Not Assigned
+FD10443,2025-05-07,22:30,C0345,Customer_0371,Burger Hub,Kolkata,Healthy Food,4,399,0,1596,1596,Pending,Debit Card,,,Not Assigned
+FD10352,2025-05-08,08:15,C0117,Customer_0184, dosa Point,Hyderabad,South Indian,3,149,0,447,447,Cancelled,Credit Card,,,Not Assigned
+FD11185,2025-05-08,09:30,C0398,Customer_0009,Burger Hub,Hyderabad,Pizza,4,129,10,506,506,Pending,Debit Card,,,Not Assigned
+FD10171,2025-05-08,10:45,C0137,Customer_0367,Cafe Delight,Mumbai,Healthy Food,3,399,0,1197,1197,Delivered,Wallet,42.0,4.0,DP025
+FD10249,2025-05-08,15:30,C0021,Customer_0090,Cafe Delight,Vijayawada,North Indian,2,229,0,458,458,Delivered,Wallet,30.0,5.0,DP049
+FD10305,2025-05-08,21:45,C0145,Customer_0223,Burger Hub,Bengaluru,South Indian,4,499,50,1946,1946,Pending,Cash,,,Not Assigned
+FD10253,2025-05-09,08:15,C0182,Customer_0329,Spice Garden,Hyderabad,Burger,2,129,20,238,238,Delivered,UPI,40.0,5.0,DP034
+FD10100,2025-05-09,15:00,C0361,Customer_0057,Cafe Delight,Hyderabad,Chinese,3,299,10,887,887,Cancelled,Wallet,,,Not Assigned
+FD10444,2025-05-09,16:15,C0052,Customer_0091,Spice Garden,Pune,Biryani,5,249,20,1225,1225,Delivered,Credit Card,54.0,3.5,DP076
+FD11113,2025-05-10,08:45,C0398,Customer_0220,Biryani House,Delhi,Desserts,3,249,50,697,697,Delivered,UPI,43.0,4.1,DP021
+FD11010,2025-05-10,15:45,C0132,Customer_0179,Spice Garden,Mumbai,Pizza,2,99,0,198,198,Delivered,UPI,26.0,3.0,DP069
+FD10215,2025-05-10,16:00,C0245,Customer_0287,Burger Hub,Bengaluru,South Indian,1,449,10,439,439,Delivered,Debit Card,42.0,3.9,DP054
+FD10208,2025-05-10,19:45,C0246,Customer_0208,Green Bowl,Bengaluru,South Indian,4,99,20,376,376,Delivered,Credit Card,23.0,4.6,DP027
+FD10276,2025-05-11,08:30,C0105,Customer_0228,Green Bowl,Pune,Desserts,1,449,0,449,449,Delivered,Credit Card,50.0,4.7,DP056
+FD10042,2025-05-11,10:45,C0152,Customer_0250,Burger Hub,Delhi,Healthy Food,1,99,0,99,99,Delivered,Wallet,25.0,3.3,DP008
+FD10127,2025-05-11,11:15,C0030,Customer_0057,Cafe Delight,Hyderabad,Burger,1,129,0,129,129,Cancelled,Credit Card,,,Not Assigned
+FD10016,2025-05-11,15:30,C0142,Customer_0100,Biryani House,Vijayawada,Chinese,1,99,30,69,69,Delivered,Debit Card,20.0,3.1,DP019
+FD10626,2025-05-12,12:15,C0216,Customer_0080,Green Bowl,Chennai,Burger,1,399,0,399,399,Pending,UPI,,,Not Assigned
+FD11049,2025-05-12,22:00,C0002,Customer_0288, dosa Point,Bengaluru,Desserts,3,229,0,687,687,Delivered,Credit Card,35.0,4.5,DP075
+FD10593,2025-05-13,08:15,C0135,Customer_0114,Cafe Delight,Vijayawada,Burger,1,499,0,499,499,Delivered,UPI,23.0,3.1,DP040
+FD11145,2025-05-13,09:15,C0218,Customer_0206, dosa Point,Bengaluru,North Indian,3,129,0,387,387,Delivered,UPI,37.0,3.4,DP055
+FD10981,2025-05-13,09:45,C0337,Customer_0259,Pizza Corner,Vijayawada,Biryani,1,99,0,99,99,Delivered,Wallet,28.0,3.4,DP066
+FD10850,2025-05-13,12:00,C0280,Customer_0152,Cafe Delight,Vijayawada,Desserts,2,499,10,988,988,Delivered,UPI,36.0,5.0,DP038
+FD10745,2025-05-13,14:45,C0150,Customer_0264, dosa Point,Bengaluru,Pizza,1,499,20,479,479,Delivered,Debit Card,62.0,4.4,DP039
+FD10807,2025-05-13,21:00,C0028,Customer_0117,Pizza Corner,Kolkata,Pizza,1,129,0,129,129,Delivered,Wallet,64.0,3.5,DP046
+FD10971,2025-05-14,11:45,C0374,Customer_0014,Burger Hub,Mumbai,Pizza,1,149,0,149,149,Delivered,Credit Card,36.0,4.5,DP007
+FD10163,2025-05-14,15:00,C0002,Customer_0246,Pizza Corner,Kolkata,Biryani,2,199,0,398,398,Delivered,Wallet,29.0,4.4,DP013
+FD10655,2025-05-14,20:45,C0327,Customer_0200,Biryani House,Bengaluru,Chinese,1,499,0,499,499,Delivered,Credit Card,45.0,4.6,DP076
+FD11074,2025-05-14,21:30,C0082,Customer_0057,Tandoori Treats,Vijayawada,Chinese,4,399,50,1546,1546,Cancelled,Cash,,,Not Assigned
+FD11128,2025-05-14,22:15,C0311,Customer_0319,Tandoori Treats,Hyderabad,Burger,2,349,30,668,668,Delivered,Credit Card,49.0,4.9,DP079
+FD10044,2025-05-15,09:00,C0108,Customer_0236,South Meals,Vijayawada,Chinese,3,179,0,537,537,Pending,Credit Card,,,Not Assigned
+FD10111,2025-05-15,12:15,C0390,Customer_0107,Noodle Street,Kolkata,Biryani,1,449,30,419,419,Delivered,Cash,32.0,5.0,DP028
+FD10303,2025-05-15,19:30,C0011,Customer_0143,Burger Hub,Hyderabad,North Indian,1,199,0,199,199,Cancelled,Wallet,,,Not Assigned
+FD10618,2025-05-16,18:30,C0019,Customer_0066,Tandoori Treats,Bengaluru,South Indian,2,129,30,228,228,Delivered,Debit Card,26.0,5.0,DP016
+FD10101,2025-05-16,21:00,C0082,Customer_0219,Spice Garden,Mumbai,Healthy Food,5,129,30,615,615,Delivered,Debit Card,33.0,3.5,DP003
+FD10693,2025-05-16,23:45,C0183,Customer_0145,Noodle Street,Vijayawada,South Indian,2,349,20,678,678,Delivered,Wallet,35.0,4.7,DP019
+FD11106,2025-05-16,23:45,C0121,Customer_0090,Cafe Delight,Pune,South Indian,4,249,30,966,966,Delivered,UPI,50.0,5.0,DP076
+FD11170,2025-05-17,09:45,C0295,Customer_0389,Spice Garden,Hyderabad,Burger,1,349,10,339,339,Delivered,Wallet,20.0,3.5,DP050
+FD11026,2025-05-17,17:45,C0022,Customer_0068,Noodle Street,Hyderabad,Pizza,1,199,0,199,199,Cancelled,UPI,,,Not Assigned
+FD10957,2025-05-17,18:00,C0067,Customer_0209,Cafe Delight,Vijayawada,Burger,4,199,0,796,796,Pending,Wallet,,,Not Assigned
+FD10183,2025-05-17,18:45,C0026,Customer_0303,Biryani House,Hyderabad,South Indian,1,199,30,169,169,Delivered,Debit Card,39.0,5.0,DP064
+FD10809,2025-05-18,11:15,C0047,Customer_0256,Tandoori Treats,Bengaluru,Burger,2,249,10,488,488,Pending,UPI,,,Not Assigned
+FD11006,2025-05-18,12:15,C0007,Customer_0269,Biryani House,Mumbai,Pizza,4,99,30,366,366,Delivered,Credit Card,42.0,5.0,DP031
+FD10998,2025-05-19,13:30,C0013,Customer_0024,Cafe Delight,Pune,South Indian,1,299,50,249,249,Cancelled,Debit Card,,,Not Assigned
+FD10103,2025-05-19,15:00,C0322,Customer_0309,Pizza Corner,Pune,Burger,1,229,10,219,219,Delivered,Debit Card,27.0,4.0,DP010
+FD10267,2025-05-20,08:15,C0298,Customer_0373,Spice Garden,Hyderabad,Healthy Food,2,229,50,408,408,Delivered,Cash,41.0,3.8,DP037
+FD10990,2025-05-20,18:15,C0372,Customer_0176,Biryani House,Hyderabad,Chinese,1,99,0,99,99,Cancelled,Cash,,,Not Assigned
+FD10641,2025-05-21,14:30,C0171,Customer_0116,Noodle Street,Hyderabad,Desserts,1,229,10,219,219,Delivered,UPI,46.0,4.4,DP012
+FD11136,2025-05-21,15:15,C0014,Customer_0269,South Meals,Hyderabad,Burger,2,249,0,498,498,Delivered,UPI,42.0,3.3,DP009
+FD10608,2025-05-21,20:30,C0128,Customer_0200,Pizza Corner,Pune,Healthy Food,3,179,0,537,537,Cancelled,Credit Card,,,Not Assigned
+FD10994,2025-05-22,10:45,C0322,Customer_0205,Cafe Delight,Bengaluru,North Indian,1,299,10,289,289,Delivered,Cash,31.0,3.7,DP048
+FD10387,2025-05-22,19:45,C0298,Customer_0204,Spice Garden,Mumbai,Pizza,2,299,20,578,578,Pending,Debit Card,,,Not Assigned
+FD11065,2025-05-23,12:00,C0078,Customer_0373,Pizza Corner,Delhi,Healthy Food,1,149,0,149,149,Delivered,Cash,50.0,4.2,DP054
+FD10388,2025-05-23,20:30,C0044,Customer_0278,Biryani House,Chennai,Chinese,2,399,0,798,798,Cancelled,Credit Card,,,Not Assigned
+FD10677,2025-05-23,21:00,C0266,Customer_0086,Green Bowl,Bengaluru,Biryani,1,299,10,289,289,Delivered,Cash,43.0,4.2,DP037
+FD10148,2025-05-23,23:00,C0128,Customer_0340,South Meals,Kolkata,Desserts,1,449,10,439,439,Delivered,Debit Card,27.0,4.0,DP007
+FD10584,2025-05-24,09:45,C0228,Customer_0281,Cafe Delight,Kolkata,Chinese,3,149,20,427,427,Cancelled,Debit Card,,,Not Assigned
+FD10578,2025-05-24,13:00,C0188,Customer_0264,Green Bowl,Mumbai,Burger,4,229,50,866,866,Delivered,UPI,32.0,5.0,DP002
+FD10260,2025-05-24,14:30,C0070,Customer_0195, dosa Point,Chennai,Pizza,1,349,20,329,329,Delivered,Debit Card,22.0,4.3,DP064
+FD10465,2025-05-24,16:15,C0341,Customer_0057,Tandoori Treats,Mumbai,Desserts,2,149,50,248,248,Pending,Debit Card,,,Not Assigned
+FD10233,2025-05-24,17:15,C0373,Customer_0172,Green Bowl,Hyderabad,Burger,1,99,0,99,99,Pending,Debit Card,,,Not Assigned
+FD10426,2025-05-24,23:00,C0092,Customer_0190,Tandoori Treats,Mumbai,Healthy Food,2,399,0,798,798,Cancelled,Wallet,,,Not Assigned
+FD10681,2025-05-24,23:15,C0111,Customer_0291,Tandoori Treats,Pune,Chinese,1,499,0,499,499,Delivered,Credit Card,34.0,3.4,DP061
+FD10753,2025-05-25,09:30,C0191,Customer_0334,Tandoori Treats,Pune,South Indian,5,229,20,1125,1125,Delivered,Wallet,27.0,4.5,DP047
+FD10916,2025-05-25,15:15,C0374,Customer_0335,Cafe Delight,Bengaluru,Pizza,3,129,50,337,337,Delivered,Wallet,34.0,2.7,DP033
+FD10703,2025-05-25,17:45,C0133,Customer_0178, dosa Point,Kolkata,Chinese,3,229,20,667,667,Cancelled,Cash,,,Not Assigned
+FD10432,2025-05-25,20:00,C0353,Customer_0111,Green Bowl,Mumbai,Healthy Food,2,399,0,798,798,Delivered,Wallet,23.0,4.7,DP019
+FD10622,2025-05-25,20:00,C0123,Customer_0048,Cafe Delight,Chennai,South Indian,4,349,0,1396,1396,Delivered,Debit Card,25.0,4.5,DP074
+FD11067,2025-05-25,20:00,C0228,Customer_0085,Biryani House,Vijayawada,Healthy Food,1,349,20,329,329,Delivered,Wallet,16.0,5.0,DP079
+FD10924,2025-05-26,16:15,C0060,Customer_0021,Biryani House,Pune,Biryani,2,199,10,388,388,Cancelled,UPI,,,Not Assigned
+FD10725,2025-05-26,18:15,C0040,Customer_0273,Burger Hub,Delhi,Pizza,1,129,0,129,129,Pending,UPI,,,Not Assigned
+FD10599,2025-05-26,20:45,C0155,Customer_0245,Cafe Delight,Bengaluru,South Indian,1,249,0,249,249,Delivered,Cash,42.0,3.8,DP069
+FD10244,2025-05-27,10:30,C0375,Customer_0214,Tandoori Treats,Vijayawada,Chinese,4,229,20,896,896,Delivered,Debit Card,59.0,4.0,DP076
+FD10273,2025-05-27,10:45,C0350,Customer_0390,Spice Garden,Kolkata,Biryani,2,399,50,748,748,Delivered,Wallet,38.0,4.5,DP069
+FD10431,2025-05-27,11:30,C0221,Customer_0379,Pizza Corner,Bengaluru,Healthy Food,3,129,10,377,377,Pending,Credit Card,,,Not Assigned
+FD10671,2025-05-27,15:00,C0333,Customer_0224,Biryani House,Mumbai,North Indian,4,449,50,1746,1746,Delivered,UPI,47.0,4.4,DP057
+FD10325,2025-05-27,15:30,C0207,Customer_0028, dosa Point,Vijayawada,South Indian,2,129,0,258,258,Pending,Cash,,,Not Assigned
+FD10493,2025-05-27,20:45,C0230,Customer_0096,Green Bowl,Vijayawada,Pizza,2,199,30,368,368,Delivered,Cash,33.0,4.9,DP037
+FD10241,2025-05-28,10:45,C0155,Customer_0160,Noodle Street,Vijayawada,Desserts,1,449,30,419,419,Delivered,Cash,47.0,5.0,DP068
+FD10646,2025-05-28,12:00,C0358,Customer_0168,Cafe Delight,Vijayawada,Healthy Food,5,149,10,735,735,Delivered,Wallet,42.0,4.8,DP053
+FD11122,2025-05-28,13:30,C0123,Customer_0292,Biryani House,Bengaluru,Chinese,2,399,0,798,798,Delivered,Credit Card,27.0,5.0,DP063
+FD10245,2025-05-28,17:00,C0180,Customer_0253,Spice Garden,Delhi,Pizza,3,499,10,1487,1487,Delivered,Debit Card,39.0,2.5,DP040
+FD10663,2025-05-29,08:00,C0220,Customer_0336,Noodle Street,Pune,Chinese,2,399,10,788,788,Cancelled,Cash,,,Not Assigned
+FD11168,2025-05-29,11:15,C0019,Customer_0297, dosa Point,Mumbai,Desserts,1,249,30,219,219,Delivered,Cash,19.0,5.0,DP080
+FD10017,2025-05-30,08:15,C0083,Customer_0110,Burger Hub,Chennai,Pizza,5,449,10,2235,2235,Delivered,Debit Card,33.0,4.4,DP073
+FD10401,2025-05-30,08:45,C0127,Customer_0379,Cafe Delight,Hyderabad,South Indian,4,229,50,866,866,Delivered,Debit Card,45.0,4.1,DP076
+FD11199,2025-05-30,14:15,C0179,Customer_0237,Pizza Corner,Kolkata,Desserts,1,349,50,299,299,Pending,Cash,,,Not Assigned
+FD10944,2025-05-30,23:30,C0347,Customer_0081,Cafe Delight,Hyderabad,Biryani,4,129,0,516,516,Delivered,Credit Card,27.0,4.4,DP031
+FD10255,2025-05-31,14:15,C0088,Customer_0244,Noodle Street,Kolkata,Healthy Food,1,399,0,399,399,Pending,Cash,,,Not Assigned
+FD10549,2025-05-31,16:15,C0100,Customer_0189, dosa Point,Hyderabad,South Indian,2,199,0,398,398,Delivered,UPI,29.0,3.6,DP014
+FD10583,2025-05-31,17:45,C0250,Customer_0163,Tandoori Treats,Hyderabad,Burger,3,229,20,667,667,Pending,Wallet,,,Not Assigned
+FD10825,2025-05-31,21:30,C0178,Customer_0027,Cafe Delight,Bengaluru,South Indian,2,249,20,478,478,Delivered,Cash,29.0,4.0,DP021
+FD10365,2025-05-31,23:45,C0276,Customer_0264, dosa Point,Pune,Healthy Food,1,99,20,79,79,Pending,Credit Card,,,Not Assigned
+FD10190,2025-06-01,09:15,C0323,Customer_0106,Spice Garden,Vijayawada,South Indian,2,199,0,398,398,Delivered,Cash,39.0,3.9,DP041
+FD10505,2025-06-01,12:00,C0321,Customer_0219,Noodle Street,Chennai,Burger,2,349,0,698,698,Delivered,UPI,44.0,4.5,DP005
+FD11190,2025-06-01,14:45,C0100,Customer_0213,Biryani House,Vijayawada,Chinese,4,399,0,1596,1596,Cancelled,UPI,,,Not Assigned
+FD10548,2025-06-01,16:00,C0074,Customer_0175, dosa Point,Vijayawada,Healthy Food,2,149,20,278,278,Delivered,Credit Card,53.0,4.2,DP001
+FD10955,2025-06-01,17:30,C0119,Customer_0168,Spice Garden,Delhi,South Indian,1,149,50,99,99,Cancelled,Debit Card,,,Not Assigned
+FD10015,2025-06-01,20:30,C0142,Customer_0039,Noodle Street,Chennai,South Indian,1,199,0,199,199,Delivered,Wallet,46.0,3.2,DP079
+FD10277,2025-06-01,21:45,C0295,Customer_0189, dosa Point,Bengaluru,Healthy Food,2,299,0,598,598,Pending,Credit Card,,,Not Assigned
+FD10290,2025-06-02,08:45,C0215,Customer_0278, dosa Point,Bengaluru,Burger,1,449,0,449,449,Delivered,Credit Card,32.0,4.7,DP025
+FD11066,2025-06-02,13:15,C0172,Customer_0287,Tandoori Treats,Pune,North Indian,1,149,0,149,149,Cancelled,UPI,,,Not Assigned
+FD10396,2025-06-02,14:15,C0323,Customer_0210,Tandoori Treats,Bengaluru,South Indian,4,149,30,566,566,Delivered,Cash,23.0,4.8,DP005
+FD10891,2025-06-03,09:15,C0070,Customer_0160, dosa Point,Kolkata,Healthy Food,1,99,0,99,99,Pending,Credit Card,,,Not Assigned
+FD10464,2025-06-03,12:15,C0218,Customer_0077,Noodle Street,Vijayawada,Chinese,2,229,30,428,428,Delivered,Debit Card,29.0,4.1,DP063
+FD10767,2025-06-03,12:15,C0323,Customer_0297,Biryani House,Delhi,Pizza,3,399,0,1197,1197,Delivered,Credit Card,34.0,4.5,DP060
+FD11200,2025-06-03,15:00,C0118,Customer_0356,Spice Garden,Kolkata,South Indian,1,499,20,479,479,Delivered,UPI,27.0,4.1,DP046
+FD11174,2025-06-03,21:00,C0283,Customer_0051,Tandoori Treats,Mumbai,Burger,2,179,30,328,328,Delivered,Cash,51.0,3.6,DP040
+FD10367,2025-06-04,09:45,C0225,Customer_0073,Noodle Street,Kolkata,Burger,1,249,0,249,249,Cancelled,Wallet,,,Not Assigned
+FD10836,2025-06-04,19:15,C0245,Customer_0300, dosa Point,Hyderabad,South Indian,1,399,20,379,379,Delivered,UPI,25.0,4.7,DP002
+FD10687,2025-06-05,21:30,C0111,Customer_0210,Spice Garden,Hyderabad,North Indian,2,399,10,788,788,Delivered,Wallet,25.0,3.9,DP044
+FD10092,2025-06-06,10:15,C0167,Customer_0126,Noodle Street,Bengaluru,Pizza,2,249,0,498,498,Pending,Debit Card,,,Not Assigned
+FD11080,2025-06-06,14:45,C0161,Customer_0308,Pizza Corner,Chennai,South Indian,2,299,0,598,598,Delivered,Debit Card,30.0,3.5,DP010
+FD11083,2025-06-06,18:00,C0278,Customer_0032,Green Bowl,Chennai,Chinese,1,149,50,99,99,Cancelled,Cash,,,Not Assigned
+FD11108,2025-06-06,20:00,C0044,Customer_0308,Burger Hub,Vijayawada,South Indian,4,229,20,896,896,Pending,Debit Card,,,Not Assigned
+FD11105,2025-06-06,21:45,C0065,Customer_0380,Burger Hub,Kolkata,South Indian,2,499,30,968,968,Delivered,Credit Card,18.0,2.9,DP021
+FD10310,2025-06-07,12:15,C0382,Customer_0039,Cafe Delight,Bengaluru,Burger,2,129,30,228,228,Delivered,Credit Card,59.0,4.4,DP056
+FD10333,2025-06-07,13:15,C0296,Customer_0166,Burger Hub,Mumbai,Pizza,1,199,0,199,199,Delivered,UPI,32.0,3.2,DP013
+FD10430,2025-06-07,21:15,C0286,Customer_0022,Burger Hub,Delhi,Biryani,2,199,0,398,398,Pending,Credit Card,,,Not Assigned
+FD11098,2025-06-08,14:45,C0151,Customer_0109,Burger Hub,Pune,North Indian,1,229,0,229,229,Delivered,Cash,27.0,3.9,DP052
+FD10269,2025-06-09,11:30,C0027,Customer_0271,Pizza Corner,Mumbai,Healthy Food,1,129,30,99,99,Pending,Debit Card,,,Not Assigned
+FD10192,2025-06-09,12:15,C0202,Customer_0083,Biryani House,Kolkata,South Indian,2,99,0,198,198,Delivered,UPI,26.0,3.7,DP028
+FD10838,2025-06-09,13:15,C0094,Customer_0220, dosa Point,Chennai,North Indian,1,499,50,449,449,Cancelled,Credit Card,,,Not Assigned
+FD10219,2025-06-09,15:15,C0260,Customer_0243,Green Bowl,Chennai,Chinese,2,499,10,988,988,Delivered,Debit Card,46.0,4.7,DP045
+FD10153,2025-06-09,19:30,C0166,Customer_0383,Cafe Delight,Kolkata,Desserts,1,179,20,159,159,Delivered,Credit Card,32.0,4.3,DP031
+FD10503,2025-06-09,22:30,C0150,Customer_0020,Spice Garden,Vijayawada,Biryani,2,349,10,688,688,Pending,UPI,,,Not Assigned
+FD10659,2025-06-09,23:45,C0245,Customer_0043,Noodle Street,Delhi,Biryani,2,179,20,338,338,Cancelled,Credit Card,,,Not Assigned
+FD10298,2025-06-10,10:00,C0334,Customer_0199,Spice Garden,Hyderabad,Biryani,2,179,50,308,308,Delivered,Wallet,32.0,3.9,DP063
+FD10024,2025-06-10,10:15,C0087,Customer_0262,Green Bowl,Bengaluru,Pizza,2,129,0,258,258,Delivered,UPI,36.0,5.0,DP061
+FD11002,2025-06-10,14:45,C0106,Customer_0290,Biryani House,Vijayawada,Healthy Food,1,449,0,449,449,Delivered,Debit Card,27.0,3.4,DP064
+FD10349,2025-06-10,17:30,C0302,Customer_0334,Green Bowl,Bengaluru,South Indian,3,149,50,397,397,Delivered,UPI,27.0,4.0,DP002
+FD10280,2025-06-10,18:30,C0083,Customer_0319,Noodle Street,Kolkata,South Indian,1,299,0,299,299,Pending,Debit Card,,,Not Assigned
+FD11195,2025-06-10,23:15,C0032,Customer_0212,Burger Hub,Bengaluru,Pizza,1,99,0,99,99,Delivered,Debit Card,34.0,4.6,DP024
+FD10769,2025-06-11,23:00,C0376,Customer_0107,Noodle Street,Mumbai,Healthy Food,3,249,30,717,717,Pending,Wallet,,,Not Assigned
+FD10072,2025-06-11,23:30,C0175,Customer_0052,Green Bowl,Vijayawada,Chinese,1,199,10,189,189,Delivered,Cash,47.0,4.5,DP057
+FD10594,2025-06-12,09:45,C0004,Customer_0244,Green Bowl,Pune,Pizza,4,129,50,466,466,Pending,Debit Card,,,Not Assigned
+FD10295,2025-06-12,17:30,C0181,Customer_0131,Pizza Corner,Bengaluru,Pizza,2,399,0,798,798,Pending,Debit Card,,,Not Assigned
+FD10105,2025-06-12,18:45,C0025,Customer_0284,Spice Garden,Bengaluru,North Indian,1,149,20,129,129,Delivered,Cash,41.0,5.0,DP007
+FD10507,2025-06-12,20:00,C0052,Customer_0209,Green Bowl,Mumbai,Biryani,2,199,0,398,398,Cancelled,Credit Card,,,Not Assigned
+FD10540,2025-06-13,10:30,C0302,Customer_0113,Burger Hub,Mumbai,Desserts,2,229,20,438,438,Delivered,Wallet,39.0,5.0,DP026
+FD10691,2025-06-13,11:30,C0103,Customer_0333,Biryani House,Vijayawada,Chinese,1,499,0,499,499,Pending,Wallet,,,Not Assigned
+FD10669,2025-06-13,19:00,C0259,Customer_0371,Pizza Corner,Mumbai,South Indian,2,199,20,378,378,Delivered,Credit Card,38.0,4.9,DP060
+FD11044,2025-06-14,10:30,C0379,Customer_0383,Pizza Corner,Chennai,South Indian,2,129,0,258,258,Delivered,UPI,24.0,3.3,DP068
+FD10185,2025-06-14,11:15,C0044,Customer_0360,Cafe Delight,Delhi,North Indian,1,149,10,139,139,Delivered,UPI,40.0,4.2,DP071
+FD10750,2025-06-14,18:45,C0356,Customer_0309,Tandoori Treats,Pune,South Indian,1,499,50,449,449,Delivered,UPI,33.0,3.7,DP054
+FD10616,2025-06-14,19:00,C0259,Customer_0308, dosa Point,Delhi,South Indian,1,179,30,149,149,Cancelled,UPI,,,Not Assigned
+FD10800,2025-06-15,16:00,C0221,Customer_0393, dosa Point,Mumbai,Biryani,5,449,10,2235,2235,Delivered,Wallet,31.0,4.3,DP036
+FD10633,2025-06-16,14:00,C0304,Customer_0233,Tandoori Treats,Mumbai,Chinese,3,299,30,867,867,Delivered,Credit Card,23.0,5.0,DP078
+FD10047,2025-06-16,19:45,C0063,Customer_0294,Burger Hub,Chennai,North Indian,3,99,0,297,297,Delivered,Wallet,25.0,3.5,DP047
+FD10514,2025-06-17,16:45,C0297,Customer_0073,South Meals,Vijayawada,South Indian,2,299,20,578,578,Delivered,UPI,20.0,4.8,DP017
+FD10609,2025-06-17,20:15,C0361,Customer_0308,Burger Hub,Pune,Pizza,3,399,0,1197,1197,Delivered,Wallet,45.0,2.9,DP061
+FD11009,2025-06-17,20:30,C0033,Customer_0068,Biryani House,Vijayawada,South Indian,3,129,10,377,377,Delivered,Cash,35.0,4.1,DP049
+FD10297,2025-06-18,14:15,C0266,Customer_0118, dosa Point,Vijayawada,North Indian,1,179,20,159,159,Pending,Cash,,,Not Assigned
+FD10032,2025-06-19,08:00,C0357,Customer_0213,Spice Garden,Kolkata,Healthy Food,1,499,0,499,499,Delivered,UPI,62.0,3.8,DP023
+FD10610,2025-06-19,08:15,C0249,Customer_0221,Noodle Street,Kolkata,North Indian,3,249,30,717,717,Delivered,Debit Card,49.0,3.1,DP010
+FD10160,2025-06-19,08:30,C0315,Customer_0287,Biryani House,Pune,South Indian,3,149,0,447,447,Delivered,UPI,32.0,4.6,DP041
+FD10407,2025-06-19,09:15,C0368,Customer_0303,Noodle Street,Vijayawada,Pizza,3,249,0,747,747,Pending,Credit Card,,,Not Assigned
+FD10374,2025-06-19,11:30,C0288,Customer_0028,Spice Garden,Mumbai,Desserts,2,349,50,648,648,Delivered,Debit Card,55.0,4.4,DP030
+FD10845,2025-06-19,18:30,C0346,Customer_0072,Pizza Corner,Vijayawada,South Indian,1,399,10,389,389,Delivered,UPI,30.0,2.1,DP055
+FD11142,2025-06-20,18:30,C0259,Customer_0099,Burger Hub,Chennai,North Indian,3,149,0,447,447,Delivered,Credit Card,42.0,5.0,DP012
+FD10149,2025-06-20,21:30,C0073,Customer_0179,South Meals,Delhi,Pizza,2,449,50,848,848,Delivered,UPI,27.0,4.8,DP057
+FD10217,2025-06-21,13:45,C0016,Customer_0099,South Meals,Pune,Burger,1,179,10,169,169,Delivered,UPI,28.0,4.0,DP058
+FD10331,2025-06-21,14:00,C0194,Customer_0325,Tandoori Treats,Hyderabad,Desserts,2,249,0,498,498,Delivered,Credit Card,34.0,3.6,DP041
+FD10121,2025-06-21,14:45,C0206,Customer_0167,Tandoori Treats,Kolkata,Chinese,2,149,10,288,288,Delivered,Debit Card,60.0,4.4,DP015
+FD10189,2025-06-21,20:45,C0006,Customer_0288, dosa Point,Hyderabad,Healthy Food,3,449,30,1317,1317,Cancelled,Credit Card,,,Not Assigned
+FD11007,2025-06-21,22:15,C0126,Customer_0052,South Meals,Kolkata,Biryani,4,399,30,1566,1566,Delivered,Debit Card,32.0,3.7,DP077
+FD10658,2025-06-22,09:00,C0325,Customer_0179,Tandoori Treats,Delhi,North Indian,3,249,20,727,727,Delivered,Credit Card,35.0,4.7,DP008
+FD10979,2025-06-22,10:45,C0316,Customer_0236,Biryani House,Mumbai,Burger,4,179,20,696,696,Delivered,Credit Card,49.0,4.0,DP041
+FD11112,2025-06-22,16:00,C0181,Customer_0104,Biryani House,Hyderabad,South Indian,1,99,0,99,99,Delivered,Credit Card,12.0,5.0,DP063
+FD10758,2025-06-22,18:00,C0276,Customer_0239,Biryani House,Delhi,Chinese,2,99,30,168,168,Delivered,Cash,33.0,3.6,DP069
+FD10660,2025-06-22,20:00,C0197,Customer_0286,Cafe Delight,Chennai,Desserts,1,179,20,159,159,Delivered,Cash,44.0,5.0,DP038
+FD10383,2025-06-22,22:00,C0289,Customer_0126,Burger Hub,Pune,Pizza,4,499,0,1996,1996,Delivered,Cash,30.0,4.0,DP029
+FD10640,2025-06-22,22:30,C0107,Customer_0304,Tandoori Treats,Hyderabad,North Indian,3,179,0,537,537,Delivered,UPI,50.0,4.0,DP031
+FD10607,2025-06-23,18:15,C0304,Customer_0276,Pizza Corner,Vijayawada,Healthy Food,1,449,20,429,429,Delivered,Debit Card,37.0,4.6,DP002
+FD10360,2025-06-23,22:30,C0193,Customer_0099,Burger Hub,Kolkata,South Indian,1,249,50,199,199,Pending,UPI,,,Not Assigned
+FD10036,2025-06-24,23:00,C0369,Customer_0294,Biryani House,Vijayawada,Pizza,1,499,0,499,499,Delivered,Cash,40.0,5.0,DP056
+FD10307,2025-06-25,09:30,C0140,Customer_0329,Pizza Corner,Vijayawada,Pizza,2,299,20,578,578,Delivered,Debit Card,31.0,4.1,DP053
+FD10372,2025-06-25,22:30,C0271,Customer_0249,Pizza Corner,Chennai,Biryani,5,179,0,895,895,Delivered,Credit Card,40.0,3.9,DP068
+FD11196,2025-06-26,09:00,C0385,Customer_0341,Spice Garden,Hyderabad,Healthy Food,1,129,30,99,99,Delivered,Cash,41.0,4.5,DP025
+FD10544,2025-06-26,20:00,C0176,Customer_0126,Biryani House,Chennai,Desserts,1,449,0,449,449,Pending,Debit Card,,,Not Assigned
+FD10737,2025-06-26,21:30,C0038,Customer_0357,Noodle Street,Vijayawada,Pizza,5,299,0,1495,1495,Delivered,UPI,34.0,3.6,DP036
+FD10568,2025-06-26,22:30,C0067,Customer_0197,Burger Hub,Kolkata,Healthy Food,1,449,10,439,439,Cancelled,Credit Card,,,Not Assigned
+FD10728,2025-06-26,22:45,C0010,Customer_0284,Noodle Street,Pune,Chinese,5,199,0,995,995,Cancelled,Debit Card,,,Not Assigned
+FD10506,2025-06-27,10:15,C0329,Customer_0122,Noodle Street,Kolkata,Pizza,3,349,20,1027,1027,Delivered,Credit Card,24.0,4.7,DP023
+FD10696,2025-06-27,11:00,C0376,Customer_0230,Green Bowl,Mumbai,Biryani,1,399,50,349,349,Cancelled,Cash,,,Not Assigned
+FD11003,2025-06-27,19:00,C0004,Customer_0263, dosa Point,Chennai,Desserts,1,349,0,349,349,Cancelled,Debit Card,,,Not Assigned
+FD11188,2025-06-28,13:00,C0151,Customer_0296,Pizza Corner,Kolkata,Healthy Food,1,179,0,179,179,Cancelled,UPI,,,Not Assigned
+FD11076,2025-06-28,14:15,C0369,Customer_0246,Spice Garden,Mumbai,North Indian,3,179,0,537,537,Delivered,UPI,44.0,4.8,DP060
+FD10509,2025-06-28,17:00,C0190,Customer_0094,Biryani House,Kolkata,South Indian,1,179,30,149,149,Delivered,UPI,47.0,4.0,DP012
+FD11060,2025-06-28,21:30,C0282,Customer_0374,Spice Garden,Chennai,Healthy Food,1,199,0,199,199,Pending,Cash,,,Not Assigned
+FD10138,2025-06-28,22:30,C0056,Customer_0366,Cafe Delight,Vijayawada,Healthy Food,4,199,10,786,786,Pending,Wallet,,,Not Assigned
+FD10195,2025-06-29,09:30,C0018,Customer_0187, dosa Point,Vijayawada,Chinese,1,129,30,99,99,Delivered,UPI,36.0,3.7,DP047
+FD10936,2025-06-29,11:45,C0082,Customer_0128,Burger Hub,Pune,Burger,2,149,50,248,248,Cancelled,Wallet,,,Not Assigned
+FD10880,2025-06-29,13:30,C0264,Customer_0113,Pizza Corner,Vijayawada,Desserts,1,229,0,229,229,Delivered,Cash,33.0,3.5,DP060
+FD10490,2025-06-29,15:00,C0326,Customer_0334,South Meals,Hyderabad,Healthy Food,1,229,0,229,229,Delivered,UPI,22.0,2.6,DP019
+FD10406,2025-06-29,20:45,C0216,Customer_0212,Pizza Corner,Mumbai,South Indian,3,149,10,437,437,Cancelled,Wallet,,,Not Assigned
+FD11192,2025-06-29,21:00,C0166,Customer_0180,Cafe Delight,Mumbai,Desserts,1,199,20,179,179,Delivered,Debit Card,37.0,4.5,DP001
+FD10342,2025-06-30,18:45,C0393,Customer_0201,Cafe Delight,Kolkata,Burger,2,129,50,208,208,Delivered,Debit Card,35.0,3.5,DP005
+FD10588,2025-06-30,23:15,C0362,Customer_0054,Biryani House,Chennai,Chinese,4,449,50,1746,1746,Delivered,Cash,22.0,2.9,DP035
+FD11163,2025-07-01,08:30,C0017,Customer_0226,South Meals,Bengaluru,Pizza,1,179,0,179,179,Delivered,Cash,27.0,4.9,DP046
+FD11189,2025-07-01,11:45,C0059,Customer_0358,Cafe Delight,Chennai,Burger,2,449,30,868,868,Delivered,Cash,24.0,3.3,DP018
+FD10632,2025-07-01,19:00,C0154,Customer_0304,Cafe Delight,Bengaluru,Desserts,2,149,50,248,248,Delivered,UPI,23.0,5.0,DP008
+FD10826,2025-07-02,14:30,C0400,Customer_0252,Green Bowl,Vijayawada,Burger,4,199,30,766,766,Delivered,UPI,66.0,3.5,DP073
+FD10554,2025-07-02,18:30,C0151,Customer_0286,Pizza Corner,Vijayawada,Desserts,2,99,20,178,178,Delivered,Wallet,40.0,4.7,DP007
+FD11103,2025-07-03,10:15,C0212,Customer_0076,Spice Garden,Kolkata,Pizza,2,99,0,198,198,Delivered,Credit Card,35.0,4.5,DP080
+FD10831,2025-07-03,11:15,C0239,Customer_0253,Biryani House,Mumbai,Healthy Food,1,199,10,189,189,Delivered,UPI,44.0,5.0,DP038
+FD10224,2025-07-03,12:15,C0007,Customer_0366, dosa Point,Chennai,South Indian,1,349,20,329,329,Pending,UPI,,,Not Assigned
+FD10810,2025-07-03,14:45,C0360,Customer_0295,Tandoori Treats,Vijayawada,South Indian,2,229,10,448,448,Delivered,Credit Card,34.0,4.5,DP037
+FD10467,2025-07-04,08:15,C0079,Customer_0346,Cafe Delight,Chennai,Desserts,1,229,0,229,229,Pending,Wallet,,,Not Assigned
+FD10694,2025-07-05,11:00,C0374,Customer_0046,Biryani House,Kolkata,Desserts,2,349,30,668,668,Delivered,Debit Card,38.0,4.3,DP028
+FD10397,2025-07-05,19:00,C0063,Customer_0029,Pizza Corner,Mumbai,North Indian,5,349,30,1715,1715,Delivered,UPI,42.0,4.9,DP002
+FD10590,2025-07-05,19:00,C0111,Customer_0205,Burger Hub,Pune,Desserts,2,149,0,298,298,Cancelled,Credit Card,,,Not Assigned
+FD10893,2025-07-06,08:45,C0106,Customer_0004,Pizza Corner,Chennai,South Indian,3,449,0,1347,1347,Cancelled,Cash,,,Not Assigned
+FD10155,2025-07-06,11:45,C0397,Customer_0089,Pizza Corner,Chennai,South Indian,2,99,0,198,198,Delivered,UPI,24.0,2.5,DP015
+FD10205,2025-07-06,16:15,C0209,Customer_0225,Spice Garden,Kolkata,South Indian,1,199,10,189,189,Delivered,Wallet,19.0,4.2,DP071
+FD10566,2025-07-06,17:15,C0400,Customer_0308,Spice Garden,Delhi,Desserts,2,199,50,348,348,Delivered,Debit Card,35.0,5.0,DP013
+FD10237,2025-07-06,19:00,C0035,Customer_0006,Green Bowl,Delhi,North Indian,2,399,50,748,748,Cancelled,Debit Card,,,Not Assigned
+FD10090,2025-07-07,12:00,C0255,Customer_0254,Noodle Street,Bengaluru,Burger,2,99,0,198,198,Delivered,Credit Card,27.0,4.5,DP017
+FD10033,2025-07-07,20:15,C0099,Customer_0375,Noodle Street,Delhi,Chinese,3,229,10,677,677,Cancelled,Credit Card,,,Not Assigned
+FD10345,2025-07-07,20:15,C0119,Customer_0162,Green Bowl,Hyderabad,Chinese,2,399,0,798,798,Delivered,Wallet,32.0,4.8,DP058
+FD10006,2025-07-08,08:00,C0268,Customer_0074,Cafe Delight,Vijayawada,South Indian,3,129,0,387,387,Delivered,Cash,22.0,3.9,DP041
+FD10457,2025-07-08,21:15,C0077,Customer_0293,Spice Garden,Delhi,South Indian,1,249,10,239,239,Delivered,Cash,41.0,4.1,DP019
+FD10080,2025-07-09,10:00,C0089,Customer_0093,Tandoori Treats,Bengaluru,Burger,4,399,10,1586,1586,Delivered,Cash,35.0,4.5,DP020
+FD10550,2025-07-09,11:15,C0277,Customer_0229,Biryani House,Hyderabad,Biryani,3,99,30,267,267,Delivered,Credit Card,40.0,4.5,DP038
+FD10651,2025-07-09,11:45,C0142,Customer_0080,Pizza Corner,Kolkata,Healthy Food,2,499,30,968,968,Delivered,UPI,47.0,4.2,DP055
+FD10174,2025-07-09,16:15,C0387,Customer_0378,Biryani House,Bengaluru,South Indian,4,249,50,946,946,Delivered,UPI,52.0,3.8,DP062
+FD10035,2025-07-09,21:00,C0196,Customer_0056,Spice Garden,Bengaluru,Healthy Food,1,499,0,499,499,Delivered,Cash,33.0,3.2,DP019
+FD10399,2025-07-09,22:45,C0243,Customer_0258,Cafe Delight,Kolkata,Pizza,1,349,0,349,349,Delivered,Debit Card,39.0,3.7,DP026
+FD10652,2025-07-10,09:45,C0144,Customer_0008,Tandoori Treats,Delhi,Healthy Food,4,299,50,1146,1146,Delivered,UPI,40.0,3.8,DP054
+FD10069,2025-07-10,14:15,C0059,Customer_0132,Cafe Delight,Chennai,North Indian,1,449,0,449,449,Delivered,UPI,26.0,3.6,DP029
+FD10347,2025-07-10,22:00,C0231,Customer_0088,Spice Garden,Mumbai,Chinese,1,99,50,49,49,Cancelled,Debit Card,,,Not Assigned
+FD10702,2025-07-11,08:00,C0086,Customer_0133, dosa Point,Mumbai,Biryani,1,179,10,169,169,Delivered,Wallet,43.0,3.8,DP024
+FD10788,2025-07-11,08:45,C0120,Customer_0147,Tandoori Treats,Kolkata,Pizza,1,299,0,299,299,Delivered,Cash,25.0,3.7,DP037
+FD10542,2025-07-11,10:30,C0126,Customer_0170,Noodle Street,Bengaluru,Healthy Food,3,449,20,1327,1327,Delivered,Debit Card,47.0,5.0,DP030
+FD10905,2025-07-11,14:15,C0331,Customer_0177,Pizza Corner,Chennai,Burger,1,399,20,379,379,Pending,Credit Card,,,Not Assigned
+FD10458,2025-07-11,15:15,C0061,Customer_0026,Tandoori Treats,Bengaluru,Healthy Food,1,299,20,279,279,Cancelled,Debit Card,,,Not Assigned
+FD10022,2025-07-11,21:15,C0015,Customer_0361,Burger Hub,Hyderabad,South Indian,1,249,50,199,199,Delivered,Wallet,35.0,4.7,DP022
+FD10328,2025-07-11,22:30,C0214,Customer_0369,Green Bowl,Hyderabad,Biryani,2,449,10,888,888,Pending,Credit Card,,,Not Assigned
+FD10613,2025-07-13,10:15,C0145,Customer_0340, dosa Point,Kolkata,Pizza,3,179,10,527,527,Delivered,Debit Card,15.0,3.9,DP034
+FD10975,2025-07-13,14:45,C0370,Customer_0087,Cafe Delight,Bengaluru,Healthy Food,3,349,0,1047,1047,Pending,UPI,,,Not Assigned
+FD10293,2025-07-13,18:00,C0274,Customer_0042,South Meals,Delhi,North Indian,3,199,0,597,597,Cancelled,Credit Card,,,Not Assigned
+FD10304,2025-07-14,10:45,C0328,Customer_0106,Cafe Delight,Delhi,Burger,2,149,20,278,278,Pending,Credit Card,,,Not Assigned
+FD10833,2025-07-14,13:00,C0264,Customer_0342,Biryani House,Delhi,Pizza,1,249,0,249,249,Delivered,UPI,40.0,3.9,DP050
+FD10835,2025-07-14,16:00,C0300,Customer_0107,South Meals,Chennai,Chinese,3,129,0,387,387,Delivered,UPI,39.0,2.9,DP031
+FD10418,2025-07-15,09:45,C0244,Customer_0388,Green Bowl,Hyderabad,Chinese,1,129,0,129,129,Delivered,Debit Card,45.0,3.0,DP075
+FD11088,2025-07-15,10:45,C0355,Customer_0105,Burger Hub,Hyderabad,South Indian,1,99,10,89,89,Delivered,Debit Card,25.0,3.6,DP066
+FD10533,2025-07-15,17:15,C0257,Customer_0065,Spice Garden,Pune,Biryani,1,399,0,399,399,Delivered,Credit Card,30.0,3.9,DP077
+FD10743,2025-07-16,20:45,C0132,Customer_0056,Noodle Street,Bengaluru,Desserts,1,499,20,479,479,Pending,Debit Card,,,Not Assigned
+FD10713,2025-07-16,23:30,C0350,Customer_0356, dosa Point,Hyderabad,Desserts,5,129,10,635,635,Delivered,Credit Card,35.0,3.8,DP048
+FD10220,2025-07-17,09:30,C0365,Customer_0342,Burger Hub,Vijayawada,South Indian,3,499,0,1497,1497,Pending,Credit Card,,,Not Assigned
+FD10182,2025-07-17,13:15,C0143,Customer_0310,Spice Garden,Kolkata,North Indian,2,229,0,458,458,Pending,Debit Card,,,Not Assigned
+FD10946,2025-07-17,13:15,C0136,Customer_0315,Pizza Corner,Kolkata,Burger,1,179,20,159,159,Delivered,Debit Card,38.0,3.3,DP016
+FD10231,2025-07-17,19:00,C0383,Customer_0346,Tandoori Treats,Hyderabad,North Indian,3,129,0,387,387,Cancelled,Cash,,,Not Assigned
+FD11193,2025-07-17,20:00,C0400,Customer_0167,Spice Garden,Kolkata,North Indian,1,399,50,349,349,Delivered,UPI,45.0,3.7,DP017
+FD11073,2025-07-17,22:15,C0014,Customer_0120,Burger Hub,Vijayawada,North Indian,2,179,30,328,328,Delivered,Debit Card,37.0,3.7,DP029
+FD10247,2025-07-18,12:15,C0064,Customer_0343,Tandoori Treats,Vijayawada,Chinese,2,199,0,398,398,Delivered,Wallet,30.0,3.3,DP018
+FD11129,2025-07-19,12:45,C0279,Customer_0140,Tandoori Treats,Delhi,Chinese,2,99,30,168,168,Delivered,Credit Card,38.0,3.2,DP072
+FD10704,2025-07-20,13:45,C0125,Customer_0113,Biryani House,Bengaluru,Healthy Food,1,449,0,449,449,Delivered,Debit Card,36.0,3.9,DP049
+FD10112,2025-07-20,21:15,C0058,Customer_0363,Green Bowl,Hyderabad,Desserts,4,199,0,796,796,Delivered,Cash,33.0,5.0,DP037
+FD10235,2025-07-20,23:15,C0251,Customer_0144,Tandoori Treats,Mumbai,Desserts,1,229,0,229,229,Delivered,Cash,32.0,4.1,DP051
+FD10073,2025-07-21,09:15,C0084,Customer_0308,Noodle Street,Chennai,Desserts,4,349,30,1366,1366,Delivered,UPI,40.0,4.2,DP050
+FD10751,2025-07-21,11:45,C0269,Customer_0003,Pizza Corner,Vijayawada,Chinese,2,99,0,198,198,Delivered,Wallet,42.0,3.9,DP071
+FD11171,2025-07-21,15:45,C0363,Customer_0180,Biryani House,Vijayawada,Healthy Food,1,229,0,229,229,Delivered,UPI,38.0,4.5,DP019
+FD10908,2025-07-21,17:00,C0096,Customer_0122,Cafe Delight,Hyderabad,Chinese,1,99,30,69,69,Delivered,Debit Card,43.0,3.3,DP052
+FD10635,2025-07-21,18:45,C0139,Customer_0125, dosa Point,Hyderabad,North Indian,1,349,50,299,299,Delivered,Cash,44.0,2.9,DP074
+FD10977,2025-07-22,14:15,C0385,Customer_0032,Cafe Delight,Pune,Desserts,2,499,0,998,998,Pending,Debit Card,,,Not Assigned
+FD10666,2025-07-22,15:00,C0165,Customer_0193,Noodle Street,Bengaluru,Chinese,1,179,50,129,129,Cancelled,UPI,,,Not Assigned
+FD10223,2025-07-22,16:30,C0140,Customer_0051,Biryani House,Delhi,Chinese,2,229,50,408,408,Delivered,Wallet,46.0,4.6,DP080
+FD10474,2025-07-23,16:30,C0387,Customer_0138, dosa Point,Pune,South Indian,3,149,0,447,447,Cancelled,Credit Card,,,Not Assigned
+FD10818,2025-07-24,17:00,C0231,Customer_0228,Pizza Corner,Chennai,Healthy Food,3,229,30,657,657,Pending,Debit Card,,,Not Assigned
+FD10759,2025-07-24,18:15,C0240,Customer_0366,Spice Garden,Delhi,Chinese,2,229,0,458,458,Delivered,Credit Card,53.0,4.2,DP065
+FD10574,2025-07-25,09:45,C0220,Customer_0377,Burger Hub,Chennai,South Indian,3,99,10,287,287,Pending,Debit Card,,,Not Assigned
+FD10060,2025-07-25,10:00,C0011,Customer_0273,South Meals,Kolkata,Biryani,1,199,0,199,199,Cancelled,UPI,,,Not Assigned
+FD10134,2025-07-26,12:30,C0395,Customer_0207,Spice Garden,Hyderabad,Pizza,1,449,0,449,449,Pending,Credit Card,,,Not Assigned
+FD10881,2025-07-26,13:00,C0312,Customer_0268,Tandoori Treats,Mumbai,Chinese,1,129,0,129,129,Pending,UPI,,,Not Assigned
+FD10782,2025-07-26,13:15,C0395,Customer_0300, dosa Point,Hyderabad,Desserts,2,229,20,438,438,Delivered,Wallet,28.0,3.7,DP072
+FD10296,2025-07-27,16:15,C0049,Customer_0055, dosa Point,Chennai,Desserts,2,99,10,188,188,Delivered,Cash,47.0,3.4,DP007
+FD10275,2025-07-27,18:30,C0383,Customer_0097,Spice Garden,Vijayawada,South Indian,1,229,0,229,229,Pending,Cash,,,Not Assigned
+FD10083,2025-07-27,18:45,C0371,Customer_0109,Tandoori Treats,Kolkata,Healthy Food,4,199,0,796,796,Delivered,Credit Card,17.0,3.6,DP040
+FD11182,2025-07-29,15:00,C0048,Customer_0096,Biryani House,Hyderabad,Biryani,1,499,0,499,499,Delivered,Wallet,36.0,4.1,DP048
+FD11138,2025-07-29,22:00,C0275,Customer_0225,South Meals,Vijayawada,Burger,1,399,0,399,399,Delivered,Credit Card,34.0,4.7,DP012
+FD10705,2025-07-31,08:00,C0100,Customer_0252,Green Bowl,Delhi,Healthy Food,2,99,30,168,168,Pending,Cash,,,Not Assigned
+FD10986,2025-07-31,12:45,C0106,Customer_0129,Green Bowl,Chennai,Pizza,1,199,50,149,149,Cancelled,Cash,,,Not Assigned
+FD10918,2025-07-31,20:45,C0053,Customer_0149,Tandoori Treats,Pune,Pizza,1,229,50,179,179,Cancelled,Debit Card,,,Not Assigned
+FD10665,2025-08-01,08:00,C0290,Customer_0105,Noodle Street,Delhi,Healthy Food,3,349,10,1037,1037,Delivered,Debit Card,32.0,4.3,DP028
+FD10082,2025-08-01,14:00,C0105,Customer_0389, dosa Point,Bengaluru,Biryani,3,99,0,297,297,Delivered,Credit Card,20.0,4.1,DP041
+FD11043,2025-08-01,19:15,C0096,Customer_0234, dosa Point,Chennai,Desserts,1,149,0,149,149,Delivered,Credit Card,53.0,3.2,DP015
+FD10123,2025-08-02,10:15,C0093,Customer_0239,Spice Garden,Delhi,Desserts,1,129,0,129,129,Delivered,Wallet,58.0,5.0,DP029
+FD11156,2025-08-02,10:30,C0076,Customer_0019,Noodle Street,Hyderabad,Biryani,1,249,50,199,199,Pending,Credit Card,,,Not Assigned
+FD10885,2025-08-02,17:30,C0190,Customer_0340,Spice Garden,Hyderabad,Desserts,1,299,0,299,299,Delivered,Wallet,29.0,3.7,DP070
+FD10864,2025-08-02,19:30,C0021,Customer_0145,Noodle Street,Chennai,Pizza,2,299,50,548,548,Delivered,UPI,37.0,3.7,DP037
+FD10525,2025-08-03,08:00,C0359,Customer_0138,Green Bowl,Pune,Biryani,3,299,30,867,867,Delivered,UPI,43.0,5.0,DP030
+FD10010,2025-08-03,11:30,C0133,Customer_0227,Noodle Street,Mumbai,Chinese,1,449,20,429,429,Delivered,Credit Card,30.0,4.5,DP006
+FD10595,2025-08-03,15:00,C0367,Customer_0101,Spice Garden,Bengaluru,Burger,1,299,10,289,289,Delivered,Debit Card,31.0,3.2,DP045
+FD10393,2025-08-03,15:45,C0072,Customer_0330,Spice Garden,Kolkata,Chinese,4,129,30,486,486,Delivered,Wallet,42.0,5.0,DP058
+FD10078,2025-08-03,16:30,C0086,Customer_0044,Noodle Street,Delhi,Pizza,2,99,0,198,198,Delivered,Cash,50.0,4.3,DP028
+FD10118,2025-08-04,17:00,C0087,Customer_0076,Tandoori Treats,Vijayawada,Burger,1,149,50,99,99,Pending,UPI,,,Not Assigned
+FD11102,2025-08-04,17:00,C0021,Customer_0387,Tandoori Treats,Chennai,Chinese,4,199,0,796,796,Delivered,Debit Card,51.0,3.6,DP073
+FD10889,2025-08-04,19:30,C0131,Customer_0009,Noodle Street,Pune,Pizza,1,499,0,499,499,Pending,Credit Card,,,Not Assigned
+FD10564,2025-08-05,09:45,C0338,Customer_0321,Burger Hub,Pune,North Indian,2,349,50,648,648,Cancelled,Debit Card,,,Not Assigned
+FD10557,2025-08-05,10:00,C0179,Customer_0016,Cafe Delight,Hyderabad,Chinese,1,399,10,389,389,Delivered,Wallet,37.0,2.5,DP003
+FD10088,2025-08-05,16:00,C0397,Customer_0343, dosa Point,Hyderabad,Chinese,2,149,30,268,268,Delivered,Wallet,48.0,4.7,DP025
+FD10733,2025-08-05,17:30,C0013,Customer_0342,Burger Hub,Kolkata,Chinese,1,449,10,439,439,Delivered,Cash,25.0,5.0,DP021
+FD10624,2025-08-05,20:00,C0311,Customer_0119,Noodle Street,Pune,Biryani,1,449,0,449,449,Delivered,UPI,24.0,4.5,DP051
+FD10537,2025-08-05,21:15,C0226,Customer_0065,Cafe Delight,Vijayawada,Biryani,1,179,30,149,149,Cancelled,Cash,,,Not Assigned
+FD10130,2025-08-06,09:00,C0386,Customer_0062,Spice Garden,Bengaluru,South Indian,3,399,50,1147,1147,Delivered,Cash,34.0,4.6,DP061
+FD10070,2025-08-06,14:45,C0090,Customer_0104,Noodle Street,Kolkata,North Indian,1,499,20,479,479,Delivered,Cash,29.0,4.1,DP050
+FD10475,2025-08-06,15:00,C0106,Customer_0130,Spice Garden,Pune,Desserts,3,399,0,1197,1197,Delivered,Cash,48.0,3.0,DP009
+FD10218,2025-08-06,18:00,C0029,Customer_0112,Burger Hub,Bengaluru,Burger,2,99,0,198,198,Delivered,Cash,48.0,4.9,DP035
+FD11135,2025-08-06,19:00,C0209,Customer_0381,Spice Garden,Mumbai,Chinese,1,179,50,129,129,Delivered,UPI,40.0,3.6,DP071
+FD10857,2025-08-06,22:00,C0161,Customer_0352,Tandoori Treats,Chennai,Pizza,1,299,30,269,269,Delivered,Credit Card,25.0,2.8,DP047
+FD10332,2025-08-08,12:45,C0128,Customer_0179,Biryani House,Vijayawada,Biryani,1,199,0,199,199,Delivered,Cash,28.0,3.2,DP078
+FD10706,2025-08-08,13:30,C0380,Customer_0078,Burger Hub,Mumbai,Desserts,1,349,0,349,349,Delivered,Credit Card,33.0,4.1,DP017
+FD10209,2025-08-08,14:45,C0076,Customer_0346,Noodle Street,Hyderabad,Desserts,3,129,0,387,387,Delivered,UPI,33.0,4.5,DP048
+FD10643,2025-08-08,17:45,C0337,Customer_0398,Tandoori Treats,Pune,Burger,2,199,10,388,388,Delivered,UPI,38.0,4.2,DP052
+FD10967,2025-08-08,17:45,C0186,Customer_0012,Spice Garden,Mumbai,Pizza,2,299,50,548,548,Delivered,UPI,26.0,4.0,DP080
+FD10469,2025-08-08,21:45,C0253,Customer_0266,Pizza Corner,Pune,Healthy Food,1,99,20,79,79,Delivered,Debit Card,58.0,3.5,DP043
+FD10698,2025-08-08,23:30,C0078,Customer_0030,Cafe Delight,Mumbai,Biryani,4,349,0,1396,1396,Cancelled,Credit Card,,,Not Assigned
+FD10596,2025-08-09,20:30,C0021,Customer_0308,Burger Hub,Hyderabad,Biryani,2,499,50,948,948,Cancelled,Debit Card,,,Not Assigned
+FD10776,2025-08-10,12:15,C0036,Customer_0387,Noodle Street,Vijayawada,Chinese,1,399,0,399,399,Delivered,UPI,29.0,3.0,DP078
+FD10145,2025-08-10,12:30,C0059,Customer_0345,Noodle Street,Pune,Pizza,2,249,30,468,468,Delivered,Debit Card,30.0,4.2,DP065
+FD10481,2025-08-10,20:15,C0236,Customer_0281,Noodle Street,Pune,Healthy Food,3,399,30,1167,1167,Delivered,Credit Card,23.0,4.3,DP063
+FD10355,2025-08-11,12:15,C0239,Customer_0133,Tandoori Treats,Hyderabad,Chinese,2,299,20,578,578,Delivered,Wallet,30.0,5.0,DP037
+FD10591,2025-08-11,12:45,C0060,Customer_0296,Burger Hub,Chennai,North Indian,1,179,0,179,179,Pending,Credit Card,,,Not Assigned
+FD10575,2025-08-11,15:30,C0005,Customer_0078,Tandoori Treats,Pune,Desserts,4,349,0,1396,1396,Delivered,Cash,45.0,3.4,DP047
+FD10964,2025-08-11,16:15,C0244,Customer_0110,Burger Hub,Kolkata,Healthy Food,2,249,0,498,498,Delivered,Cash,32.0,4.8,DP029
+FD10491,2025-08-11,18:15,C0104,Customer_0075,Tandoori Treats,Hyderabad,Desserts,3,99,30,267,267,Cancelled,UPI,,,Not Assigned
+FD10726,2025-08-12,08:30,C0389,Customer_0024,Spice Garden,Delhi,South Indian,2,299,0,598,598,Cancelled,Debit Card,,,Not Assigned
+FD10212,2025-08-12,13:15,C0206,Customer_0127,South Meals,Vijayawada,Biryani,4,499,30,1966,1966,Pending,UPI,,,Not Assigned
+FD10684,2025-08-12,19:45,C0059,Customer_0054,Green Bowl,Mumbai,Desserts,3,199,30,567,567,Delivered,Wallet,30.0,3.6,DP016
+FD10551,2025-08-12,21:30,C0379,Customer_0142,Spice Garden,Delhi,Chinese,2,349,20,678,678,Delivered,UPI,39.0,4.9,DP012
+FD10213,2025-08-13,12:30,C0149,Customer_0104,Burger Hub,Pune,Healthy Food,3,179,0,537,537,Pending,Cash,,,Not Assigned
+FD10175,2025-08-13,15:30,C0302,Customer_0025,Biryani House,Vijayawada,Biryani,2,179,30,328,328,Cancelled,Credit Card,,,Not Assigned
+FD11068,2025-08-13,16:30,C0262,Customer_0350, dosa Point,Delhi,North Indian,1,249,0,249,249,Cancelled,Wallet,,,Not Assigned
+FD10186,2025-08-13,17:15,C0398,Customer_0368,South Meals,Vijayawada,Burger,1,99,0,99,99,Delivered,Cash,53.0,3.5,DP016
+FD10987,2025-08-13,23:15,C0116,Customer_0025,Cafe Delight,Delhi,Chinese,2,199,20,378,378,Delivered,Debit Card,53.0,3.8,DP060
+FD10790,2025-08-14,15:45,C0001,Customer_0249,Biryani House,Kolkata,Burger,2,129,20,238,238,Delivered,Cash,63.0,4.5,DP065
+FD10318,2025-08-14,16:00,C0397,Customer_0005, dosa Point,Mumbai,North Indian,1,299,30,269,269,Delivered,UPI,31.0,4.4,DP053
+FD10939,2025-08-14,18:30,C0030,Customer_0039, dosa Point,Vijayawada,South Indian,2,179,50,308,308,Delivered,Debit Card,25.0,4.5,DP045
+FD10903,2025-08-15,09:45,C0035,Customer_0023, dosa Point,Bengaluru,Chinese,2,129,30,228,228,Pending,Debit Card,,,Not Assigned
+FD10543,2025-08-15,13:30,C0342,Customer_0338,Tandoori Treats,Hyderabad,Pizza,2,149,50,248,248,Delivered,Credit Card,36.0,5.0,DP075
+FD10287,2025-08-15,16:15,C0067,Customer_0343,Pizza Corner,Bengaluru,Biryani,3,249,30,717,717,Pending,UPI,,,Not Assigned
+FD10125,2025-08-15,20:00,C0029,Customer_0117, dosa Point,Mumbai,Desserts,1,99,0,99,99,Delivered,UPI,26.0,5.0,DP054
+FD10670,2025-08-15,23:45,C0166,Customer_0128,Burger Hub,Chennai,Desserts,1,299,0,299,299,Pending,Debit Card,,,Not Assigned
+FD10701,2025-08-16,13:30,C0254,Customer_0180,Cafe Delight,Vijayawada,North Indian,2,249,0,498,498,Pending,UPI,,,Not Assigned
+FD10926,2025-08-16,22:15,C0105,Customer_0172,Burger Hub,Pune,Healthy Food,1,399,0,399,399,Delivered,UPI,25.0,4.3,DP021
+FD11100,2025-08-16,22:45,C0030,Customer_0097,Tandoori Treats,Mumbai,Biryani,2,199,0,398,398,Cancelled,Debit Card,,,Not Assigned
+FD10668,2025-08-17,09:45,C0147,Customer_0072,Green Bowl,Mumbai,Pizza,2,179,0,358,358,Cancelled,Debit Card,,,Not Assigned
+FD11038,2025-08-17,10:45,C0129,Customer_0385,Burger Hub,Vijayawada,Healthy Food,3,349,0,1047,1047,Delivered,UPI,36.0,4.8,DP067
+FD10439,2025-08-17,16:30,C0343,Customer_0196,South Meals,Vijayawada,Healthy Food,1,299,0,299,299,Cancelled,Wallet,,,Not Assigned
+FD10942,2025-08-17,18:15,C0002,Customer_0132,South Meals,Hyderabad,Desserts,3,349,0,1047,1047,Delivered,Credit Card,28.0,2.9,DP064
+FD10962,2025-08-17,19:30,C0178,Customer_0021, dosa Point,Bengaluru,South Indian,2,179,20,338,338,Delivered,Wallet,34.0,4.3,DP051
+FD10783,2025-08-17,22:15,C0356,Customer_0268,Burger Hub,Kolkata,South Indian,1,399,10,389,389,Delivered,Wallet,25.0,4.2,DP006
+FD10605,2025-08-18,09:15,C0264,Customer_0285,Noodle Street,Pune,Chinese,1,179,0,179,179,Cancelled,Wallet,,,Not Assigned
+FD10312,2025-08-18,18:45,C0289,Customer_0213,Pizza Corner,Hyderabad,Healthy Food,1,179,30,149,149,Cancelled,UPI,,,Not Assigned
+FD11082,2025-08-19,08:45,C0357,Customer_0388,Pizza Corner,Mumbai,Burger,1,299,0,299,299,Cancelled,Wallet,,,Not Assigned
+FD10911,2025-08-19,09:45,C0211,Customer_0313,Spice Garden,Hyderabad,Burger,1,149,50,99,99,Cancelled,Debit Card,,,Not Assigned
+FD10108,2025-08-19,11:30,C0369,Customer_0245,Tandoori Treats,Kolkata,Desserts,2,349,0,698,698,Delivered,Cash,30.0,4.3,DP047
+FD10146,2025-08-19,12:30,C0209,Customer_0093,Pizza Corner,Mumbai,Pizza,2,179,0,358,358,Delivered,UPI,36.0,3.7,DP059
+FD10141,2025-08-19,14:15,C0291,Customer_0086,Green Bowl,Kolkata,Chinese,3,229,0,687,687,Pending,Credit Card,,,Not Assigned
+FD10173,2025-08-19,21:45,C0282,Customer_0175,Pizza Corner,Kolkata,Healthy Food,4,99,50,346,346,Delivered,Credit Card,42.0,3.3,DP012
+FD10851,2025-08-21,09:15,C0210,Customer_0023,Green Bowl,Chennai,Pizza,1,299,0,299,299,Delivered,UPI,24.0,5.0,DP047
+FD10271,2025-08-21,11:00,C0347,Customer_0310,Pizza Corner,Bengaluru,North Indian,2,249,50,448,448,Cancelled,UPI,,,Not Assigned
+FD10194,2025-08-21,13:30,C0214,Customer_0173,Tandoori Treats,Kolkata,Biryani,1,129,0,129,129,Delivered,Credit Card,42.0,3.7,DP076
+FD10179,2025-08-21,14:30,C0381,Customer_0220, dosa Point,Pune,Biryani,1,249,0,249,249,Cancelled,Credit Card,,,Not Assigned
+FD10337,2025-08-21,16:30,C0087,Customer_0201,Spice Garden,Delhi,Pizza,1,499,20,479,479,Delivered,Debit Card,34.0,4.4,DP007
+FD10570,2025-08-21,16:45,C0268,Customer_0260,Biryani House,Delhi,Healthy Food,2,179,0,358,358,Delivered,Wallet,41.0,4.6,DP041
+FD10922,2025-08-21,16:45,C0031,Customer_0006,Burger Hub,Kolkata,North Indian,1,179,30,149,149,Delivered,Debit Card,34.0,3.8,DP075
+FD10674,2025-08-21,23:15,C0028,Customer_0026, dosa Point,Kolkata,South Indian,4,149,30,566,566,Delivered,Credit Card,35.0,4.1,DP067
+FD10188,2025-08-22,20:00,C0286,Customer_0230,Pizza Corner,Hyderabad,North Indian,4,299,10,1186,1186,Delivered,Wallet,20.0,3.4,DP039
+FD10820,2025-08-23,11:00,C0283,Customer_0366,South Meals,Bengaluru,Healthy Food,1,99,50,49,49,Delivered,Credit Card,34.0,2.6,DP063
+FD10597,2025-08-23,23:30,C0336,Customer_0215,Cafe Delight,Pune,Burger,3,249,20,727,727,Delivered,Debit Card,35.0,4.0,DP015
+FD10931,2025-08-24,15:15,C0198,Customer_0047,South Meals,Delhi,Burger,3,499,50,1447,1447,Delivered,Wallet,26.0,4.3,DP050
+FD11024,2025-08-24,16:00,C0121,Customer_0178, dosa Point,Vijayawada,Desserts,1,179,30,149,149,Delivered,Debit Card,43.0,3.7,DP010
+FD10775,2025-08-24,16:15,C0010,Customer_0117,Cafe Delight,Hyderabad,Healthy Food,2,199,20,378,378,Delivered,Credit Card,31.0,3.6,DP053
+FD10028,2025-08-24,21:00,C0072,Customer_0109,Spice Garden,Delhi,Pizza,3,149,0,447,447,Cancelled,Cash,,,Not Assigned
+FD10455,2025-08-25,10:30,C0012,Customer_0035,South Meals,Mumbai,South Indian,1,399,0,399,399,Cancelled,UPI,,,Not Assigned
+FD11051,2025-08-25,10:45,C0190,Customer_0372,Burger Hub,Pune,Biryani,3,149,20,427,427,Delivered,Wallet,40.0,3.9,DP080
+FD10147,2025-08-25,13:00,C0184,Customer_0090,Pizza Corner,Delhi,Biryani,2,499,30,968,968,Delivered,Credit Card,36.0,4.5,DP036
+FD10084,2025-08-25,22:15,C0109,Customer_0221,Cafe Delight,Bengaluru,Desserts,2,179,50,308,308,Delivered,Debit Card,37.0,4.8,DP046
+FD10473,2025-08-26,08:00,C0026,Customer_0194,Green Bowl,Pune,Biryani,1,499,50,449,449,Cancelled,UPI,,,Not Assigned
+FD10309,2025-08-26,10:15,C0246,Customer_0189,Green Bowl,Mumbai,Pizza,1,179,50,129,129,Delivered,Credit Card,47.0,3.5,DP006
+FD10898,2025-08-26,20:30,C0109,Customer_0044,Burger Hub,Pune,Chinese,3,299,0,897,897,Delivered,Cash,27.0,4.7,DP018
+FD10600,2025-08-27,10:15,C0205,Customer_0029,Green Bowl,Kolkata,Desserts,1,499,50,449,449,Pending,Credit Card,,,Not Assigned
+FD10727,2025-08-27,13:15,C0118,Customer_0154,Spice Garden,Vijayawada,Pizza,2,149,20,278,278,Delivered,UPI,16.0,3.1,DP062
+FD10865,2025-08-27,13:30,C0314,Customer_0259,Biryani House,Kolkata,Biryani,3,499,0,1497,1497,Delivered,Debit Card,30.0,3.5,DP055
+FD10900,2025-08-27,17:45,C0033,Customer_0361,Spice Garden,Hyderabad,Desserts,1,129,30,99,99,Delivered,Credit Card,48.0,3.0,DP019
+FD10448,2025-08-27,22:30,C0394,Customer_0184,Noodle Street,Mumbai,North Indian,3,299,0,897,897,Pending,Cash,,,Not Assigned
+FD10707,2025-08-28,17:00,C0332,Customer_0341,Spice Garden,Vijayawada,North Indian,2,149,20,278,278,Delivered,Cash,17.0,3.9,DP058
+FD10232,2025-08-28,21:30,C0350,Customer_0155,Tandoori Treats,Bengaluru,Chinese,1,229,0,229,229,Cancelled,Wallet,,,Not Assigned
+FD10822,2025-08-28,22:15,C0147,Customer_0222,Tandoori Treats,Kolkata,Burger,2,149,0,298,298,Delivered,UPI,30.0,3.6,DP078
+FD10142,2025-08-29,14:15,C0339,Customer_0025,South Meals,Delhi,North Indian,3,179,50,487,487,Delivered,Debit Card,18.0,3.0,DP043
+FD10052,2025-08-30,10:30,C0188,Customer_0322,Pizza Corner,Hyderabad,North Indian,2,129,0,258,258,Delivered,Cash,42.0,4.8,DP034
+FD10642,2025-08-30,17:00,C0345,Customer_0249,Cafe Delight,Bengaluru,Desserts,3,149,0,447,447,Delivered,Cash,29.0,4.1,DP080
+FD10718,2025-08-30,18:30,C0251,Customer_0384,Tandoori Treats,Pune,South Indian,1,399,50,349,349,Cancelled,Credit Card,,,Not Assigned
+FD10523,2025-08-30,22:45,C0273,Customer_0068,South Meals,Hyderabad,Biryani,2,499,30,968,968,Delivered,Debit Card,36.0,3.1,DP002
+FD10959,2025-08-31,13:00,C0089,Customer_0032,Noodle Street,Mumbai,Pizza,1,499,30,469,469,Delivered,UPI,34.0,4.0,DP077
+FD11116,2025-08-31,15:45,C0208,Customer_0242,Burger Hub,Mumbai,South Indian,2,179,10,348,348,Cancelled,Credit Card,,,Not Assigned
+FD10156,2025-08-31,17:30,C0082,Customer_0333,Noodle Street,Kolkata,South Indian,1,249,50,199,199,Cancelled,Cash,,,Not Assigned
+FD10040,2025-09-01,08:15,C0343,Customer_0387, dosa Point,Hyderabad,Desserts,1,99,20,79,79,Delivered,Wallet,30.0,3.6,DP051
+FD11177,2025-09-01,09:15,C0249,Customer_0102,Spice Garden,Chennai,Healthy Food,1,399,0,399,399,Cancelled,UPI,,,Not Assigned
+FD10371,2025-09-03,09:30,C0301,Customer_0333,Spice Garden,Vijayawada,Healthy Food,1,349,50,299,299,Delivered,Credit Card,27.0,4.5,DP035
+FD10486,2025-09-03,14:15,C0099,Customer_0317,Spice Garden,Kolkata,Biryani,1,129,20,109,109,Pending,Credit Card,,,Not Assigned
+FD10462,2025-09-04,09:15,C0154,Customer_0167,South Meals,Bengaluru,Chinese,1,179,20,159,159,Cancelled,Cash,,,Not Assigned
+FD10958,2025-09-04,09:15,C0087,Customer_0039,Noodle Street,Delhi,South Indian,2,299,0,598,598,Cancelled,Cash,,,Not Assigned
+FD10501,2025-09-04,11:00,C0059,Customer_0177,Spice Garden,Chennai,Chinese,2,149,20,278,278,Delivered,UPI,39.0,4.7,DP030
+FD10803,2025-09-04,12:30,C0186,Customer_0347,Burger Hub,Vijayawada,South Indian,1,129,20,109,109,Cancelled,Credit Card,,,Not Assigned
+FD10375,2025-09-04,14:45,C0325,Customer_0128,Burger Hub,Pune,Desserts,1,349,50,299,299,Delivered,Debit Card,59.0,5.0,DP053
+FD10221,2025-09-04,19:30,C0211,Customer_0240,Tandoori Treats,Chennai,South Indian,2,149,0,298,298,Delivered,Debit Card,45.0,3.6,DP026
+FD10539,2025-09-06,15:45,C0119,Customer_0383,Spice Garden,Delhi,Burger,2,349,0,698,698,Cancelled,Debit Card,,,Not Assigned
+FD10861,2025-09-06,20:30,C0329,Customer_0216,Biryani House,Bengaluru,Chinese,1,149,30,119,119,Delivered,Wallet,28.0,4.1,DP080
+FD10824,2025-09-06,21:15,C0260,Customer_0344,South Meals,Pune,Desserts,2,249,0,498,498,Delivered,Credit Card,25.0,4.0,DP077
+FD10799,2025-09-06,21:30,C0372,Customer_0063,Tandoori Treats,Vijayawada,North Indian,2,229,20,438,438,Delivered,Cash,43.0,4.3,DP078
+FD10484,2025-09-07,19:15,C0343,Customer_0105,Pizza Corner,Mumbai,Chinese,2,99,50,148,148,Delivered,UPI,29.0,3.0,DP061
+FD10492,2025-09-07,21:00,C0217,Customer_0322,Pizza Corner,Vijayawada,Biryani,4,399,0,1596,1596,Delivered,Cash,42.0,3.5,DP077
+FD10768,2025-09-07,22:00,C0066,Customer_0168,Green Bowl,Vijayawada,Pizza,1,229,10,219,219,Pending,UPI,,,Not Assigned
+FD10777,2025-09-08,10:00,C0339,Customer_0083, dosa Point,Pune,North Indian,1,499,0,499,499,Delivered,Cash,45.0,4.6,DP002
+FD10719,2025-09-08,10:45,C0002,Customer_0152,Spice Garden,Delhi,Biryani,2,499,50,948,948,Delivered,Wallet,33.0,3.9,DP060
+FD11187,2025-09-08,19:00,C0187,Customer_0159,Green Bowl,Pune,Biryani,2,499,0,998,998,Pending,Wallet,,,Not Assigned
+FD10259,2025-09-09,09:00,C0223,Customer_0089,Pizza Corner,Mumbai,South Indian,2,249,20,478,478,Cancelled,UPI,,,Not Assigned
+FD10242,2025-09-09,12:00,C0094,Customer_0269,Biryani House,Bengaluru,South Indian,1,129,0,129,129,Delivered,Credit Card,51.0,4.6,DP066
+FD10079,2025-09-09,14:30,C0091,Customer_0278,Biryani House,Chennai,Biryani,1,449,20,429,429,Delivered,Wallet,44.0,3.8,DP067
+FD10789,2025-09-09,16:45,C0288,Customer_0257,Spice Garden,Bengaluru,Biryani,2,399,10,788,788,Cancelled,Cash,,,Not Assigned
+FD10629,2025-09-09,22:00,C0271,Customer_0227,Noodle Street,Hyderabad,Burger,3,399,20,1177,1177,Pending,Debit Card,,,Not Assigned
+FD10667,2025-09-09,22:00,C0217,Customer_0320,Green Bowl,Kolkata,Burger,2,399,20,778,778,Delivered,UPI,35.0,4.1,DP056
+FD10089,2025-09-09,22:30,C0374,Customer_0228,Tandoori Treats,Vijayawada,Desserts,1,149,30,119,119,Delivered,Wallet,43.0,3.9,DP054
+FD10710,2025-09-10,09:45,C0051,Customer_0087,South Meals,Mumbai,Burger,1,99,30,69,69,Pending,Credit Card,,,Not Assigned
+FD10027,2025-09-10,10:45,C0307,Customer_0059,Tandoori Treats,Kolkata,Biryani,4,349,20,1376,1376,Delivered,Wallet,27.0,4.3,DP064
+FD10522,2025-09-10,13:45,C0299,Customer_0076,Burger Hub,Chennai,North Indian,3,229,30,657,657,Delivered,Debit Card,40.0,3.9,DP024
+FD10604,2025-09-10,15:00,C0329,Customer_0297, dosa Point,Delhi,Healthy Food,1,449,0,449,449,Delivered,Wallet,33.0,4.6,DP027
+FD10348,2025-09-10,23:15,C0004,Customer_0152,Burger Hub,Chennai,South Indian,2,399,0,798,798,Delivered,UPI,24.0,4.1,DP040
+FD10879,2025-09-10,23:30,C0296,Customer_0135,Green Bowl,Bengaluru,Biryani,1,299,50,249,249,Delivered,Debit Card,38.0,4.8,DP013
+FD11087,2025-09-11,09:00,C0069,Customer_0004,Noodle Street,Bengaluru,Healthy Food,1,499,50,449,449,Delivered,Debit Card,39.0,4.9,DP067
+FD10480,2025-09-11,12:30,C0042,Customer_0085,Noodle Street,Mumbai,Healthy Food,1,499,0,499,499,Delivered,Debit Card,40.0,4.6,DP057
+FD10266,2025-09-11,15:45,C0246,Customer_0237,Cafe Delight,Kolkata,Burger,3,99,20,277,277,Pending,UPI,,,Not Assigned
+FD10286,2025-09-11,16:00,C0109,Customer_0055,Noodle Street,Delhi,North Indian,3,229,20,667,667,Delivered,Credit Card,32.0,4.0,DP055
+FD11124,2025-09-11,19:30,C0328,Customer_0308,Tandoori Treats,Mumbai,Pizza,2,179,20,338,338,Delivered,Debit Card,45.0,3.3,DP015
+FD10131,2025-09-12,09:15,C0318,Customer_0295, dosa Point,Mumbai,Biryani,1,349,10,339,339,Delivered,Debit Card,49.0,4.4,DP064
+FD10226,2025-09-12,17:00,C0358,Customer_0106,Biryani House,Vijayawada,Chinese,2,149,30,268,268,Pending,Cash,,,Not Assigned
+FD10780,2025-09-12,17:30,C0391,Customer_0373,South Meals,Mumbai,Desserts,2,299,10,588,588,Delivered,Debit Card,33.0,3.5,DP027
+FD10712,2025-09-13,21:30,C0150,Customer_0397, dosa Point,Bengaluru,Desserts,3,179,0,537,537,Cancelled,Wallet,,,Not Assigned
+FD10350,2025-09-13,23:15,C0022,Customer_0367,Tandoori Treats,Chennai,Burger,1,179,0,179,179,Delivered,Cash,38.0,4.0,DP058
+FD11158,2025-09-14,12:45,C0309,Customer_0262,Biryani House,Hyderabad,Biryani,3,199,0,597,597,Pending,Wallet,,,Not Assigned
+FD10495,2025-09-14,16:15,C0310,Customer_0031, dosa Point,Vijayawada,Pizza,2,449,20,878,878,Delivered,Credit Card,34.0,2.4,DP030
+FD10875,2025-09-14,16:45,C0200,Customer_0144, dosa Point,Mumbai,Chinese,3,349,10,1037,1037,Delivered,Credit Card,45.0,4.2,DP022
+FD10128,2025-09-14,20:00,C0335,Customer_0220,South Meals,Bengaluru,Biryani,1,229,30,199,199,Delivered,Wallet,41.0,3.6,DP066
+FD10019,2025-09-15,08:15,C0227,Customer_0334,Noodle Street,Mumbai,Burger,1,349,0,349,349,Delivered,Cash,43.0,3.0,DP008
+FD10502,2025-09-15,20:45,C0199,Customer_0271,South Meals,Hyderabad,Chinese,4,129,50,466,466,Delivered,UPI,50.0,3.3,DP044
+FD11001,2025-09-16,08:15,C0209,Customer_0186,Noodle Street,Mumbai,South Indian,1,449,0,449,449,Delivered,Wallet,55.0,3.4,DP068
+FD10240,2025-09-16,08:45,C0334,Customer_0377,Tandoori Treats,Chennai,Chinese,4,299,0,1196,1196,Delivered,Wallet,42.0,4.6,DP043
+FD10747,2025-09-16,14:15,C0237,Customer_0356,Spice Garden,Chennai,Burger,1,399,10,389,389,Delivered,UPI,42.0,4.3,DP039
+FD10680,2025-09-16,16:15,C0188,Customer_0395,Cafe Delight,Hyderabad,Desserts,3,499,0,1497,1497,Delivered,Cash,24.0,4.6,DP072
+FD10180,2025-09-16,16:45,C0278,Customer_0040,Biryani House,Kolkata,Biryani,2,129,50,208,208,Delivered,UPI,36.0,3.8,DP063
+FD10771,2025-09-16,18:15,C0282,Customer_0121,Cafe Delight,Kolkata,South Indian,1,499,50,449,449,Delivered,Wallet,25.0,4.8,DP047
+FD10760,2025-09-17,10:30,C0383,Customer_0209,Spice Garden,Delhi,Burger,1,199,10,189,189,Delivered,Cash,27.0,4.1,DP010
+FD10067,2025-09-17,19:00,C0170,Customer_0187,Noodle Street,Hyderabad,North Indian,1,99,10,89,89,Delivered,Wallet,38.0,4.9,DP025
+FD10107,2025-09-18,11:15,C0132,Customer_0093,Noodle Street,Chennai,Pizza,1,229,0,229,229,Delivered,Debit Card,39.0,4.3,DP017
+FD11107,2025-09-18,17:45,C0147,Customer_0107,Green Bowl,Pune,Healthy Food,1,399,0,399,399,Pending,Wallet,,,Not Assigned
+FD11005,2025-09-18,21:15,C0358,Customer_0087,Biryani House,Bengaluru,Chinese,2,129,10,248,248,Delivered,Cash,42.0,3.8,DP013
+FD10816,2025-09-19,15:30,C0240,Customer_0310,Pizza Corner,Chennai,Biryani,4,199,10,786,786,Delivered,Wallet,12.0,3.3,DP018
+FD10419,2025-09-19,21:15,C0050,Customer_0398,Green Bowl,Hyderabad,Burger,2,129,0,258,258,Cancelled,UPI,,,Not Assigned
+FD10258,2025-09-20,13:15,C0074,Customer_0073,South Meals,Kolkata,Pizza,1,399,20,379,379,Delivered,Cash,56.0,4.1,DP023
+FD10528,2025-09-21,11:45,C0103,Customer_0124, dosa Point,Bengaluru,Burger,2,99,30,168,168,Delivered,Cash,28.0,4.2,DP060
+FD10058,2025-09-21,14:00,C0137,Customer_0162,South Meals,Mumbai,Pizza,1,199,10,189,189,Delivered,Debit Card,34.0,4.2,DP013
+FD10930,2025-09-21,19:15,C0211,Customer_0367, dosa Point,Pune,Healthy Food,4,199,50,746,746,Pending,UPI,,,Not Assigned
+FD10386,2025-09-21,19:45,C0255,Customer_0374,Tandoori Treats,Chennai,North Indian,1,399,0,399,399,Delivered,Debit Card,36.0,5.0,DP026
+FD10412,2025-09-21,19:45,C0400,Customer_0218,Spice Garden,Vijayawada,Healthy Food,1,179,0,179,179,Delivered,Debit Card,32.0,4.3,DP016
+FD10315,2025-09-21,20:15,C0280,Customer_0034,Biryani House,Bengaluru,Desserts,2,149,0,298,298,Delivered,Credit Card,26.0,3.3,DP057
+FD11017,2025-09-22,11:30,C0337,Customer_0259,Noodle Street,Hyderabad,North Indian,1,449,0,449,449,Pending,Credit Card,,,Not Assigned
+FD10572,2025-09-22,18:00,C0110,Customer_0200,Pizza Corner,Vijayawada,South Indian,3,199,50,547,547,Cancelled,Credit Card,,,Not Assigned
+FD10053,2025-09-22,22:00,C0118,Customer_0221,Tandoori Treats,Delhi,Healthy Food,1,299,50,249,249,Pending,UPI,,,Not Assigned
+FD11157,2025-09-24,13:15,C0250,Customer_0098,Spice Garden,Kolkata,Chinese,1,349,0,349,349,Delivered,Cash,31.0,2.5,DP051
+FD11036,2025-09-24,14:15,C0041,Customer_0396,Noodle Street,Chennai,South Indian,1,99,50,49,49,Delivered,Wallet,36.0,3.5,DP054
+FD10254,2025-09-24,18:00,C0134,Customer_0021, dosa Point,Pune,Desserts,1,299,50,249,249,Delivered,UPI,41.0,2.8,DP048
+FD10729,2025-09-24,22:30,C0292,Customer_0398,Cafe Delight,Vijayawada,Chinese,3,179,0,537,537,Pending,Debit Card,,,Not Assigned
+FD10553,2025-09-25,09:00,C0370,Customer_0052,Pizza Corner,Bengaluru,South Indian,3,299,0,897,897,Delivered,Debit Card,34.0,4.8,DP013
+FD10511,2025-09-25,09:45,C0289,Customer_0386,Spice Garden,Hyderabad,Pizza,2,149,0,298,298,Delivered,UPI,25.0,4.1,DP016
+FD10199,2025-09-25,11:00,C0027,Customer_0311,South Meals,Delhi,South Indian,2,179,0,358,358,Cancelled,UPI,,,Not Assigned
+FD10773,2025-09-25,13:15,C0087,Customer_0067,Biryani House,Chennai,Chinese,2,149,20,278,278,Delivered,Wallet,39.0,3.6,DP042
+FD10114,2025-09-25,14:15,C0242,Customer_0121,Spice Garden,Pune,Chinese,2,299,10,588,588,Delivered,Wallet,38.0,3.8,DP029
+FD10427,2025-09-26,10:15,C0230,Customer_0156,Biryani House,Chennai,South Indian,1,179,0,179,179,Delivered,Credit Card,36.0,2.5,DP020
+FD11039,2025-09-27,10:45,C0004,Customer_0215,Tandoori Treats,Mumbai,Biryani,3,249,20,727,727,Cancelled,Cash,,,Not Assigned
+FD10074,2025-09-27,14:15,C0210,Customer_0078, dosa Point,Pune,North Indian,1,129,50,79,79,Cancelled,Debit Card,,,Not Assigned
+FD10077,2025-09-28,08:00,C0247,Customer_0008, dosa Point,Vijayawada,Chinese,4,129,0,516,516,Delivered,Cash,41.0,4.0,DP065
+FD10003,2025-09-28,12:00,C0243,Customer_0319,Spice Garden,Vijayawada,Desserts,1,299,30,269,269,Delivered,Wallet,36.0,4.1,DP020
+FD10034,2025-09-28,20:45,C0041,Customer_0063,Tandoori Treats,Vijayawada,Burger,2,499,0,998,998,Delivered,Credit Card,57.0,3.1,DP057
+FD10409,2025-09-28,23:15,C0029,Customer_0151,Biryani House,Pune,Healthy Food,3,399,20,1177,1177,Delivered,UPI,31.0,2.9,DP033
+FD10685,2025-09-29,19:00,C0052,Customer_0116, dosa Point,Delhi,North Indian,5,349,30,1715,1715,Pending,Wallet,,,Not Assigned
+FD10456,2025-09-29,20:00,C0159,Customer_0128,Pizza Corner,Kolkata,Healthy Food,1,149,0,149,149,Cancelled,UPI,,,Not Assigned
+FD10561,2025-09-30,16:30,C0110,Customer_0355,Biryani House,Vijayawada,Healthy Food,2,99,0,198,198,Cancelled,UPI,,,Not Assigned
+FD10368,2025-09-30,18:00,C0221,Customer_0389, dosa Point,Kolkata,Pizza,1,149,0,149,149,Delivered,Cash,41.0,4.7,DP027
+FD10812,2025-09-30,20:45,C0394,Customer_0136,Tandoori Treats,Vijayawada,South Indian,2,449,30,868,868,Pending,Credit Card,,,Not Assigned
+FD11016,2025-09-30,21:15,C0030,Customer_0096,Tandoori Treats,Hyderabad,Healthy Food,2,449,30,868,868,Delivered,Credit Card,45.0,3.6,DP032
+FD10910,2025-09-30,22:00,C0347,Customer_0008,Noodle Street,Kolkata,South Indian,1,399,0,399,399,Delivered,UPI,47.0,5.0,DP007
+FD10048,2025-10-01,08:15,C0054,Customer_0394, dosa Point,Vijayawada,Chinese,2,249,0,498,498,Pending,Wallet,,,Not Assigned
+FD10901,2025-10-01,13:45,C0260,Customer_0260,Biryani House,Bengaluru,South Indian,4,149,50,546,546,Delivered,Wallet,50.0,4.2,DP061
+FD10985,2025-10-02,13:45,C0204,Customer_0282, dosa Point,Delhi,South Indian,2,249,0,498,498,Delivered,Debit Card,51.0,4.2,DP074
+FD10630,2025-10-02,18:00,C0121,Customer_0253,Biryani House,Chennai,Chinese,3,449,30,1317,1317,Delivered,Wallet,33.0,3.1,DP062
+FD10435,2025-10-02,20:30,C0352,Customer_0079,Spice Garden,Bengaluru,Healthy Food,2,229,30,428,428,Cancelled,Cash,,,Not Assigned
+FD10538,2025-10-04,08:15,C0214,Customer_0074, dosa Point,Kolkata,Burger,2,349,10,688,688,Cancelled,Cash,,,Not Assigned
+FD10842,2025-10-04,09:30,C0245,Customer_0255,Spice Garden,Kolkata,North Indian,4,99,20,376,376,Delivered,Wallet,51.0,2.6,DP049
+FD10945,2025-10-04,11:00,C0059,Customer_0259,Spice Garden,Pune,Chinese,1,199,0,199,199,Delivered,Debit Card,45.0,5.0,DP001
+FD10301,2025-10-04,12:00,C0100,Customer_0078,Burger Hub,Hyderabad,South Indian,2,499,0,998,998,Delivered,Wallet,55.0,4.0,DP006
+FD10023,2025-10-04,14:00,C0311,Customer_0348,South Meals,Pune,South Indian,2,149,30,268,268,Delivered,Wallet,41.0,4.9,DP067
+FD10319,2025-10-04,14:00,C0240,Customer_0228,Biryani House,Pune,Biryani,1,399,50,349,349,Delivered,Cash,24.0,4.8,DP011
+FD10460,2025-10-05,09:00,C0333,Customer_0357,South Meals,Bengaluru,South Indian,2,99,0,198,198,Pending,Debit Card,,,Not Assigned
+FD10556,2025-10-06,15:30,C0016,Customer_0173,Tandoori Treats,Vijayawada,Healthy Food,2,249,30,468,468,Delivered,Credit Card,22.0,4.3,DP062
+FD10442,2025-10-06,19:15,C0224,Customer_0368,Noodle Street,Delhi,Healthy Food,1,99,10,89,89,Delivered,Wallet,23.0,5.0,DP031
+FD10228,2025-10-07,08:45,C0004,Customer_0132,Green Bowl,Hyderabad,South Indian,2,179,0,358,358,Delivered,UPI,40.0,3.5,DP071
+FD10361,2025-10-07,12:15,C0126,Customer_0069,Noodle Street,Hyderabad,Pizza,4,229,10,906,906,Delivered,Cash,34.0,4.0,DP061
+FD10087,2025-10-07,13:00,C0168,Customer_0391,Tandoori Treats,Pune,North Indian,2,349,10,688,688,Pending,Wallet,,,Not Assigned
+FD10339,2025-10-07,16:00,C0152,Customer_0014,Biryani House,Hyderabad,Pizza,3,229,0,687,687,Delivered,UPI,35.0,4.0,DP012
+FD10499,2025-10-07,18:15,C0058,Customer_0201,Spice Garden,Pune,North Indian,1,499,20,479,479,Delivered,Cash,16.0,4.1,DP015
+FD10832,2025-10-08,16:00,C0294,Customer_0125,Biryani House,Mumbai,Biryani,2,249,0,498,498,Pending,Wallet,,,Not Assigned
+FD10354,2025-10-08,17:45,C0238,Customer_0070,Green Bowl,Hyderabad,Desserts,1,99,20,79,79,Delivered,Cash,30.0,3.5,DP079
+FD10731,2025-10-09,10:30,C0312,Customer_0182,Burger Hub,Chennai,South Indian,2,449,30,868,868,Delivered,Debit Card,44.0,5.0,DP070
+FD10860,2025-10-09,18:45,C0335,Customer_0256,Pizza Corner,Delhi,Chinese,3,399,0,1197,1197,Delivered,Debit Card,51.0,4.6,DP062
+FD11118,2025-10-09,19:15,C0031,Customer_0330,Pizza Corner,Chennai,Healthy Food,1,149,50,99,99,Pending,Cash,,,Not Assigned
+FD10937,2025-10-09,21:30,C0117,Customer_0190,Green Bowl,Pune,Biryani,2,149,10,288,288,Delivered,Debit Card,28.0,3.3,DP039
+FD10316,2025-10-10,08:45,C0090,Customer_0104, dosa Point,Hyderabad,Healthy Food,2,399,30,768,768,Pending,Cash,,,Not Assigned
+FD10176,2025-10-10,09:00,C0018,Customer_0149,Burger Hub,Pune,Desserts,2,99,0,198,198,Delivered,Debit Card,44.0,5.0,DP040
+FD10736,2025-10-10,09:30,C0391,Customer_0383,Tandoori Treats,Pune,North Indian,2,199,0,398,398,Pending,UPI,,,Not Assigned
+FD10611,2025-10-10,13:30,C0062,Customer_0229,Burger Hub,Bengaluru,Desserts,2,249,0,498,498,Delivered,Cash,31.0,5.0,DP025
+FD11120,2025-10-10,16:15,C0146,Customer_0033,South Meals,Kolkata,Burger,1,349,50,299,299,Delivered,Cash,28.0,5.0,DP009
+FD10133,2025-10-10,22:00,C0269,Customer_0267,Green Bowl,Vijayawada,Desserts,3,199,30,567,567,Pending,Debit Card,,,Not Assigned
+FD10164,2025-10-11,18:00,C0201,Customer_0180, dosa Point,Mumbai,Healthy Food,2,199,50,348,348,Delivered,Wallet,60.0,4.3,DP052
+FD10573,2025-10-11,18:45,C0163,Customer_0015,Cafe Delight,Chennai,North Indian,4,99,20,376,376,Cancelled,Credit Card,,,Not Assigned
+FD10322,2025-10-11,19:00,C0042,Customer_0324,Biryani House,Bengaluru,Healthy Food,1,129,30,99,99,Delivered,UPI,25.0,5.0,DP072
+FD10158,2025-10-11,19:45,C0039,Customer_0072,Noodle Street,Delhi,Desserts,2,349,10,688,688,Delivered,Debit Card,33.0,4.8,DP063
+FD10808,2025-10-12,09:15,C0354,Customer_0035,Pizza Corner,Delhi,Chinese,1,449,0,449,449,Delivered,Debit Card,42.0,4.4,DP068
+FD10468,2025-10-12,12:30,C0204,Customer_0267, dosa Point,Hyderabad,Healthy Food,2,149,0,298,298,Delivered,Debit Card,31.0,4.4,DP036
+FD10518,2025-10-12,15:00,C0327,Customer_0242, dosa Point,Vijayawada,Chinese,1,99,30,69,69,Delivered,Credit Card,23.0,4.0,DP057
+FD11197,2025-10-12,17:45,C0374,Customer_0142,Pizza Corner,Hyderabad,Pizza,2,129,50,208,208,Delivered,Debit Card,29.0,3.5,DP025
+FD10169,2025-10-13,08:00,C0293,Customer_0371,South Meals,Mumbai,Chinese,2,229,0,458,458,Pending,Credit Card,,,Not Assigned
+FD10320,2025-10-13,08:45,C0219,Customer_0151,South Meals,Vijayawada,Desserts,2,199,50,348,348,Cancelled,Wallet,,,Not Assigned
+FD10717,2025-10-13,11:45,C0243,Customer_0021,Cafe Delight,Vijayawada,South Indian,2,199,0,398,398,Cancelled,Credit Card,,,Not Assigned
+FD11041,2025-10-13,13:30,C0107,Customer_0390,Cafe Delight,Pune,Biryani,2,399,0,798,798,Delivered,UPI,37.0,4.4,DP075
+FD10560,2025-10-13,20:00,C0307,Customer_0338, dosa Point,Vijayawada,South Indian,2,349,30,668,668,Delivered,UPI,41.0,4.7,DP037
+FD10795,2025-10-13,23:30,C0185,Customer_0220,Tandoori Treats,Bengaluru,Chinese,1,99,20,79,79,Delivered,Credit Card,38.0,3.6,DP012
+FD11151,2025-10-14,11:00,C0356,Customer_0338,Pizza Corner,Delhi,Burger,2,399,0,798,798,Cancelled,Debit Card,,,Not Assigned
+FD10761,2025-10-15,08:15,C0047,Customer_0359,Green Bowl,Delhi,Pizza,2,129,0,258,258,Pending,Cash,,,Not Assigned
+FD10363,2025-10-15,16:45,C0271,Customer_0123,Spice Garden,Vijayawada,North Indian,3,399,30,1167,1167,Delivered,Debit Card,34.0,3.8,DP052
+FD10392,2025-10-15,18:30,C0154,Customer_0176,Spice Garden,Bengaluru,Chinese,2,129,20,238,238,Pending,Credit Card,,,Not Assigned
+FD11059,2025-10-15,19:00,C0382,Customer_0097,Pizza Corner,Pune,Burger,2,179,50,308,308,Pending,Wallet,,,Not Assigned
+FD10300,2025-10-16,09:00,C0066,Customer_0234,Noodle Street,Kolkata,Healthy Food,1,129,10,119,119,Delivered,Wallet,12.0,4.4,DP023
+FD10943,2025-10-16,11:45,C0149,Customer_0087,Cafe Delight,Kolkata,North Indian,1,349,0,349,349,Delivered,Credit Card,40.0,3.6,DP027
+FD11081,2025-10-16,13:00,C0224,Customer_0150,South Meals,Pune,North Indian,1,129,0,129,129,Delivered,Debit Card,52.0,4.8,DP049
+FD10723,2025-10-16,14:00,C0387,Customer_0095,Noodle Street,Delhi,North Indian,1,299,10,289,289,Delivered,Credit Card,53.0,4.2,DP066
+FD10479,2025-10-16,17:15,C0253,Customer_0344,Pizza Corner,Vijayawada,Biryani,4,299,10,1186,1186,Cancelled,Credit Card,,,Not Assigned
+FD11086,2025-10-16,19:45,C0142,Customer_0391, dosa Point,Kolkata,Healthy Food,2,449,0,898,898,Delivered,Wallet,26.0,3.8,DP051
+FD10106,2025-10-16,23:15,C0046,Customer_0106,Green Bowl,Vijayawada,Chinese,1,179,0,179,179,Delivered,UPI,43.0,3.5,DP074
+FD10449,2025-10-17,14:15,C0008,Customer_0379,South Meals,Chennai,Chinese,2,179,20,338,338,Delivered,Wallet,46.0,4.8,DP050
+FD10489,2025-10-17,21:00,C0015,Customer_0053,Cafe Delight,Hyderabad,Chinese,1,499,0,499,499,Cancelled,Wallet,,,Not Assigned
+FD11175,2025-10-18,09:15,C0002,Customer_0321,South Meals,Hyderabad,Biryani,2,499,30,968,968,Delivered,UPI,42.0,3.6,DP075
+FD11042,2025-10-18,20:30,C0167,Customer_0236,South Meals,Vijayawada,Pizza,4,149,0,596,596,Delivered,UPI,32.0,3.1,DP030
+FD10627,2025-10-19,17:15,C0319,Customer_0217,Pizza Corner,Kolkata,Pizza,4,399,20,1576,1576,Delivered,Cash,30.0,3.8,DP007
+FD11117,2025-10-19,18:45,C0181,Customer_0067,South Meals,Pune,North Indian,1,399,30,369,369,Delivered,Cash,38.0,3.2,DP021
+FD10874,2025-10-19,19:00,C0256,Customer_0101,Biryani House,Hyderabad,Desserts,3,229,30,657,657,Delivered,Cash,62.0,4.9,DP054
+FD10119,2025-10-20,14:15,C0372,Customer_0112,Tandoori Treats,Delhi,Biryani,1,349,20,329,329,Cancelled,Wallet,,,Not Assigned
+FD10997,2025-10-20,20:00,C0176,Customer_0063,Cafe Delight,Chennai,South Indian,1,299,0,299,299,Delivered,Debit Card,39.0,4.6,DP006
+FD11146,2025-10-20,21:30,C0086,Customer_0113,Green Bowl,Pune,South Indian,3,399,20,1177,1177,Delivered,Cash,21.0,4.2,DP066
+FD10902,2025-10-21,14:30,C0115,Customer_0236,Pizza Corner,Hyderabad,Healthy Food,1,449,20,429,429,Pending,Cash,,,Not Assigned
+FD10791,2025-10-21,19:45,C0202,Customer_0135, dosa Point,Delhi,South Indian,3,299,10,887,887,Delivered,Credit Card,42.0,5.0,DP043
+FD11097,2025-10-21,20:00,C0023,Customer_0145,South Meals,Mumbai,Biryani,5,179,0,895,895,Pending,Cash,,,Not Assigned
+FD10021,2025-10-21,20:15,C0201,Customer_0393,South Meals,Chennai,Biryani,1,179,20,159,159,Delivered,Credit Card,53.0,4.0,DP065
+FD10227,2025-10-21,20:15,C0169,Customer_0330, dosa Point,Bengaluru,Healthy Food,2,249,0,498,498,Delivered,Wallet,29.0,4.4,DP050
+FD11181,2025-10-21,22:15,C0015,Customer_0235,South Meals,Hyderabad,South Indian,1,199,0,199,199,Cancelled,Cash,,,Not Assigned
+FD10200,2025-10-22,16:30,C0356,Customer_0030,Burger Hub,Kolkata,Pizza,1,179,0,179,179,Pending,Wallet,,,Not Assigned
+FD11056,2025-10-22,21:15,C0215,Customer_0126,Cafe Delight,Vijayawada,Healthy Food,2,449,30,868,868,Delivered,Credit Card,54.0,2.7,DP021
+FD11154,2025-10-23,08:15,C0279,Customer_0194,Green Bowl,Delhi,Burger,1,349,0,349,349,Delivered,Wallet,58.0,3.1,DP049
+FD11030,2025-10-23,11:00,C0038,Customer_0359,Cafe Delight,Kolkata,Chinese,1,229,20,209,209,Delivered,UPI,15.0,4.7,DP059
+FD11054,2025-10-23,11:45,C0252,Customer_0243, dosa Point,Delhi,Burger,3,149,50,397,397,Delivered,Debit Card,39.0,2.8,DP039
+FD10081,2025-10-23,15:30,C0017,Customer_0274,South Meals,Delhi,South Indian,3,149,0,447,447,Delivered,Wallet,18.0,3.8,DP068
+FD11155,2025-10-24,14:30,C0141,Customer_0308, dosa Point,Chennai,Desserts,1,129,0,129,129,Delivered,Wallet,19.0,2.6,DP066
+FD10256,2025-10-25,15:30,C0143,Customer_0099,Noodle Street,Mumbai,North Indian,2,349,20,678,678,Delivered,Wallet,25.0,3.5,DP020
+FD11119,2025-10-26,08:15,C0343,Customer_0321,Tandoori Treats,Hyderabad,North Indian,2,229,0,458,458,Delivered,UPI,41.0,3.9,DP038
+FD10370,2025-10-26,20:00,C0368,Customer_0212,Spice Garden,Bengaluru,Biryani,3,399,0,1197,1197,Delivered,Debit Card,42.0,4.4,DP001
+FD10980,2025-10-27,19:00,C0307,Customer_0131,Spice Garden,Delhi,Biryani,1,499,0,499,499,Pending,Debit Card,,,Not Assigned
+FD10914,2025-10-27,19:30,C0065,Customer_0295,Burger Hub,Delhi,Pizza,1,349,0,349,349,Pending,Cash,,,Not Assigned
+FD10858,2025-10-28,13:00,C0081,Customer_0374,Burger Hub,Chennai,Desserts,3,349,0,1047,1047,Pending,Cash,,,Not Assigned
+FD10625,2025-10-28,16:00,C0122,Customer_0380, dosa Point,Kolkata,South Indian,1,299,0,299,299,Delivered,UPI,21.0,4.2,DP050
+FD10094,2025-10-28,19:30,C0289,Customer_0270,Pizza Corner,Delhi,Healthy Food,2,179,10,348,348,Delivered,Cash,38.0,3.9,DP059
+FD11133,2025-10-29,08:15,C0206,Customer_0038,Green Bowl,Bengaluru,Biryani,3,199,0,597,597,Delivered,Credit Card,41.0,4.1,DP005
+FD10521,2025-10-29,12:45,C0026,Customer_0210,Tandoori Treats,Chennai,Biryani,2,229,10,448,448,Delivered,Debit Card,51.0,4.5,DP053
+FD11159,2025-10-29,12:45,C0324,Customer_0059,Pizza Corner,Delhi,Pizza,2,199,0,398,398,Delivered,Wallet,41.0,3.8,DP002
+FD10341,2025-10-29,22:15,C0027,Customer_0220,Pizza Corner,Chennai,Healthy Food,1,99,0,99,99,Delivered,UPI,12.0,4.5,DP044
+FD11131,2025-10-30,12:15,C0052,Customer_0015,South Meals,Bengaluru,Desserts,3,149,10,437,437,Delivered,Debit Card,34.0,4.0,DP058
+FD10662,2025-10-30,18:15,C0181,Customer_0057,Cafe Delight,Mumbai,Burger,2,449,50,848,848,Cancelled,Debit Card,,,Not Assigned
+FD10882,2025-10-30,19:15,C0359,Customer_0366,Pizza Corner,Chennai,Biryani,1,179,0,179,179,Delivered,Credit Card,37.0,3.5,DP047
+FD10781,2025-10-30,19:45,C0061,Customer_0018,Green Bowl,Bengaluru,Biryani,1,229,30,199,199,Delivered,Credit Card,15.0,3.6,DP013
+FD10714,2025-10-30,22:00,C0062,Customer_0046,Tandoori Treats,Chennai,Healthy Food,2,129,30,228,228,Pending,Wallet,,,Not Assigned
+FD11099,2025-10-30,22:00,C0074,Customer_0049,Burger Hub,Bengaluru,South Indian,2,149,30,268,268,Delivered,Debit Card,35.0,4.5,DP048
+FD10274,2025-10-31,11:00,C0185,Customer_0322,Noodle Street,Chennai,South Indian,4,149,0,596,596,Cancelled,Credit Card,,,Not Assigned
+FD10265,2025-10-31,12:30,C0222,Customer_0315,Cafe Delight,Chennai,South Indian,1,449,30,419,419,Cancelled,Debit Card,,,Not Assigned
+FD10076,2025-10-31,15:00,C0311,Customer_0358,Green Bowl,Hyderabad,Pizza,5,349,10,1735,1735,Delivered,Cash,44.0,4.0,DP029
+FD10302,2025-10-31,19:30,C0222,Customer_0373,Burger Hub,Vijayawada,Healthy Food,2,179,30,328,328,Delivered,Debit Card,46.0,3.7,DP006
+FD10324,2025-10-31,23:00,C0101,Customer_0009,Biryani House,Hyderabad,Burger,4,129,10,506,506,Delivered,Debit Card,21.0,3.7,DP063
+FD11021,2025-11-01,08:15,C0161,Customer_0149,Biryani House,Hyderabad,North Indian,1,99,50,49,49,Delivered,Wallet,33.0,3.8,DP009
+FD10675,2025-11-01,13:45,C0087,Customer_0020,Spice Garden,Pune,Pizza,1,399,0,399,399,Delivered,Cash,32.0,3.3,DP004
+FD10405,2025-11-01,16:00,C0094,Customer_0261,Pizza Corner,Pune,Healthy Food,3,149,10,437,437,Delivered,Wallet,38.0,3.6,DP057
+FD10792,2025-11-02,09:15,C0106,Customer_0165,Tandoori Treats,Kolkata,South Indian,1,299,30,269,269,Delivered,UPI,44.0,3.6,DP067
+FD10772,2025-11-02,11:30,C0398,Customer_0176,Green Bowl,Bengaluru,Burger,2,349,20,678,678,Cancelled,Cash,,,Not Assigned
+FD10378,2025-11-02,18:15,C0002,Customer_0243,Noodle Street,Chennai,Burger,1,449,0,449,449,Delivered,Wallet,31.0,3.9,DP016
+FD10187,2025-11-03,17:00,C0136,Customer_0280,Noodle Street,Kolkata,North Indian,1,399,10,389,389,Cancelled,Credit Card,,,Not Assigned
+FD10043,2025-11-03,22:00,C0310,Customer_0173,Green Bowl,Delhi,Chinese,1,99,20,79,79,Delivered,Debit Card,52.0,5.0,DP005
+FD10248,2025-11-04,18:45,C0088,Customer_0371,Cafe Delight,Chennai,Pizza,2,99,20,178,178,Delivered,Credit Card,29.0,3.4,DP048
+FD10798,2025-11-04,19:15,C0220,Customer_0289,Cafe Delight,Hyderabad,Chinese,3,229,30,657,657,Delivered,UPI,35.0,2.9,DP034
+FD10425,2025-11-04,23:15,C0388,Customer_0100,Biryani House,Bengaluru,Biryani,2,129,10,248,248,Delivered,Credit Card,39.0,4.6,DP030
+FD11169,2025-11-05,12:45,C0378,Customer_0228,Burger Hub,Vijayawada,South Indian,1,229,0,229,229,Cancelled,Debit Card,,,Not Assigned
+FD10018,2025-11-05,14:30,C0275,Customer_0398,Cafe Delight,Pune,North Indian,3,249,30,717,717,Delivered,Wallet,44.0,3.7,DP036
+FD11069,2025-11-05,21:00,C0115,Customer_0383,South Meals,Kolkata,Pizza,1,299,50,249,249,Delivered,Credit Card,30.0,5.0,DP011
+FD10068,2025-11-06,08:15,C0208,Customer_0043,Biryani House,Mumbai,North Indian,3,399,50,1147,1147,Delivered,Cash,45.0,5.0,DP051
+FD10294,2025-11-06,15:15,C0265,Customer_0205,Biryani House,Kolkata,Burger,1,99,20,79,79,Delivered,Credit Card,45.0,4.3,DP052
+FD10741,2025-11-07,08:15,C0308,Customer_0146,Green Bowl,Vijayawada,Pizza,1,299,50,249,249,Delivered,Wallet,34.0,4.4,DP003
+FD10424,2025-11-07,09:30,C0234,Customer_0163,South Meals,Delhi,Pizza,5,449,30,2215,2215,Pending,Cash,,,Not Assigned
+FD10956,2025-11-07,21:15,C0237,Customer_0113,Noodle Street,Bengaluru,Chinese,1,199,30,169,169,Delivered,Credit Card,46.0,3.7,DP048
+FD10894,2025-11-08,16:45,C0270,Customer_0127,Biryani House,Kolkata,Burger,1,399,30,369,369,Delivered,Wallet,36.0,4.9,DP046
+FD10716,2025-11-08,19:30,C0255,Customer_0353,Noodle Street,Delhi,Healthy Food,2,229,0,458,458,Delivered,Wallet,42.0,4.6,DP065
+FD10653,2025-11-08,21:45,C0175,Customer_0336,Burger Hub,Pune,Healthy Food,3,449,20,1327,1327,Pending,UPI,,,Not Assigned
+FD10381,2025-11-09,08:45,C0208,Customer_0075,Burger Hub,Chennai,Pizza,2,179,0,358,358,Delivered,Credit Card,38.0,3.9,DP064
+FD11164,2025-11-09,10:45,C0153,Customer_0156,South Meals,Hyderabad,Chinese,2,499,0,998,998,Delivered,Credit Card,31.0,4.1,DP067
+FD11172,2025-11-09,18:15,C0150,Customer_0361,Tandoori Treats,Delhi,Desserts,4,129,20,496,496,Delivered,Cash,46.0,4.8,DP028
+FD10778,2025-11-09,18:45,C0337,Customer_0132,Noodle Street,Pune,South Indian,4,449,50,1746,1746,Delivered,Cash,37.0,2.7,DP013
+FD10534,2025-11-10,10:45,C0328,Customer_0056,Spice Garden,Mumbai,North Indian,1,99,20,79,79,Delivered,UPI,66.0,4.3,DP065
+FD10402,2025-11-10,11:00,C0161,Customer_0094,Biryani House,Chennai,South Indian,3,129,30,357,357,Pending,Cash,,,Not Assigned
+FD10025,2025-11-10,18:45,C0142,Customer_0291,South Meals,Vijayawada,Biryani,2,399,0,798,798,Delivered,Wallet,33.0,2.7,DP061
+FD10191,2025-11-11,14:00,C0368,Customer_0247, dosa Point,Chennai,Biryani,1,229,30,199,199,Delivered,Cash,34.0,4.5,DP076
+FD10735,2025-11-11,17:45,C0221,Customer_0015,Burger Hub,Hyderabad,Healthy Food,1,149,0,149,149,Delivered,UPI,27.0,3.5,DP011
+FD10940,2025-11-11,22:30,C0110,Customer_0114,Burger Hub,Pune,South Indian,2,149,50,248,248,Delivered,Wallet,41.0,4.6,DP032
+FD10695,2025-11-12,09:30,C0114,Customer_0389,Tandoori Treats,Chennai,Pizza,2,249,0,498,498,Delivered,Debit Card,26.0,4.6,DP075
+FD10380,2025-11-12,14:30,C0185,Customer_0029,Pizza Corner,Pune,Biryani,1,99,0,99,99,Delivered,Credit Card,34.0,3.9,DP029
+FD11040,2025-11-12,17:30,C0321,Customer_0010,Pizza Corner,Kolkata,Pizza,2,399,0,798,798,Delivered,UPI,30.0,5.0,DP072
+FD11141,2025-11-12,19:45,C0076,Customer_0015,Tandoori Treats,Pune,Pizza,3,299,50,847,847,Delivered,Cash,26.0,3.6,DP009
+FD10050,2025-11-12,21:45,C0257,Customer_0164,Burger Hub,Hyderabad,Healthy Food,2,199,20,378,378,Cancelled,UPI,,,Not Assigned
+FD10647,2025-11-13,21:15,C0134,Customer_0391,Biryani House,Delhi,Pizza,1,249,20,229,229,Cancelled,Cash,,,Not Assigned
+FD10661,2025-11-13,21:15,C0277,Customer_0271, dosa Point,Mumbai,Desserts,3,249,10,737,737,Cancelled,Credit Card,,,Not Assigned
+FD10323,2025-11-13,21:45,C0261,Customer_0221,Burger Hub,Pune,Burger,4,149,0,596,596,Delivered,Credit Card,42.0,4.7,DP012
+FD10846,2025-11-13,23:45,C0374,Customer_0282,Cafe Delight,Pune,Chinese,1,299,0,299,299,Delivered,Cash,46.0,3.0,DP007
+FD10197,2025-11-14,12:15,C0008,Customer_0325, dosa Point,Vijayawada,South Indian,2,449,0,898,898,Cancelled,Cash,,,Not Assigned
+FD10441,2025-11-14,15:45,C0141,Customer_0093,Pizza Corner,Mumbai,South Indian,1,249,10,239,239,Delivered,Debit Card,20.0,4.0,DP015
+FD10184,2025-11-14,21:15,C0384,Customer_0044,Tandoori Treats,Kolkata,Burger,2,179,0,358,358,Delivered,Debit Card,32.0,4.2,DP035
+FD10952,2025-11-14,22:15,C0244,Customer_0215, dosa Point,Chennai,Healthy Food,1,499,0,499,499,Cancelled,Cash,,,Not Assigned
+FD11023,2025-11-14,23:45,C0292,Customer_0062,Spice Garden,Chennai,North Indian,1,129,0,129,129,Pending,Credit Card,,,Not Assigned
+FD10434,2025-11-15,08:00,C0152,Customer_0302,Green Bowl,Chennai,Desserts,1,149,0,149,149,Cancelled,Debit Card,,,Not Assigned
+FD11013,2025-11-15,11:45,C0193,Customer_0399, dosa Point,Chennai,Desserts,4,349,10,1386,1386,Pending,UPI,,,Not Assigned
+FD10869,2025-11-15,13:00,C0386,Customer_0052,Biryani House,Hyderabad,South Indian,1,179,50,129,129,Delivered,UPI,44.0,3.9,DP038
+FD11166,2025-11-15,19:00,C0089,Customer_0177,Green Bowl,Hyderabad,Desserts,4,199,0,796,796,Delivered,Wallet,53.0,3.8,DP015
+FD11033,2025-11-16,09:00,C0245,Customer_0360,Spice Garden,Kolkata,Healthy Food,2,399,0,798,798,Delivered,Wallet,41.0,3.4,DP009
+FD11031,2025-11-16,09:45,C0214,Customer_0115,Biryani House,Hyderabad,North Indian,2,149,0,298,298,Delivered,UPI,32.0,3.7,DP067
+FD10995,2025-11-16,10:45,C0085,Customer_0269,Biryani House,Kolkata,Pizza,1,179,30,149,149,Delivered,Credit Card,50.0,3.9,DP030
+FD10041,2025-11-16,21:00,C0324,Customer_0385,Cafe Delight,Delhi,Burger,1,199,30,169,169,Delivered,Wallet,42.0,3.7,DP011
+FD10938,2025-11-16,22:45,C0069,Customer_0030,Burger Hub,Vijayawada,Biryani,1,199,0,199,199,Delivered,Debit Card,44.0,3.9,DP059
+FD10385,2025-11-17,10:45,C0130,Customer_0352,Pizza Corner,Delhi,Chinese,1,249,0,249,249,Delivered,Wallet,38.0,3.4,DP058
+FD11012,2025-11-17,12:30,C0013,Customer_0118,Tandoori Treats,Vijayawada,Chinese,3,179,50,487,487,Cancelled,Credit Card,,,Not Assigned
+FD10620,2025-11-17,23:45,C0342,Customer_0133,South Meals,Delhi,Biryani,2,499,0,998,998,Pending,Wallet,,,Not Assigned
+FD10966,2025-11-18,10:15,C0224,Customer_0179,Green Bowl,Hyderabad,South Indian,1,299,50,249,249,Delivered,Cash,38.0,3.8,DP039
+FD10391,2025-11-18,12:00,C0022,Customer_0269,Spice Garden,Chennai,Healthy Food,1,399,10,389,389,Cancelled,UPI,,,Not Assigned
+FD11090,2025-11-18,12:15,C0163,Customer_0119,Biryani House,Delhi,South Indian,2,299,30,568,568,Pending,UPI,,,Not Assigned
+FD10351,2025-11-19,14:15,C0268,Customer_0013,Cafe Delight,Hyderabad,Biryani,5,199,10,985,985,Cancelled,UPI,,,Not Assigned
+FD10358,2025-11-19,14:30,C0053,Customer_0399, dosa Point,Vijayawada,Healthy Food,1,199,0,199,199,Pending,Debit Card,,,Not Assigned
+FD10512,2025-11-19,16:00,C0339,Customer_0072,Pizza Corner,Hyderabad,Burger,1,499,30,469,469,Cancelled,Credit Card,,,Not Assigned
+FD10984,2025-11-20,10:45,C0145,Customer_0156,Pizza Corner,Vijayawada,Burger,4,129,50,466,466,Delivered,UPI,46.0,4.3,DP077
+FD11144,2025-11-20,11:15,C0389,Customer_0148,Cafe Delight,Vijayawada,North Indian,4,229,0,916,916,Cancelled,Debit Card,,,Not Assigned
+FD11110,2025-11-20,19:45,C0377,Customer_0102,Noodle Street,Chennai,North Indian,1,399,20,379,379,Pending,Credit Card,,,Not Assigned
+FD10222,2025-11-20,20:00,C0372,Customer_0230,Spice Garden,Hyderabad,South Indian,1,449,30,419,419,Delivered,UPI,55.0,4.1,DP072
+FD10496,2025-11-21,14:00,C0009,Customer_0190,Biryani House,Mumbai,North Indian,2,149,10,288,288,Delivered,Debit Card,42.0,3.7,DP020
+FD10487,2025-11-21,15:00,C0130,Customer_0293,Spice Garden,Mumbai,South Indian,3,449,0,1347,1347,Cancelled,Credit Card,,,Not Assigned
+FD10229,2025-11-21,17:00,C0292,Customer_0244,Noodle Street,Hyderabad,South Indian,2,349,20,678,678,Delivered,Cash,32.0,3.7,DP029
+FD10408,2025-11-22,08:15,C0208,Customer_0169, dosa Point,Vijayawada,Pizza,2,449,0,898,898,Delivered,UPI,33.0,3.8,DP018
+FD10848,2025-11-22,08:15,C0157,Customer_0388, dosa Point,Chennai,South Indian,2,499,0,998,998,Delivered,Credit Card,22.0,4.1,DP017
+FD10238,2025-11-22,13:15,C0085,Customer_0045,Cafe Delight,Kolkata,Desserts,4,299,50,1146,1146,Delivered,Wallet,36.0,3.3,DP067
+FD10982,2025-11-22,13:15,C0358,Customer_0378,Noodle Street,Bengaluru,Healthy Food,4,349,30,1366,1366,Delivered,Cash,44.0,3.7,DP026
+FD10097,2025-11-23,09:45,C0113,Customer_0012,Biryani House,Chennai,North Indian,5,149,0,745,745,Delivered,Debit Card,32.0,4.2,DP012
+FD10154,2025-11-23,10:00,C0128,Customer_0238,Cafe Delight,Chennai,South Indian,1,499,30,469,469,Pending,Cash,,,Not Assigned
+FD10623,2025-11-23,18:00,C0297,Customer_0081,Tandoori Treats,Pune,Healthy Food,3,229,0,687,687,Pending,Debit Card,,,Not Assigned
+FD11147,2025-11-24,09:00,C0085,Customer_0004,Spice Garden,Pune,Pizza,2,179,20,338,338,Cancelled,Debit Card,,,Not Assigned
+FD11035,2025-11-24,13:00,C0190,Customer_0079,Noodle Street,Pune,Pizza,1,399,50,349,349,Delivered,UPI,33.0,3.6,DP062
+FD10113,2025-11-24,22:15,C0205,Customer_0260,Green Bowl,Vijayawada,Healthy Food,3,129,0,387,387,Pending,Wallet,,,Not Assigned
+FD11055,2025-11-24,23:00,C0049,Customer_0146,Noodle Street,Delhi,North Indian,5,499,0,2495,2495,Delivered,Wallet,37.0,3.4,DP024
+FD10046,2025-11-25,13:15,C0260,Customer_0391,Burger Hub,Vijayawada,Healthy Food,3,449,0,1347,1347,Delivered,UPI,41.0,4.6,DP072
+FD11015,2025-11-25,19:45,C0127,Customer_0373,Green Bowl,Chennai,Chinese,4,99,0,396,396,Delivered,Cash,50.0,2.8,DP066
+FD10515,2025-11-26,08:00,C0104,Customer_0204,Biryani House,Pune,South Indian,1,399,50,349,349,Cancelled,Credit Card,,,Not Assigned
+FD10811,2025-11-26,10:15,C0048,Customer_0057,Green Bowl,Mumbai,Biryani,4,449,0,1796,1796,Delivered,Debit Card,48.0,4.6,DP034
+FD11125,2025-11-26,16:45,C0390,Customer_0220,South Meals,Delhi,Burger,1,449,30,419,419,Delivered,Cash,38.0,3.8,DP045
+FD11094,2025-11-26,19:30,C0374,Customer_0129,Tandoori Treats,Mumbai,Burger,1,99,30,69,69,Cancelled,Credit Card,,,Not Assigned
+FD10683,2025-11-26,22:45,C0377,Customer_0372, dosa Point,Chennai,Chinese,1,249,50,199,199,Pending,Wallet,,,Not Assigned
+FD10170,2025-11-27,09:45,C0083,Customer_0186,Burger Hub,Pune,Desserts,4,179,0,716,716,Cancelled,Debit Card,,,Not Assigned
+FD10951,2025-11-27,10:45,C0216,Customer_0317,South Meals,Bengaluru,South Indian,1,399,0,399,399,Pending,Credit Card,,,Not Assigned
+FD10011,2025-11-27,13:15,C0213,Customer_0216,Pizza Corner,Pune,Burger,3,499,0,1497,1497,Delivered,Cash,38.0,4.6,DP030
+FD10598,2025-11-27,21:30,C0235,Customer_0349,South Meals,Pune,Biryani,1,99,0,99,99,Delivered,Cash,28.0,4.4,DP032
+FD11111,2025-11-28,21:45,C0021,Customer_0108,Spice Garden,Chennai,Healthy Food,1,299,0,299,299,Cancelled,Credit Card,,,Not Assigned
+FD11000,2025-11-29,22:30,C0144,Customer_0067,Spice Garden,Delhi,Pizza,1,249,20,229,229,Delivered,Cash,46.0,4.8,DP025
+FD11025,2025-11-30,11:30,C0225,Customer_0103,Cafe Delight,Hyderabad,Burger,3,449,10,1337,1337,Pending,Cash,,,Not Assigned
+FD10801,2025-12-01,08:00,C0250,Customer_0057,Green Bowl,Mumbai,Desserts,2,149,10,288,288,Cancelled,Cash,,,Not Assigned
+FD10976,2025-12-01,12:00,C0400,Customer_0016,Pizza Corner,Vijayawada,Pizza,1,399,50,349,349,Pending,Debit Card,,,Not Assigned
+FD10796,2025-12-01,18:00,C0119,Customer_0357,Noodle Street,Bengaluru,Desserts,2,229,20,438,438,Pending,UPI,,,Not Assigned
+FD10970,2025-12-01,21:00,C0174,Customer_0058,Tandoori Treats,Bengaluru,Desserts,1,149,0,149,149,Delivered,Debit Card,37.0,4.0,DP039
+FD10827,2025-12-02,08:00,C0379,Customer_0248,Spice Garden,Mumbai,Healthy Food,3,179,20,517,517,Delivered,UPI,12.0,3.7,DP066
+FD10500,2025-12-02,15:15,C0112,Customer_0144,Pizza Corner,Bengaluru,Desserts,2,99,30,168,168,Pending,Debit Card,,,Not Assigned
+FD10872,2025-12-03,16:00,C0063,Customer_0019,Noodle Street,Delhi,North Indian,2,229,50,408,408,Pending,Debit Card,,,Not Assigned
+FD10526,2025-12-03,16:30,C0023,Customer_0048,Cafe Delight,Pune,Chinese,2,249,0,498,498,Delivered,UPI,33.0,5.0,DP027
+FD10794,2025-12-04,19:15,C0086,Customer_0320,Burger Hub,Kolkata,Pizza,2,99,0,198,198,Delivered,Cash,33.0,4.4,DP063
+FD10085,2025-12-04,20:15,C0385,Customer_0195,Cafe Delight,Chennai,Desserts,1,349,0,349,349,Delivered,Wallet,42.0,3.8,DP036
+FD10292,2025-12-04,20:30,C0273,Customer_0117,Pizza Corner,Vijayawada,Chinese,3,349,10,1037,1037,Pending,Credit Card,,,Not Assigned
+FD10251,2025-12-04,23:45,C0259,Customer_0373,Burger Hub,Bengaluru,Desserts,1,229,30,199,199,Cancelled,Debit Card,,,Not Assigned
+FD10617,2025-12-05,08:15,C0324,Customer_0156,Tandoori Treats,Hyderabad,Burger,1,399,0,399,399,Delivered,UPI,30.0,4.0,DP066
+FD11046,2025-12-05,09:45,C0224,Customer_0072,South Meals,Vijayawada,Chinese,5,349,50,1695,1695,Cancelled,Debit Card,,,Not Assigned
+FD10577,2025-12-05,22:00,C0124,Customer_0019,Spice Garden,Vijayawada,Desserts,1,399,0,399,399,Cancelled,Wallet,,,Not Assigned
+FD10285,2025-12-06,12:00,C0340,Customer_0129,Green Bowl,Kolkata,North Indian,1,99,20,79,79,Delivered,Credit Card,42.0,4.7,DP070
+FD10504,2025-12-06,13:30,C0176,Customer_0116,Spice Garden,Pune,Burger,3,249,20,727,727,Cancelled,Cash,,,Not Assigned
+FD10056,2025-12-06,15:00,C0338,Customer_0248,Pizza Corner,Kolkata,Burger,4,299,0,1196,1196,Delivered,UPI,17.0,4.1,DP076
+FD10813,2025-12-06,23:00,C0241,Customer_0320,Pizza Corner,Delhi,Desserts,1,349,20,329,329,Delivered,UPI,49.0,4.9,DP026
+FD10168,2025-12-06,23:15,C0344,Customer_0305,Biryani House,Chennai,Pizza,3,149,30,417,417,Delivered,Debit Card,29.0,3.0,DP028
+FD10784,2025-12-07,09:00,C0255,Customer_0072,Green Bowl,Mumbai,South Indian,2,249,0,498,498,Cancelled,Cash,,,Not Assigned
+FD10476,2025-12-07,11:30,C0380,Customer_0168,South Meals,Bengaluru,Biryani,2,99,0,198,198,Delivered,Credit Card,27.0,3.5,DP076
+FD10730,2025-12-07,23:45,C0325,Customer_0010,Noodle Street,Bengaluru,North Indian,2,129,0,258,258,Pending,Debit Card,,,Not Assigned
+FD10364,2025-12-08,10:15,C0166,Customer_0090, dosa Point,Pune,Burger,3,299,50,847,847,Delivered,UPI,38.0,3.7,DP011
+FD10404,2025-12-08,13:15,C0026,Customer_0169,Noodle Street,Chennai,Biryani,2,229,10,448,448,Delivered,UPI,39.0,3.8,DP051
+FD10734,2025-12-08,14:30,C0347,Customer_0232,Tandoori Treats,Kolkata,Healthy Food,1,499,20,479,479,Pending,Cash,,,Not Assigned
+FD10621,2025-12-08,16:30,C0134,Customer_0318,Spice Garden,Delhi,Pizza,2,399,0,798,798,Cancelled,Debit Card,,,Not Assigned
+FD10394,2025-12-08,17:30,C0398,Customer_0278,Burger Hub,Kolkata,Desserts,4,229,30,886,886,Pending,Credit Card,,,Not Assigned
+FD10565,2025-12-08,19:15,C0033,Customer_0111,Pizza Corner,Delhi,Biryani,1,399,20,379,379,Delivered,UPI,39.0,3.2,DP007
+FD10211,2025-12-09,17:45,C0110,Customer_0334,Biryani House,Hyderabad,Desserts,4,499,10,1986,1986,Cancelled,Credit Card,,,Not Assigned
+FD11194,2025-12-10,11:00,C0135,Customer_0013,Spice Garden,Mumbai,Pizza,1,399,30,369,369,Cancelled,Credit Card,,,Not Assigned
+FD10099,2025-12-10,23:00,C0141,Customer_0084,Green Bowl,Kolkata,Healthy Food,2,449,0,898,898,Pending,Debit Card,,,Not Assigned
+FD10020,2025-12-10,23:15,C0268,Customer_0035,Pizza Corner,Delhi,Healthy Food,4,229,0,916,916,Cancelled,Wallet,,,Not Assigned
+FD10096,2025-12-11,15:30,C0022,Customer_0371,Noodle Street,Delhi,Desserts,3,179,50,487,487,Delivered,Debit Card,21.0,4.8,DP016
+FD10029,2025-12-11,23:45,C0324,Customer_0161,South Meals,Hyderabad,North Indian,3,299,0,897,897,Delivered,Debit Card,32.0,4.5,DP028
+FD11132,2025-12-12,08:30,C0119,Customer_0203,Burger Hub,Delhi,Desserts,2,399,0,798,798,Delivered,UPI,54.0,4.5,DP029
+FD10054,2025-12-12,11:00,C0281,Customer_0214,Spice Garden,Kolkata,Healthy Food,2,199,20,378,378,Cancelled,Credit Card,,,Not Assigned
+FD10243,2025-12-12,11:15,C0249,Customer_0203,Burger Hub,Chennai,Healthy Food,2,129,50,208,208,Delivered,Wallet,34.0,3.9,DP026
+FD11161,2025-12-12,12:45,C0198,Customer_0032,Cafe Delight,Vijayawada,Healthy Food,1,349,20,329,329,Delivered,Wallet,27.0,4.6,DP018
+FD10136,2025-12-12,18:45,C0391,Customer_0278, dosa Point,Kolkata,North Indian,1,499,20,479,479,Delivered,Cash,44.0,3.2,DP023
+FD10438,2025-12-12,19:15,C0360,Customer_0385,Cafe Delight,Pune,South Indian,5,229,10,1135,1135,Cancelled,Wallet,,,Not Assigned
+FD10636,2025-12-12,20:00,C0355,Customer_0381,Cafe Delight,Pune,Pizza,2,179,10,348,348,Cancelled,Credit Card,,,Not Assigned
+FD10261,2025-12-12,22:15,C0144,Customer_0384,Cafe Delight,Bengaluru,South Indian,2,229,0,458,458,Delivered,UPI,27.0,3.7,DP055
+FD10853,2025-12-12,23:00,C0359,Customer_0114,South Meals,Delhi,South Indian,1,349,30,319,319,Pending,Cash,,,Not Assigned
+FD10797,2025-12-13,15:45,C0231,Customer_0333,Cafe Delight,Chennai,South Indian,2,399,30,768,768,Delivered,Credit Card,22.0,4.9,DP018
+FD11183,2025-12-13,22:45,C0283,Customer_0007,Spice Garden,Pune,North Indian,2,179,20,338,338,Delivered,Cash,23.0,3.8,DP078
+FD10172,2025-12-14,08:00,C0211,Customer_0323,Cafe Delight,Delhi,Burger,4,149,0,596,596,Pending,Credit Card,,,Not Assigned
+FD10650,2025-12-14,09:15,C0212,Customer_0239,Biryani House,Delhi,Biryani,1,229,0,229,229,Cancelled,Cash,,,Not Assigned
+FD10690,2025-12-14,13:45,C0203,Customer_0288,Green Bowl,Vijayawada,Biryani,1,299,30,269,269,Pending,Wallet,,,Not Assigned
+FD10763,2025-12-14,19:00,C0191,Customer_0389,Tandoori Treats,Kolkata,Chinese,2,149,10,288,288,Delivered,Credit Card,15.0,3.8,DP076
+FD10002,2025-12-15,09:00,C0098,Customer_0144,Burger Hub,Delhi,Healthy Food,2,199,0,398,398,Pending,Cash,,,Not Assigned
+FD11034,2025-12-15,11:00,C0003,Customer_0307,Burger Hub,Vijayawada,Biryani,2,149,10,288,288,Delivered,Credit Card,37.0,5.0,DP061
+FD10461,2025-12-15,11:30,C0153,Customer_0002,Tandoori Treats,Pune,North Indian,3,449,0,1347,1347,Pending,Cash,,,Not Assigned
+FD10291,2025-12-15,16:30,C0366,Customer_0120,Spice Garden,Bengaluru,Desserts,2,449,20,878,878,Pending,Wallet,,,Not Assigned
+FD10239,2025-12-15,18:45,C0278,Customer_0113,Biryani House,Mumbai,Biryani,4,499,30,1966,1966,Cancelled,Credit Card,,,Not Assigned
+FD10340,2025-12-15,19:45,C0214,Customer_0283,Burger Hub,Delhi,South Indian,1,299,0,299,299,Delivered,Cash,35.0,4.0,DP065
+FD10421,2025-12-16,14:15,C0371,Customer_0101,Biryani House,Hyderabad,Pizza,3,199,10,587,587,Delivered,UPI,12.0,3.9,DP072
+FD10867,2025-12-16,15:45,C0041,Customer_0393,South Meals,Bengaluru,Healthy Food,1,149,50,99,99,Delivered,Wallet,36.0,4.6,DP022
+FD10953,2025-12-16,16:45,C0231,Customer_0254,Noodle Street,Kolkata,Biryani,2,299,0,598,598,Delivered,Cash,39.0,4.8,DP010
+FD10950,2025-12-16,22:45,C0285,Customer_0268,South Meals,Hyderabad,South Indian,2,499,10,988,988,Delivered,Credit Card,52.0,3.9,DP002
+FD10744,2025-12-17,16:45,C0246,Customer_0144,Burger Hub,Vijayawada,Burger,1,449,0,449,449,Delivered,Credit Card,32.0,4.6,DP055
+FD10075,2025-12-17,20:15,C0070,Customer_0169,South Meals,Chennai,South Indian,1,299,10,289,289,Cancelled,Debit Card,,,Not Assigned
+FD10140,2025-12-18,10:30,C0351,Customer_0143,Spice Garden,Chennai,South Indian,1,449,20,429,429,Delivered,Debit Card,35.0,4.0,DP059
+FD10246,2025-12-18,20:45,C0173,Customer_0046,Cafe Delight,Mumbai,Healthy Food,2,249,10,488,488,Pending,Wallet,,,Not Assigned
+FD10834,2025-12-18,23:15,C0175,Customer_0123,Burger Hub,Pune,South Indian,1,499,10,489,489,Delivered,Wallet,49.0,2.9,DP044
+FD11062,2025-12-19,09:15,C0130,Customer_0292,South Meals,Vijayawada,Burger,1,229,50,179,179,Delivered,Credit Card,20.0,3.1,DP026
+FD11095,2025-12-19,15:15,C0215,Customer_0251,Cafe Delight,Delhi,Chinese,2,299,0,598,598,Cancelled,Debit Card,,,Not Assigned
+FD10390,2025-12-20,10:15,C0229,Customer_0097,Tandoori Treats,Kolkata,Pizza,2,129,0,258,258,Cancelled,Cash,,,Not Assigned
+FD10377,2025-12-21,09:15,C0243,Customer_0073,Spice Garden,Delhi,Pizza,1,229,0,229,229,Cancelled,Cash,,,Not Assigned
+FD10558,2025-12-21,18:30,C0021,Customer_0147,Noodle Street,Kolkata,Chinese,3,129,0,387,387,Cancelled,Debit Card,,,Not Assigned
+FD10423,2025-12-21,20:00,C0338,Customer_0344,Biryani House,Vijayawada,Desserts,1,99,30,69,69,Pending,Credit Card,,,Not Assigned
+FD10878,2025-12-21,22:15,C0240,Customer_0073,Cafe Delight,Delhi,Biryani,2,249,0,498,498,Pending,Cash,,,Not Assigned
+FD11143,2025-12-22,20:45,C0387,Customer_0279, dosa Point,Hyderabad,South Indian,5,499,0,2495,2495,Delivered,Cash,33.0,3.4,DP013
+FD10999,2025-12-22,22:15,C0032,Customer_0141,Spice Garden,Vijayawada,Desserts,3,299,0,897,897,Cancelled,Debit Card,,,Not Assigned
+FD10699,2025-12-23,08:45,C0268,Customer_0241,Burger Hub,Mumbai,Desserts,2,249,30,468,468,Pending,UPI,,,Not Assigned
+FD10482,2025-12-23,12:15,C0169,Customer_0062, dosa Point,Pune,South Indian,2,99,0,198,198,Delivered,Cash,29.0,4.2,DP079
+FD10541,2025-12-23,23:30,C0356,Customer_0322,Spice Garden,Vijayawada,Chinese,1,149,0,149,149,Delivered,Wallet,39.0,4.6,DP061
+FD10746,2025-12-24,22:15,C0106,Customer_0096,Tandoori Treats,Vijayawada,Pizza,3,229,20,667,667,Delivered,Wallet,30.0,4.6,DP076
+FD10686,2025-12-24,22:45,C0227,Customer_0352, dosa Point,Delhi,Desserts,2,299,50,548,548,Cancelled,UPI,,,Not Assigned
+FD10132,2025-12-25,08:45,C0400,Customer_0215,Burger Hub,Delhi,Desserts,3,449,50,1297,1297,Delivered,Credit Card,37.0,4.0,DP036
+FD10181,2025-12-25,13:45,C0273,Customer_0017,Green Bowl,Hyderabad,North Indian,2,399,20,778,778,Delivered,UPI,31.0,4.4,DP038
+FD10252,2025-12-26,11:30,C0001,Customer_0153,Spice Garden,Mumbai,Chinese,2,99,10,188,188,Cancelled,Debit Card,,,Not Assigned
+FD10830,2025-12-26,11:30,C0275,Customer_0023,Burger Hub,Hyderabad,Burger,1,129,20,109,109,Delivered,Debit Card,45.0,4.7,DP051
+FD10122,2025-12-26,12:15,C0019,Customer_0195, dosa Point,Vijayawada,Healthy Food,3,299,0,897,897,Cancelled,Credit Card,,,Not Assigned
+FD10063,2025-12-26,17:00,C0263,Customer_0292,Pizza Corner,Chennai,South Indian,3,249,20,727,727,Cancelled,Cash,,,Not Assigned
+FD11126,2025-12-26,18:15,C0365,Customer_0068,Pizza Corner,Hyderabad,South Indian,1,129,0,129,129,Cancelled,Wallet,,,Not Assigned
+FD10359,2025-12-26,21:15,C0372,Customer_0011,Spice Garden,Pune,Pizza,3,229,20,667,667,Delivered,Debit Card,26.0,3.4,DP027
+FD10014,2025-12-26,22:00,C0247,Customer_0343,Burger Hub,Mumbai,Pizza,1,149,10,139,139,Pending,UPI,,,Not Assigned
+FD10648,2025-12-27,14:15,C0363,Customer_0208,Noodle Street,Chennai,Desserts,1,99,10,89,89,Delivered,Wallet,32.0,4.6,DP014
+FD11037,2025-12-27,17:45,C0017,Customer_0322,Cafe Delight,Mumbai,Pizza,1,449,10,439,439,Delivered,Cash,39.0,4.3,DP016
+FD10559,2025-12-27,19:30,C0281,Customer_0258,Burger Hub,Pune,South Indian,2,199,50,348,348,Delivered,Credit Card,39.0,4.4,DP070
+FD10899,2025-12-29,11:00,C0019,Customer_0120,South Meals,Bengaluru,Pizza,1,179,30,149,149,Delivered,Wallet,55.0,4.2,DP062
+FD11134,2025-12-29,15:00,C0398,Customer_0235,Noodle Street,Pune,Desserts,3,229,0,687,687,Delivered,Cash,37.0,4.1,DP070
+FD10038,2025-12-30,10:30,C0125,Customer_0037, dosa Point,Mumbai,North Indian,1,449,20,429,429,Cancelled,Debit Card,,,Not Assigned
+FD10631,2025-12-30,13:15,C0322,Customer_0397,Green Bowl,Kolkata,North Indian,2,129,0,258,258,Delivered,Debit Card,47.0,3.2,DP037
+FD11186,2025-12-30,14:30,C0378,Customer_0376,Cafe Delight,Delhi,Desserts,2,129,0,258,258,Delivered,Credit Card,25.0,3.4,DP079
+FD10890,2025-12-31,08:45,C0329,Customer_0061,Biryani House,Vijayawada,Burger,1,179,0,179,179,Cancelled,UPI,,,Not Assigned
+FD10720,2025-12-31,11:00,C0344,Customer_0062,Burger Hub,Chennai,Desserts,4,499,50,1946,1946,Delivered,Cash,37.0,3.8,DP047
+FD10941,2025-12-31,14:30,C0371,Customer_0150,Biryani House,Delhi,Pizza,1,249,10,239,239,Delivered,Wallet,37.0,3.7,DP043
+FD10420,2025-12-31,18:00,C0211,Customer_0048,Green Bowl,Delhi,South Indian,4,499,10,1986,1986,Delivered,Cash,44.0,4.8,DP050
+FD10619,2025-12-31,18:15,C0123,Customer_0218,Noodle Street,Delhi,South Indian,2,129,50,208,208,Cancelled,Debit Card,,,Not Assigned
+FD11101,2025-12-31,18:15,C0347,Customer_0337,Tandoori Treats,Hyderabad,Chinese,1,229,50,179,179,Pending,Wallet,,,Not Assigned
+FD10313,2025-12-31,18:30,C0110,Customer_0254,Cafe Delight,Vijayawada,North Indian,2,179,0,358,358,Delivered,Cash,52.0,5.0,DP053
