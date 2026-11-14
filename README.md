@@ -65,10 +65,13 @@ Important columns include:
 ## Conclusion
 This project helps understand food delivery business performance through interactive visualizations and data analysis. It provides insights into sales trends, customer preferences, and delivery operations.
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+
 ## Conclusion
 This project helps understand food delivery business performance through interactive visualizations.
 
-## Dashboard Preview
 
-![Food Delivery Dashboard](./Dashboard_Screenshots/dashboard.png)
 
