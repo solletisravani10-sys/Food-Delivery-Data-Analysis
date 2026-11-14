@@ -67,7 +67,7 @@ This project helps understand food delivery business performance through interac
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 
 ## Conclusion
